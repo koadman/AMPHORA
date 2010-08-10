@@ -1,0 +1,91 @@
+AMPHORA
+
+AMPHORA is an Automated Phylogenomic Inference Pipeline for bacterial sequences. From a given a set of protein sequences, it automatically identifies 31 phylogenetic marker genes. It then generates high-quality multiple sequence alignments 
+for these genes and make tree-based phylotype assignments.
+
+CITATION
+==============================================================
+Please cite AMPHORA as: Martin Wu and Jonathan A Eisen. A simple, fast, and accurate method of phylogenomic inference Genome Biology 2008, 9:R151
+
+SYSTEM REQUIREMENT
+============================================================== 
+Linux OS (kernel version 2.6 or later)
+
+The following software is required by the AMPHORA package. They need to be downloaded and installed separately from AMPHORA. 
+1. Perl 5.8.8 or later (www.perl.org) 
+2. Bioperl core package 1.5.2 or later  (www.bioperl.org) 
+3. HMMER (hmmer.janelia.org) 4. WU BLAST (blast.wustl.edu)
+
+The following software is included in the AMPHORA distribution. Their source codes have been slightly modified to suit the needs of AMPHORA. 
+1. seqboot (evolution.genetics.washington.edu/phylip) 
+2. quicktree (www.sanger.ac.uk/Software/analysis/quicktree) 
+3. raxml (icwww.epfl.ch/~stamatak/index-Dateien/Page443.htm)
+
+LICENSE
+==============================================================
+AMPHORA Copyright 2008 by Martin Wu
+
+AMPHORA is free software: you may redistribute it and/or modify its under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or any later version.
+
+AMPHORA is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details 
+(http://www.gnu.org/licenses/).
+
+INSTALLATION
+============================================================== 
+1. Download the AMPHORA package AMPHORA.tar.gz from http://bobcat.genomecenter.ucdavis.edu/AMPHORA/download.html
+
+2. Unpack the package 
+ tar -xzvf AMPHORA.tar.gz
+
+3. Install AMPHORA to a user specified directory. Make sure you have write permission to the directory.
+ cd AMPHORA 
+ perl INSTALL.pl -AMPHORA_home user-specified-directory -Bioperl_home path-to-bioperl
+
+PACKAGE CONTENTS
+============================================================== 
+After successful installation, there should be several folders in the home directory of AMPHORA
+1. Marker 
+It contains curated seed multiple sequence alignments of the phylogenetic markers in GDE format (with embedded masks) and associated Hidden Markov Models. Currently there are 31 protein marker genes. They are dnaG, frr, infC, nusA, pgk, pyrG, rplA, rplB, rplC, rplD, rplE, rplF, rplK, rplL, rplM, rplN, rplP, rplS, rplT, rpmA, rpoB, rpsB, rpsC, rpsE, rpsI, rpsJ, rpsK, rpsM, rpsS, smpB, tsf.
+
+2. Reference 
+It contains protein sequences of the marker genes from all complete bacterial genomes.  It also contains a bacterial genome tree that was made from the concatenated protein sequences of all the marker genes. Reference trees for each marker 
+gene were derived from the genome tree by replacing the species names with their corresponding gene names and keeping the topology intact.
+
+3. Taxonomy 
+The NCBI taxonomy database (ftp://ftp.ncbi.nih.gov/pub/taxonomy/) with minor modifications. The changes are listed in the file change.note
+
+4. Scripts 
+Perl scripts for identifying markers, generating trimmed multiple sequence alignments, and assigning phylotypes based on phylogenetic inferences.
+
+5. bin 
+Helper programs
+
+USING AMPHORA
+==============================================================
+1. Phylotying bacterial sequences
+   Usage: AMPHORA_home/Scripts/Phylotyping.pl <options> protein-sequence-file output-file
+   Options:
+	-Replicates: number of bootstrap replicates
+	-BootstrapCutoff: normalized to 100 replicates (1-100)%  default 70
+   Output:
+       foo.pep (identified maker sequences in fasta format, i.e. rpoB.pep)
+       foo.aln (aligned and trimmed marker sequences, i.e., rpoB.aln)
+       Trees/foo.tree (generated phylogenetic trees)
+
+2. Identify marker sequences
+   Usage: perl AMPHORA_home/Scripts/MarkerScanner.pl protein-sequence-file
+   Output: 
+       foo.pep (identified maker sequences in fasta format, i.e., rpoB.pep)
+
+3. Align and trim the marker sequences
+   Usage: perl AMPHORA_home/Scripts/MarkerAlignTrim.pl
+   Options: 
+      -Partial:  query sequences contain partial genes
+      -Trim:  trim the alignment using masks embedded within the marker database
+      -Strict: use a conservative mask
+      -Directory: the file directory where marker sequences are located. Default: current directory
+      -Help:  print the help message
+   Output:
+      foo.aln (aligned and trimmed marker sequences, i.e., rpoB.aln)
+
+
