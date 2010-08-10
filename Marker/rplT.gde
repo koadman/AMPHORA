@@ -1,0 +1,3474 @@
+
+{
+name    "YP_380006-NC_007514/1-115"
+type    "PROTEIN"
+sequence        "MPKANNA--VASRARRK-RILKKAKGFWGARGNVLTVVKHSVDKAEQYAYRDRRAKKRTFRSLWIMRINAAAR--LNGTTYSQLINGMAKNNIQ------IDRKALAEIAVKDAAAFSAIVQAANK------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_905600-NC_008611/1-129"
+type    "PROTEIN"
+sequence        "MARVKRS--VNAHKKRR-SVLKASKGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLADIAITDPAAFTALVDVARAAL---PEDVSAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_663003-NC_002932/1-115"
+type    "PROTEIN"
+sequence        "MPKSTNS--VASKARRK-RILKKAKGYWGSRGNVLTVVKHAVDKAEQYAYRDRRVKKRNFRSLWIMRINAAAR--QNGVSYSRLMDAIHKKNIE------IDRKALAEIAVKDPAAFSLIVKTALD------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_455101-NC_007712/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGISYSRFINGLKKASIE------IDRKILADIAVFDKVAFAALADKAKGDLV---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_326092-NC_002771/1-116"
+type    "PROTEIN"
+sequence        "-MRVKGG--TVTRARRK-KWLKLAKGYWGHKSIGYKVAKQAVVKSWTYAFRDRKQVKRNFRKLWISRINAAVR--PLGMSYSQFINGLKKANVK------INRKMLSELAIREMKTFEMLVSISKSSK----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_562808-NC_003366/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--VNARKNHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRRLKKRDYRRLWIARINAATR--MNGLSYSRFMNGMKLAGVD------INRKMLSEIAINDPKAFADLVELAKKHLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_372202-NC_002758/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001453307-NC_009792/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_589794-NC_008009/1-121"
+type    "PROTEIN"
+sequence        "MPRVKRG--TKRRAKRK-KILERASGYYLTKSKLYRSAKESVERALKFAYTGRKQKKRQYRSIWIVRIGAAAK--LNGLSYSRFISGLKKAGVE------LDRKMLSEIAIHDPQAFAVLAEQAKAAQPAAA------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_744616-NC_002947/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--TNGLSYSRLIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKAVLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_358457-NC_003098/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAVAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001385457-NC_009697/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--MNARKRHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRKLKKRDYRKLWIARINAATR--MNGLSYSKFMNGIKNAGID------INRKMLSEIAINDPKAFAELVDVAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_251431-NC_002516/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARRRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGAR--QNGLSYSRLIAGLKKAAIE------IDRKVLADLAVNEKAAFTAIVEKAKASLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001588222-NC_010102/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_508393-NC_007802/1-119"
+type    "PROTEIN"
+sequence        "MSRTKGG--TVTHRRHK-KVIDAAKGYYGARSTNFRTATQAVDKANQYATRDRKNRKRQFRALWIQRINAAVRQHDEALTYSRFINGLAKAGIE------VDRKVLADLAVHEPDAFSAIVDQAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_959326-NC_008740/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARRRHK-KILNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRRNRKRAFRALWIARINAGAR--ANGLSYSRLIAGLKKANVE------IDRKVLADLAMNEQQAFAAVVEKAKASL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_483667-NC_007778/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKAAKGFRGRRKNTIRAAKAAVDKAGQYAFRDRKRKKRTFRALWIQRINAAVR--PFGMTYSVFINGLSKSGIV------VDRKVLSDLAITEPAAFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_604045-NC_008025/1-119"
+type    "PROTEIN"
+sequence        "MPRVKTG--IVRRRRHK-KVLKRAKGFWGSRSKQYRNAFQTLLNAATYEYRDRRNKKRDFRRLWIQRINAGAR--LHGMNYSTFINGLKVAGVD------LNRKVLADIAAREPEAFQVLVNTAKGARNG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_168793-NC_003911/1-121"
+type    "PROTEIN"
+sequence        "MSRVKGG--TVTHARHK-KVLKAAKGYYGRRKSSFKVATQAVDKANQYATRDRKARKRNFRALWIQRINAAVRSHDEALTYSRFINGLNLAGIE------VDRKVLADLAVHEPEAFGAIVAQAQAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_374790-NC_002745/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_575436-NC_007964/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKITKGFSGRRKNTIRAAKAAADKAGQYAFRDRKRKKRTFRALWIQRLNAAVR--PFGMTYSVFINGLSKSGIT------VDRKVLSDLAINEPAAFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_977774-NC_008769/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASRGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWIARINAAAR--LNDITYNRLIQGLKAAGVE------VDRKNLADIAISDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001126730-NC_009328/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--PVTRRRRK-KVLKLAKGYFGAKHALYRVANQQVMKSLMYAYRDRRQRKRDFRKLWIARINAAAR--QNGLSYSRLMHGLKLAGVE------VNRKMLADLAVNDQAAFAQLADLAKANLNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_696572-NC_008261/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--VNARKNHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRRLKKRDYRRLWIARINAATR--MNGLSYSRFMNGMKLAGVD------INRKMLSEIAINDPKAFADLVELAKKHLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_067544-NC_006142/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKKRHK-KILKLAKGYRGRANSCFRVAIEKVEKALLYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLIYSQFMGALKKAGIN------IDRKVLAELAVNNNDGFTSIVQQSKAYI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001653309-NC_010280/1-123"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRSRRK-RVLKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWITRLNVASR--IHGLSYSRLINGLKQAGIH------LNRKMLSEMAIHDPQGFAVVATQAKLALEAAVQG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001597172-NC_010117/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLTKAKGYYGARSRVFRVAKQAVIKAAQYAYRDRKQRKRQFRALWIVRINAAAR--EHGLSYSRLINGLMKASVA------IDRKNLAELAVYDKAAFGKLAEKAKQALGG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_750709-NC_008345/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALTK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_966160-NC_008751/1-117"
+type    "PROTEIN"
+sequence        "-MRVKRG--LAAHRRHK-KYLDMAKGYRGGRSRLYRTAREAVERSLCYAFRDRKVKKREFRKLWILRINAAAR--LNGLSYSKFMHGLTLAGVE------LNRKVLADLAVREKDDFAKIAELAKSKLN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_971198-NC_008752/1-120"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALSKGFRGRRGNVFRIAKQAVMKAGQYAYRDRRTKKRVFRQLWIARINAASR--ELGLTYSQFTNGLKKAAIE------IDRKMLADLAVHDKAAFGSIVEQVKAKLAAA-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_989562-NC_008783/1-133"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KILKQAEGFYGRRKNTIRAAKAAVDRSKQYAYRDRKNRKRTFRALWIQRINAAVR--MEGLTYGRFIDGLSKAGIE------IDRKVLSDIAIHEPTVFSALVASAKKALEYLKDT-TPNAFEGAVK-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_980997-NC_003909/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001212503-NC_009454/1-117"
+type    "PROTEIN"
+sequence        "MPRAKSS--VVSRKRHK-KILKLAKGYRGAKSKLYRIANQQVMKSLVYAYRDRKARKRDFRKLWITRINAAAR--MNGISYSRLMNGLKLAGVD------INRKMLADMAVNDAQAFGRLVEIAKAKL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_755363-NC_008347/1-118"
+type    "PROTEIN"
+sequence        "MSRVTSG--PATAKRHK-SVIKKAKGYYGRRKNTFRVAVQAVEKAGQYAYRDRRAKKRNFRALWIQRINAGARQH--EMSYSVFMNGLTKAGIE------VDRKVLADIAMHEPDAFKALVDQARAALG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_530342-NC_007925/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKLAKGFRGRRKNTIRTAKAAVDKAGQYAFRDRKRKKRTFRALWIQRINAAVR--PLGMTYSVFINGLAKSGVM------VDRKVLSDLAITEPAAFLAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_802576-NC_004606/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001492079-NC_009879/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIAKVEKALQYAYRDRRNRKRNFRGLWIQRINAAVR--THGLIYSQFMGTLKKAGID------IDRKVLAELAVNNSDGFASIVEKAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_416231-NC_000913/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_380391-NC_007516/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGGNGTLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--LNGVSYSRLMGGLKKADVR------LNRKMLAQLAVVDPGSFTNVVAAAKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001344741-NC_009655/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNSLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKSVL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001308701-NC_009617/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--KNSRKNHK-KVLKLAKGYYGGKSKLYKTANESVIRALRNSYVGRKNKKRDYRSLWIARINAATR--INNLSYSKFMNGIKLAGID------INRKMLSEIAINDPKAFTELVEVAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_869682-NC_008577/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_540916-NC_007946/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001187472-NC_009439/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGAR--VNGLSYSRLIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKAVLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_430600-NC_007644/1-121"
+type    "PROTEIN"
+sequence        "MARVKRG--VTKHQRHK-KILKLAKGYFGAKSKLFRPANEQVIKSLAYAYAHRRQRKGDFRKLWIARINAAAR--MNGINYSRLVNGLKKAGVE------INRKMLADMAVNDQAGFNRLVDIAKEKLGLGA------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001035442-NC_009009/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_115771-NC_006360/1-117"
+type    "PROTEIN"
+sequence        "-MRVKGG--STTRQRRR-RWLKLAKGYWGHKSIGFKTAKQAVVKSWTYAFRDRKQRKRDFRKLWISRINAAAR--NQGISYSQLMHKIKQSNIE------INRKMLAEMAIHHQSDFENIVKLAIAKSA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_302783-NC_007354/1-124"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTRARHK-KVIKLAKGYRGRSKNCYRIALQRVEKALQYAYRDRRNRKRFFRSLWIMRINAAAR--QHGLLYSDFIHGLSLANIT------LNRKVLADMAVNNQDNFKQIVDITKEALTKSRVAQ---------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_274357-NC_005773/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--VNGLSYSRFIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKATLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_912916-NC_008639/1-115"
+type    "PROTEIN"
+sequence        "MPKANNA--VASRARRK-RILKKAKGFWGSRGNILTVVKHAVDKAEQYAYRDRRAKKRTFRSLWIMRINAAAR--LNGTTYSKMVNAMSKKSIE------IDRKTLAEIAVKDPAAFSQIVKAVIE------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_465308-NC_003210/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KIVKLAKGYYGSKHLLFKVANQAVMKSYQYAYRDRRQKKRDFRRLWIARINAAAR--MQDLSYSKLMHGLKLAGID------INRKMLADLAVNDIASFNTLADSAKKALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_709629-NC_008277/1-115"
+type    "PROTEIN"
+sequence        "MARAKNG--TVHVARRK-RILKKTKGFWGTKKSNYKKAKDTLRKGMMYATRDRKTRKRDFRRLWISRISAALS--DTGVSYSRFIEGLLKSNIK------INRKILSNLAIEDIEAFKKIVLEIRR------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_360405-NC_007503/1-117"
+type    "PROTEIN"
+sequence        "MPRAKSS--VVSRKRHK-KILKLAKGYFGAKSKLFRVAKQQVMKSLMYAYRDRRARKREFRKLWITRINAAAR--MHGLTYSRMMNGLKKAGVE------INRKMLADLAVNDKNAFAELVEIAKKNL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_056120-NC_006085/1-123"
+type    "PROTEIN"
+sequence        "MARVKRS--VNAKKKRR-EVLDQASGYRGQRSRLYRKAKEQTLHSATYSFRDRRAKKGDFRSLWIQRINAASR--AQGMTYNRFINGLKNAGVE------VDRKMLAELAVSDINAFNSLVEVAKANQ---PQNAAA-------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_376072-NC_007513/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGGNGTQFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--INGVSYSRLMGGLKKADVR------INRKMLAQLAVADPASFTTVVTAAKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001087163-NC_009089/1-118"
+type    "PROTEIN"
+sequence        "MARVKKA--MNARKKHK-KILKLAKGFRGSRSKLYRPANTFVMKALKNAYIGRKLKKRDFRKLWIQRINAAAR--MNGISYSRLMNGLKLSGVE------VNRKMLSEMAIQDPEGFAKLAEVAKAKLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_207458-NC_002946/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHQ-KIFALAKGYRGRRKNVYRVAKQAVMKAGQYAYRDRRQRKRQFRQLWIVRINAGAR--ENGLSYSKFMNGLKRASIE------IDRKVLADLAVFDKAAFAQLVEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_777751-NC_004545/1-126"
+type    "PROTEIN"
+sequence        "MAHVKRG--VIARARHK-KVLKQAKGYYGARSRTYRTARQAIIKAGQYSYRDRRQRKRYFRKLWITRINAAVR--ENQISYSKFMYGLKKASIA------VDRKMLSELAIFDNVSFCSLIKSSKDALTSIELNKNL-------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001158724-NC_009380/1-130"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TLLATASGYRGQRSRLYRKAKEQVLHSMQYSYRDRRDRKGDFRQLWIQRINAGAR--ANGLTYNRLIQGLKLAGIE------VDRKILADLAVNDAAAFAAIVEKARAAV---AEEGTGGAAAQAA------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_878646-NC_005061/1-118"
+type    "PROTEIN"
+sequence        "MVRVKNS--VTAHSRHK-KILKRATGYYGARSRTYRVAYQAIIKAGQYAYRDRKQKKRIFRQLWISHINAVAR--QYGLSYNNLINNLYKSSIY------INRKMLAELATSDQVAFLNLVNNIKIHSK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_072860-NC_000908/1-124"
+type    "PROTEIN"
+sequence        "-MRVKGT--NTTRIRRK-KWLKQASGSFGTRKASFKAAKQTVIQASKYAYRDRRQKKREFRSLWILRLNAALR--AQGMTYSVFINELKKAKIV------INRKVLSELAIKEPNKLNLIINTIK--KP-TNKPTVAKT-----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_873025-NC_008578/1-124"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-VILEQASGYRGQRSRLYRKAKEQVLHSMAYSYRDRKARKGDFRRLWIQRINAAAR--AQGITYNRLIQGLKLAGVD------VDRKMLADLAVRDEATFAALVGTARDAL---SVAPTSS------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_239960-NC_002528/1-118"
+type    "PROTEIN"
+sequence        "MARIKRG--VIAHARHK-KILKQAKGYYGARSRIYRVAHQAVIKAGQYAYRDRRQRKRQFRQLWISRINAAVR--QSKMSYSNFIFGLKKASIN------IDRKILSDIAIFDLLSFNALVKKAKEALL---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_637812-NC_003902/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILTLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWITRINAAAR--INGLSYSRFMNGMLKAGIT------LDRKVLADIAVHDAAGFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_600282-NC_008023/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001341442-NC_009654/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARRRHK-KILKQAKGYYGARSRVFRVAKQAVIKAGQYQYRDRRQRKRQFRALWIARINAAAR--INGLSYSRFIAGLKQAAIE------IDRKVLADLAVYEKEVFAAIVEKAKVSLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_758301-NC_004432/1-115"
+type    "PROTEIN"
+sequence        "-MRVKTG--PTTRRRRK-SWLKKAEGAWGINSTSYRNAKQTVMQASKYAYRDRKNKKRDFRKLWIARINAAIR--KENYTYSAFMHKLKQKEIA------INRKMLSELAIQNPEEFKKFVHSVMLK-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001282962-NC_009525/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASRGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWIARINAAAR--LNDITYNRLIQGLKAAGVE------VDRKNLADIAISDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001176457-NC_009436/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKLAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_688380-NC_004116/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_141495-NC_006449/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_456856-NC_007716/1-227"
+type    "PROTEIN"
+sequence        "MAKISFT--PARHRRRK-KVLKMAKGYFGSKSTLYKTAHEQVMRSLQYAYRDRKQRKRDFRKLWISRINAGAM--LCGMQYSRLMHGLALAKVD------VNRKVLSDLAHLQPETFAQYVQLAKETLVQFQQTFKKKENQSTKLQEVQSNQLAQTEEKTSLQLEKVLSNELSEEKSDYALETQPQITQIKAKKPSLDLSKMLLPELKKLAKEHKVPNFNKLKKTEIVSALKKALAKK--"
+}
+
+{
+name    "YP_001651274-NC_010278/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_932586-NC_008702/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLDQAKGYRGRRKNVYRIAKQAVMKAGQYAYRDRRQRKRQFRALWIARINAAAR--ELGLTYSTFMNGLKKAAVE------VDRKVLADLAVFDKPAFAALAEQARAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001639098-NC_010172/1-121"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KVLKAAKGYYGRRKNTIRIAKQAVEKGLQYAYRDRKNKKRTFRALWIQRLNAAVR--EHGLTYSRFINALAQSGIE------VDRKALSELAIHEPAAFAAVVEKAKSALPKAA------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001100078-NC_009138/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLDQAKGYRGRRSKVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAASR--EHGLTYSVFMNGLKRASIE------LDRKVLADMAVMDKPAFAAIVNQVKTTIAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_779436-NC_008435/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKAAKGFRGRRKNTIRAAKAAVDKAGQYAFRDRKRKKRTFRALWIQRINAAVR--PLGMTYSVFINGLAKSGVI------VDRKVLSDLAIHEPVAFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_901021-NC_005085/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KILALAKGYRGRRKNVYRIAKQAVMKAGQYAYRDRRQKKRQFRQLWIARINAAAR--ENGLPYSKFMNGLKKAAIE------IDRKVLADLAVFDKPAFAQIVEKAKASLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001129712-NC_009337/1-115"
+type    "PROTEIN"
+sequence        "MPKANNA--VAAKARRK-RVLKKAKGYWGSRGNVLTVVKHAVDKAEQYAYRDRRAKKRTFRALWIMRINAAAR--LNGTTYSRLVDAMNKKSVE------IDRKAMAEIAVKDPEAFTTLVKAIID------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_669567-NC_008253/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_295727-NC_001263/1-118"
+type    "PROTEIN"
+sequence        "MPRAKTG--IVRRRRHK-KVLKRAKGFWGSRSKQYRNAFQTLLNAATYEYRDRRNKKRDFRRLWIQRINAGAR--LHGMNYSTFINGLKRANID------LNRKVLADIAAREPEAFKALVDASRNARQ---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_790448-NC_008463/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARRRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGAR--QNGLSYSRLIAGLKKAAIE------IDRKVLADLAVNEKAAFTAIVEKAKASLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_345442-NC_003028/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAVAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001180547-NC_009437/1-118"
+type    "PROTEIN"
+sequence        "-MRIKNG--VWARKRHK-KWLKLAKGYWGAKSRVFKQAHIAVMRSLRYAYIGRRLKKRDFRRLWITRINAAAR--QNGLSYSKFINGLKKAGIS------LNRKVLADMAINDQKAFAELVEIAKKQING--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_222753-NC_006932/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_583318-NC_007973/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIDAAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWIARINAATR--EHGMTYSVFMNGLKKASIE------LDRKVLSDMAIHDKPAFAAIVNQVKATVA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_443108-NC_007651/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_220135-NC_004552/1-120"
+type    "PROTEIN"
+sequence        "-MRATGS--VASRCRRK-RILKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--INGLSYSRLINGLKCAGID------LNRKMLSEMAIHNPTGFAEVANQAKKALEANL------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_810816-NC_008528/1-196"
+type    "PROTEIN"
+sequence        "-MRVKGT--NVTRIRRK-KMIKLAKGYRGQRHINFKVAKQQVWKSYLYAYRDRKNVKRDYRKLWIARINAASR--KNGISYSQLMHGFKVAGID------LNRKMLAELAVSDFATFSKLAETAKKQVSAPTRKAATLDTDIKIERIEKGAAKPVVLEPGKSTKTQEVAVAEKPTTASTVAEIKAYLDSESIKYPSSAKKADLLALVK--------------------------------"
+}
+
+{
+name    "YP_001465938-NC_009802/1-118"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFFSARHKHFRKAKEQLERSLVYAYRDRRQKKRDFRRLWIVRINAACR--LNDISYSRFINGLNKANIE------LDRKILADLAMNDAKAFAALAKQAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_125072-NC_006368/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAKARHK-KILDQAKGYYGARSRTYRVAKQAVIKAGQYAYRDRRQKKRQFRALWITRINAQAR--ECGLSYSRLIDGLKKASIE------LDRKILADMAVHDKVAFAAIAEQAKAALAG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_181484-NC_002936/1-119"
+type    "PROTEIN"
+sequence        "MARIKGG--IATHKRHK-KVLALTKGHASARHSLFKRAHESMVHAMSYAFAHRRARKGDMRRLWITRINAAAR--AEGLTYGELMSGLKTAGID------INRKVLADMAVSDSVAFAAVAAKAAAAKAN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_411190-NC_007614/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAHARHK-KILDLAKGYRGRRKNVYRVAKEAVMKAGQYAYRDRRQKKREFRALWIARINAAAR--ECGLSYSVFMNGLKKAEIE------VDRKVLADLAVFDKPAFAKIAEQAKASLAI--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_830973-NC_008541/1-157"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VILERAKGYRGQRSRLYRKAKEQLLHSFVYSYGDRKKKKGDFRRLWIQRINAASR--ANGLTYNRLIQGLKAAEVE------VDRRMLAELAVSDANAFAALVQVAKDSL---PADTSAPAVS--------AEAAPKAKAAKKPAAKKAAAKKPVAEEAAK-------------------------------------------------------------"
+}
+
+{
+name    "YP_001275393-NC_009523/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VMVRKRHK-KLLEQAKGYRGSRSRRVKVARETVMKALWYAYRDRRNRKRDFRRLWIVRINAAAR--MHGMSYSRFMNGLKRAGID------LDRKILADMAVRDPAAFSRVVEQARQAV----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_157484-NC_006513/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLDQAKGYRGRRKNVYRIAKQAVMKAGQYAYRDRRQRKRQFRALWIARINAAAR--EVGLTYSTFMNGLKKAAIE------VDRKVLADLAVFDKPAFAALADQARAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_080178-NC_006270/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KVLKLAKGYFGSKHTLYKVANQQVMKSGNYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKLSGIE------VNRKMLADLAVNDLNAFNQLADAAKAQLNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_960288-NC_002944/1-131"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASKGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLADIAIADPAAFTALVDVARAAL---PEDVNAPSDSGEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_798457-NC_008508/1-117"
+type    "PROTEIN"
+sequence        "MPRAVNG--TIHKNRRR-RVLKDAKGFRGARSKLYRTAKSAVMKAGQWAYRDRRAKKRDFRKLWIIRINAAAR--ENGLSYSVFMNSLKKLGIN------MDRKSLAELAFNDREVFNALVEKIKVAG----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_096717-NC_002942/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAKARHK-KILDQAKGYYGARSRTYRVAKQAVIKAGQYAYRDRRQKKRQFRALWITRINAQAR--ECGLSYSRLIDGLKKASIE------LDRKILADMAVHDKVAFAAIAEQAKAALAG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001198634-NC_009442/1-117"
+type    "PROTEIN"
+sequence        "--MLEGG--VVSRKRRK-RILKLAKGYYGAKHLLFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001219431-NC_009465/1-119"
+type    "PROTEIN"
+sequence        "MARVSRG--VQAHAKHK-KILKKAKGYYGARSKVYRIAKQAIIKAGQYAYRDRRQRRRQFRRLWIVRINAEAR--NNGLSYSRMINGMSKAGIE------IDRKVLSDIAIFDKVAFAKIVDQVKQALSV--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001214140-NC_009455/1-119"
+type    "PROTEIN"
+sequence        "MARIKGG--LATHKRHK-KVLALTKGHASTRHSLFKRAHESMVHAMSYAFAHRRARKGDMRRLWITRINAAAR--AEGLTYGELISGLKVAGID------INRKVLADMAISDTVAFAAVAAKAAAAKAN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_041145-NC_002952/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_301994-NC_002677/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLGYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAADVD------VDRKNLADIAISDPAAFTALVEVARSGL---PEDVNVPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_400294-NC_007604/1-116"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILKLAKGFRSGNSKLFRTANQRVMKALTNAYRDRRRRKRDFRRLWIARINAAAR--LHGVSYSRLIGALKKADIQ------INRKMLAQLAVLDSAGFKAIVDLALKA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_194386-NC_006814/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KIMKLAKGYRGAKHMQFKAASTQLFVSYKYAFRDRRRRKSDFRKLWIARINAAAR--QNDISYSKLMHGLKLAGVD------MNRKMLADIAYNDSKTFAQLADTAKKALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001248416-NC_009488/1-121"
+type    "PROTEIN"
+sequence        "MSRARSG--KVNKNRHK-KILKLAKGYRGRAKNCFRIAIQKVEKALQYSYRDRRNRKRQFRALWIQRINAAVR--QYDMTYSQFINGLKQANIT------VDRKVMANLAVHNADSFVHLVELTKKSLAKTA------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001597905-NC_010118/1-120"
+type    "PROTEIN"
+sequence        "MPRSVNA--VASKKHRK-KILNFAKGFYGARSKLYTVAKNAVEKSFKYSYFGRKNKKRNFRKLWIKRINAAAR--ENGISYSNLIFLIRKNNIK------LNRKCLADLAMKNNSSFKKMIKKFQILYLDL-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001112968-NC_009253/1-118"
+type    "PROTEIN"
+sequence        "MPRAKSS--VVSRNRHR-KILKLAKGYRGSRSKLFRVANQAVMKGLFYAYRDRRQKKRDFRKLWIARINAATR--MNGLSYSRFINGLKKAGVE------VNRKMLADLAVNDAKAFGQLVELAKSKLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_212322-NC_001318/1-115"
+type    "PROTEIN"
+sequence        "MARAKNG--TVHVARRK-RILKKTKGFWGTKKSNYKKAKDTLXKGMMYATRDRKVRKRDFRRLWISRISAALS--DTGVTYSRFIEGLLKSNIK------INRKILSNLAIEDVEAFKKIVLEIRR------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001021078-NC_008825/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLELAKGFRGRRKNVYRIAKQAVMKAGQYAYRDRRNRKRVFRRLWIARINAASR--SHGITYSRFIAGIKKAAID------IDRKMLAELAVNDPAAFGSIVEKVKAQLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001202355-NC_009445/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTAHAKHK-KVYKAAKGFYGRRKNTIRAAKAAVEKAGQYAFRDRKRKKRTFRALWIQRLNAAVR--PFELTYSRFIDGLSKSGIT------VDRKVLSDLAINEPAAFEAIVVKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_031801-NC_005955/1-133"
+type    "PROTEIN"
+sequence        "MARVKRG--VVAHAKHK-KVLKQAEGFYGRRKNTIRAAKAAVDRSKQYAYRDRKNRKRIFRALWIQRINAAVR--AEGLTYGRFIDGLSKAGIE------IDRKVLSDIAVHESAAFSALVASAKKALEYLRDT-TSNAFEGAVK-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001647191-NC_010184/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKSTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001222751-NC_009480/1-130"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VILERAAGYRGQRSRLYRKAKEQVTHSLVYAYRDRRAKKGEFRRLWIQRINAAAR--ANGLTYNRLIQGLSLAGVQ------VDRRILAELAVHEPATFASLVQTAKAAL---PANTSAPKVA--------ANA----------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_811625-NC_008527/1-101"
+type    "PROTEIN"
+sequence        "MARVKGS--VATRKRRK-RILKLAKGYYGAKHRLFKTAKEQVMNSYYYAFRDRRQKKRDFRKLWIARINAAAR--MNGLSYSKLMHGLKLADIE------VNRKMLADIAIA--------------------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_559631-NC_007951/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIIKLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVQQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_062720-NC_006087/1-130"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VILERAEGYRGQRSRLYRKAKEQVTHSLVYAYRDRRQKKGDFRRLWIQRINAASR--ANGLTYNRFIQGLGLAGVE------VDRRILAELAVNEPATFTALVETAKKAL---PADTSAPKAD--------AAA----------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001092076-NC_009091/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NIARKRRN-KILNLAKGFIGGNKNLFRTANQRVMKALCNAYRDRRRRKRDFRRLWISRINASAR--INGTNYSKLINGMKNAEII------INRKMLAQLALNDPKCFEKIVSSVSN------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_927643-NC_008700/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KILKLAKGYYGARSRTYRVAVQAVIKAGQYAYRDRRQKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALTK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001255625-NC_009495/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--MNARKRHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRKLKKRDYRKLWIARINAATR--MNGLSYSKFMNGIKNAGID------INRKMLSEIAINDPKAFAELVDVAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_896152-NC_005070/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGGNGTQFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--INGVSYSRLMGGLKKADVR------LNRKMLAQLAVVDPGSFSNVVATAKG------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_002389-NC_005823/1-117"
+type    "PROTEIN"
+sequence        "MPRAVNG--TIHKNRRR-RILKDAKGFRGARSKLYRTAKSAVMKAGQWAYRDRRAKKRDFRKLWIIRINAAAR--ENGLSYSVFMNSLKKLGIH------MDRKSLAELAFNDREVFNSLVEKIKVAG----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_950994-NC_005303/1-207"
+type    "PROTEIN"
+sequence        "MAKISFT--PARHRRRK-KVLKMAKGYFGSKSTLYKTAHEQVMRSLQYAYRDRKQRKRDFRKLWISRINAGAM--LCGMQYSYLMHGLALAKVD------VNRKVLADLAHLQPGP----VESVKAVEVLQQETQ------------------PQPEEKTSLQPEKVLSTELSEEKSDDTLETKPQTTQVKAKKPSLDLSKMLLHELKKLAKEHKVPNFHKLKKAEIVTALKKALAKKII"
+}
+
+{
+name    "YP_001396573-NC_009706/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--VNARKHHR-KILKLAKGYYGGKSKLFKTANESVIRALRNAYVGRKLKKRDFRKLWIVRINAAAR--INGLSYSKFMNGIKTAGIN------INRKMLSEIAINDPKTFTELVQVAKAQLNV--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_360572-NC_003103/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIEKVEKALQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLVYSQFMGALKKTEID------IDRKVLAELAVNNSDGFVSIVEKAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001247102-NC_009487/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_820313-NC_002971/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLTKAKGYYGARSRVFRVAKQAVIKAAQYAYRDRKQRKRQFRALWIVRINAAAR--EHGLSYSRLINGLMKASVA------IDRKNLAELAVYDKAAFGKLAEKAKQALGG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001138337-NC_009342/1-127"
+type    "PROTEIN"
+sequence        "MARVKRS--VNAKKKRR-EILKSAKGYRGQRSRLYRKAKEQWLHSMTYSYRDRRARKSEFRKLWIQRINAAAR--MNGITYNRLIQGLRLAEIE------VDRKILADLAVNDFATFSAICEAAKAAL---PEDVNAPK----AA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001015951-NC_008819/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGGNGTLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--LNGLSYSKFMGGLKKADIR------INRKMLAQLAVIDPKTFTNVAVNSKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_596408-NC_008021/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_389127-NC_007519/1-117"
+type    "PROTEIN"
+sequence        "-MRVKRG--MATHRRHK-KYLKMAKGYRGGRSKLYRTAREAVERSLAYSTRDRKVRKREFRKLWILRINAAAR--ENGVSYSKFIHGLALAGIE------LNRKVLADLAVREKEDFAKLAELVKSKLS---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_782826-NC_004557/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--MNARKKHK-KILKLSKGYFGGKSRLFKTANESVIRALRNAYTGRKLKKRDYRKLWIARINAATR--ANGLSYSRFMNGLKLAGID------MNRKMLSEIAINDPKAFSELVEAAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_999958-NC_008787/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSLVYAYRDRRRKKRDFRRLWIVRINAACR--LNDLSYSRFINGLKKAGIE------LDRKILADLAMNDAAAFAKIAEAAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_330023-NC_007432/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_253162-NC_007168/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGAKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHDMSYSRLMNGLKKADIN------INRKMLSEVAISDEKAFAELVSKAKEALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001376473-NC_009674/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KMIKLAKGYYGSKHTLFKVANQQVMKSLLYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKLAGIE------VNRKMLADLAVHDEKAFAELATVAKNNLK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001554755-NC_009997/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001119285-NC_009256/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001557575-NC_010001/1-118"
+type    "PROTEIN"
+sequence        "MARIKGG--LNAKKKHN-KVLKLAKGYRGARSKQYRVAKQSVMRALTSAFAGRKERKRQFRQLWIARINAAAR--MNGLSYSKFMYGLKLAEVS------VNRKMLAELAVNDAEGFKALVEVAKSKLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_986634-NC_008782/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALAKGFRGRRGNVFRIAKQAVMKAGQYAYRDRRTKKRVFRQLWIARINAAAR--ELGLTYSQFANGLKKASIE------IDRKMLADLAVHDKAAFGSIVEQVKAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_968508-NC_005363/1-115"
+type    "PROTEIN"
+sequence        "MARVKSG--KTNRARHK-KVLKRAKGYYSAGSRAYIHAVEKNDRGMAFAYRDRKVNKRNFRTLWNQRINAAAR--LNGTTYSRLIGGLIKAGIQ------VDRKILADLAINDAAAFTALCKHALA------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_198487-NC_006833/1-121"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTHARHK-KILNLAKGYRGRAKSCYRIALQRVEKALQYAYRDRRNRKRDFRSLWIIRINAAAR--EHGLTYGRFMHGLALAGVD------LNRKILAEMAVNYKDDFTKLAETVSSKLAENS------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001319471-NC_009633/1-119"
+type    "PROTEIN"
+sequence        "MARVKKG--VTARKRHK-KVLKLAKGFRGARSKLFRPANQFVMKALRHAYVGRKLRKRDFRRLWITRINAATR--INGLSYSKFISGLKLSGIE------MNRKVLSEMAIHDKEGFAQLVETAKQKLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_085894-NC_006274/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_748510-NC_008344/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRS--VTARARHK-KVLKLAKGYRGRRKNIYRIAKQAVMKAGQYAYRDRRQRKRQFRALWIARINAAVR--ELGMTYSTFMNGLKKSGIG------LDRKVLADLAVFDKAAFEKITNQVKTSLAN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001650306-NC_010263/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIEKVEKALQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLVYSQFMGALKKTEIA------IDRKVLAELAVNNSDGFVSIVEKAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_250616-NC_007164/1-127"
+type    "PROTEIN"
+sequence        "MARVKRS--VNAKKKRR-EVLKSAKGYRGQRSRLYRKAKEQMLHSKTYEFRDRKARKNEFRKLWIQRINAGAR--QNGMTYNRLIQGLRLAEIE------VDRKNLAELAVNDFDAFTALCEAAKAAL---PEDVNAPA----AS-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_901970-NC_008609/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--FKARRRRN-KVLKLAKGYRGARSKLFRSATEAVDRALNYAFRDRRVKKRDFRSLWITRINAASR--LNGLSYSKFIFGLKKANVE------IDRKVLADIAVSDPKGFSEIAGVARASI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_050514-NC_004547/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKLAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_669221-NC_004088/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_328666-NC_007429/1-123"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRSRRK-RVLKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWITRLNVASR--IHGLSYSRLINGLKQAGIH------LNRKMLSEMAIHDPQGFAVVATQAKLALEAAVQG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_607607-NC_008027/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--TNGLSYSRLIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKAVLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_516502-NC_007907/1-120"
+type    "PROTEIN"
+sequence        "MARVKRG--VTKHQRHK-KVLKLAKGFRGAKSKLYRPANEQVMKSLAYAYAHRRDKKGDFRKLWIARINAAAR--LNGLSYSRMMNGLKIAGVS------VNRKMLADLAINDAAAFTELVNVAKAQVSAK-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_176183-NC_006582/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--YVARRRRK-KVLKLAKGYYGSKHTLFKSAQGQVMKSLQYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSRLMHGLKLAEIN------VNRKMLADLAVNDEKAFAQLADKAKESLNS--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_562715-NC_007954/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_428603-NC_007643/1-125"
+type    "PROTEIN"
+sequence        "MSRATNA--KTNHARHK-KVLDLAKGYRGRNSTNFRIAIEKVEKGLQYAYRDRRAKKRNFRSLWIQRINAGAR--EQGLTYSQFINGLIRAGIE------LDRKILADLAVTEPAAFASLVAQAKAALDTTAEQAA--------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_947380-NC_008711/1-222"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VVLERAKGYRGQRSRLYRKAKEQLLHSFVYSYGDRRKKKGDFRRLWIQRINAASR--ANGLTYNRLIQGLKAAEVE------VDRRMLAELAVSDANAFAALVNIAKAAL---PADTSAPAAAAAPKAAKVAPAAATATAVKAVVSEKPAIDGAVAADGDEAPEGYAIKGNAESKKYHVPGSTWYNTTAAEYWFSTVEAAKAAGFEPAGGEARQQIKN----"
+}
+
+{
+name    "YP_113206-NC_002977/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRRQRKRQFRALWITRINAGAR--EFGLSYSRFISGLKKASIE------IDRKVLADLAVRDKDAFAELARIAQG------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_356837-NC_007498/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--FKARRRRN-KVLKLAKGYRGARSKLFRSATEAVDRALNYAFRDRRVKKRDFRALWIARINASAR--ENGLSYSRLVHGLKKAEIA------LDRKILAELAVTDPAGFTAIADKAKAQLQ---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_153481-NC_004842/1-128"
+type    "PROTEIN"
+sequence        "MARVKRG--VTARARHK-KVVALAKGYRGRSKNCYRAALQRLEKALVYAYRDRRNRKRDFRRLWIVRINAAAR--QWGIKYSQLMKGMALCGIE------LNRKMLAEMAVNDKAAFEKVVSAVAGTCGYACAVNQQDK-----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_816331-NC_008533/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAVAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_307801-NC_007356/1-119"
+type    "PROTEIN"
+sequence        "MARIKGG--LATHKRHK-KVLALTKGHASTRHSLFKRAHESMVHAMSYAFAHRRARKGDMRRLWITRINAAAR--AEGLTYGELISGLKVAGID------INRKVLADMAISDTVAFAAVAAKAAAAKAN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_336136-NC_002755/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASRGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWIARINAAAR--LNDITYNRLIQGLKAAGVE------VDRKNLADIAISDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001603504-NC_010125/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTHARHK-KVLEQSKGFRGRSSTNYRIALERLEKALRYAYRDRRNKKRDFRALWIQRINAAVR--EHGLTYSKFIFGLDKAGIE------IDRKVLAAIAFDDAATFAEIVKKAQAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_934735-NC_005139/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRAKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKAAFAVLVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_278726-NC_007294/1-116"
+type    "PROTEIN"
+sequence        "MARVKGG--TVTRARRK-KWIKLAKGYFGHKSVGYKVAKQAVVKSWTYAFRDRKQVKRNFRKLWIARINAAVR--PHGLSYSQFINGLKKAEVL------INRKMLSELAINQPQTFEKLVKLVQGK-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_249101-NC_007146/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_963385-NC_008750/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_805022-NC_004631/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_439471-NC_000907/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_109805-NC_000912/1-127"
+type    "PROTEIN"
+sequence        "-MRIKGG--KQTRVRRK-KWLKQASGSFGTRHASYKVAKQTVIQAAKYAYRDRRNKKRDFRSLWILRLNAALR--EQGMTYSVFINLLKKHNIE------INRKVLSELAIKEPSKFNLIVQKVKSEQPKAAKPAALGN-----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_916061-NC_008686/1-119"
+type    "PROTEIN"
+sequence        "MARVKSG--KITHARHK-KVLDAAKGYYGNRSRNFRTATQAVDKANQYATRDRKTRKRNFRALWIQRINAAVRAVDAEMTYSRFIAALAKAGIE------VDRKVLADLAVHEPEAFAAVVAQAKAAA----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_170985-NC_006576/1-116"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILKLAKGFRSGNSKLFRTANQRVMKALTNAYRDRRRRKRDFRRLWIARINAAAR--LHGVSYSRLIGALKKADIQ------INRKMLAQLAVLDSAGFKAIVDLALKA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_283713-NC_003116/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHQ-KIFALAKGYRGRRKNVYRVAKQAVMKAGQYAYRDRRQRKRQFRQLWIVRINAGAR--ENGLSYSKFMNGLKRASIE------IDRKVLADLAVFDKAAFAQLVEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_471229-NC_003212/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KIVKLAKGYYGSKHLLFKVANQAVMKSYQYAYRDRRQKKRDFRRLWIARINAAAR--MQDLSYSKLMHGLKLAGID------INRKMLADLAVNDIASFNTLADSAKKALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001012166-NC_008817/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NIARKRRN-KILNLAKGFRGGNKNLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINASAR--INGTNYSKLINGLKTSEII------INRKMLAQLALNDPQSFEKIVSAVSK------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_662066-NC_008228/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KVLKQAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGMSYSRFINGLKKASVE------IDRKILADIAVHDKNAFSALVDAAKGALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_909937-NC_008618/1-127"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VVLERASGYRGQRSRLYRKAKEQLLHSFTYNFRDRKARKGDFRKLWIQRINAAVR--AEGITYNRFIQGLHLAGIE------LDRRALAELAVSDPEAFKAIVEQAKAAL---PADVNAPKEA---------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001052938-NC_009053/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_298030-NC_002488/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILSLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWIVRINAAAR--INGLSYSRFMNGLLKCGIT------LDRKVLADIAVHDPAGFTALAEKAKSILAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001416834-NC_009720/1-120"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KVFEAAKGFYGRRKNTIRAAKSAVERSMQYAYRDRKVKKRNFRALWIQRINAGVRALDLDLTYSRFIDGLGKAGIE------VDRKVLSDIAIHEPDAFKALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_527054-NC_007912/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARRRHK-KVLKAAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRVKKRNFRALWITRINAQSR--AEGLSYSRLIAGLKKASIA------LDRRVLADLAIHDKTAFAAIVAKAQEALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_072637-NC_006156/1-115"
+type    "PROTEIN"
+sequence        "MARAKNG--TVHVARRK-RILKKTKGFWGTKKSNYKKAKDTLRKGMMYATRDRKARKRDFRRLWISRISAALS--DTGISYSRFIEGLLKSNIK------INRKILSNLAIEDAEAFKKIVLEIRR------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_105787-NC_002678/1-133"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KVLKAAKGFYGRRKNTIRIAKQAVEKSLQYAYRDRKNRKRSFRALWIQRINAATH--EHGLTYGRFIDGLNKAGIE------IDRKILSDMAIHEPQAFAALVAKAKVALEYLKNT-TPNAFESAVA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001531581-NC_009952/1-121"
+type    "PROTEIN"
+sequence        "MSRTKGG--TVTHARHK-KVTDAAKGYYGRRKNTFKVARQAVDKANQYATRDRKNRKRQFRALWIQRINAAVRAHDEALTYSRFINGLSLAGIE------VDRKVLADLAVHEPEAFSAIVDQAKAALPA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001513510-NC_009922/1-119"
+type    "PROTEIN"
+sequence        "MARVKTG--KTAHKRHK-KVLKLAKGFRGARSKLFRPANQFVMKSLKYAYIGRKLRKRDFRKLWITRINAATR--ANGLSYSKFMNGLKLAGID------MNRKVLSEMAIYDKEGFAQLVETAKQKLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_614507-NC_008044/1-121"
+type    "PROTEIN"
+sequence        "MSRVKGG--TVTHARHK-KVIKAAKGYYGRRKNTFKVARQAVDKANQYATRDRKNRKRNFRALWIQRINAAVRSHDEALTYSRFINGLNLAGIE------VDRKVLADLAVHEPEAFGAIVRQAQDALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_540924-NC_003317/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_939519-NC_002935/1-127"
+type    "PROTEIN"
+sequence        "MARVKRS--LNAKKKRR-EILKSAKGYRGQRSRLYRKAKEQWLHSMTYAYRDRRARKSEFRKLWITRINAAAR--MNDITYNRLIQGLRLAEIE------VDRKVLADLAVNDFAAFSAICEAAKAAL---PADVNAPK----AA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001608586-NC_010161/1-133"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLKQAEGFYGRRKNTIRAAKAAVDRSKQYAYRDRKNRKRTFRALWIQRINAAVR--AEGLTYGRFIDGLSKAGIE------VDRKVLSDIAIYEAEAFSALVASAKKALEYLKDT-TPNAFEGAVK-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_500289-NC_007795/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_847020-NC_003997/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001406082-NC_009714/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFFSARRKHFRKAKEQVERSLVYSYRDRRNKKRDFRRLWIVRINAACR--LNDISYSKFINALKKANIE------LDRKVLADLAMNDAAAFSAIVAQAKKVM----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_196055-NC_006831/1-123"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTRARHK-KVIKLAKGYRGRSKNCYRVALQRVEKALQYAYRDRRNRKRFFRSLWIMRINAAVR--QYGLLYSDFIYGLSLANIT------LNRKILADMAVHNKDNFKQIVDLTKEALTKSRVG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_741609-NC_008340/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARAKHN-KVLKKAKGYYGARRKSFRIARQAVIKSGQYAYRDRRQRKRQFRALWIQRINAGAR--QHGLSYSRFINGLQQAGVD------LDRKVLADLAVNDKAAFGALAEKAREALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_281439-NC_002163/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSLVYAYRDRRRKKRDFRRLWIVRINAACR--LNDLSYSRFINGLKKAGIE------LDRKILADLAMNDAAAFAKIAEAAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_929901-NC_005126/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFIDGLKKASIE------IDRKILADIAVFDKVAFAALVEKAKSALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001316901-NC_009632/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001577819-NC_010080/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--IVTRKRRK-KVMKLAKGYRGAKHMQFKAASTQLFVSYKYAFRDRRRRKSEFRKLWIARINAAAR--QNDISYSKLMHGLKLAGVD------MNRKMLADIAYNDSKTFAQLAETAKKALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001628540-NC_010169/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_763827-NC_008369/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKADVE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_765874-NC_008380/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KVLKAAKGFYGRRKNTIRTAKAAVDRSKQYAYRDRKVNKRNFRALWIQRINAAVR--EFGLTYGRFIDGLNKAGIE------VDRKVLSDMAIHEPEAFGALVSAAKKALEYLKEAGTANEFEGAVK-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_287521-NC_007332/1-117"
+type    "PROTEIN"
+sequence        "-MRVKGG--SITRQRRR-RWLKLAKGYWGHKSIGFKTAKQAVVKSWTYAFRDRKQRKRDFRKLWISRINAAAR--NQGISYSQLMYKIKQSNIE------INRKMLAEMAVHHQSDFENIVKLAIAKSA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001071264-NC_009077/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLAEIAVSDAAAFTALVEVAKAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_333293-NC_007434/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001107443-NC_009142/1-122"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TILESAKGYRGQRSRLYRKAKEQMLHSMTYSYRDRRARKGDFRKLWITRINAATR--QNGMSYNRFVQGLKAAGVE------VDRKILAELAVNDSQAFAALVDVARQNL---PEGAA--------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001262928-NC_009511/1-125"
+type    "PROTEIN"
+sequence        "MARVKRG--TTTHAKHK-RILGAAKGYYGRRKNTIRIARQAVEKAGQYAYRDRKVKKRSFRALWIQRINAAVR--AEGLTYGVFMHGLKLAGIE------LDRKVLADIAMHEGEAFSGIIAQAKAALPEGARIAA--------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001567759-NC_010003/1-121"
+type    "PROTEIN"
+sequence        "-MRIKRS--VTSHKKKK-KYIKAAKGYSGAVGRRYSLAKQQYYKSGKYSYAGRKNKKRDYRNLWITRINAAAR--AQGLKYNELIHGLKLANVD------INRKMLSELAVNDPDGFNEYVNIAKQSLAESVQ-----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_278922-NC_007295/1-117"
+type    "PROTEIN"
+sequence        "-MRVKGG--SITRQRRR-RWLKLAKGYWGHKSIGFKTAKQAVVKSWTYAFRDRKQRKRDFRKLWISRINAAAR--NQGISYSQLMHKIKQSNIE------INRKMLAEMAIHHQSDFENIVKLAIAKSA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_495967-NC_007794/1-120"
+type    "PROTEIN"
+sequence        "MSRIKRG--VTTRAKHK-RILDQAKGYRGRRKNTIRVARQAVEKAGQYAYRDRKVKKRSFRALWIQRINAAVR--AEGLTYSQFIHGAKLAGIE------LDRKAMADLAMNEGAIFNAVIAQAKAALPAA-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001516452-NC_009925/1-116"
+type    "PROTEIN"
+sequence        "MTRVKRG--NVARKRRK-KILKLAKGYRGSHSRLFRIANQQVMKALRNAYRDRRKRKRDFRRLWIARINAATR--QHGVSYSKFMGQLKRADIQ------LNRKMLAQLAATDPDSFSKIVELAGKA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001445274-NC_009783/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRAKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKAAFAVLVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_974765-NC_008767/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHQ-KIFALAKGYRGRRKNVYRVAKQAVMKAGQYAYRDRRQRKRQFRQLWIVRINAGAR--ENGLSYSKFMNGLKRASIE------IDRKVLADLAVFDKAAFAQLVEKAKSALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001407370-NC_009715/1-118"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFFSARHKHFRKAKEQLERSLVYAYRDRRQKKRDFRRLWIVRINAACR--LNDLSYSRFMNGLKKANIE------LDRKILADLAMNDAKAFAALAKQAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_806912-NC_008526/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KVLKLAKGYRGAKHLLFKAANAQVMVSYRYAFRDRRAKKRDFRRLWIARINAAAR--MNDISYSKLMHGLKVANVD------MNRKMLADLAVSDPDGFKAVADTAKKALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_761247-NC_004459/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRAKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKAAFAVLVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_222837-NC_000921/1-116"
+type    "PROTEIN"
+sequence        "-MRVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSMYYAFRDRKQKKREFRSLWVVRINAACR--MHNTSYSRFMHALKVANIE------LDRKVLADMAMNDMQAFKSVLESVKEHL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_965446-NC_005362/1-118"
+type    "PROTEIN"
+sequence        "MPRTKGG--TVTRARRK-KIMKLAKGYRGSKHLQFKAASTQVFVSRKYAFRDRKKRKSEFRKLWIARINAAAR--QNGLSYSKLMHGLKVAGID------MNRKMLADIAYNDEKTFADLADAAKKALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_853141-NC_004829/1-115"
+type    "PROTEIN"
+sequence        "-MRVKGG--PTTRRRRK-KWLNQAEGTFGTRHASYKVAKQTVIKSAKYAFRDRKNKKREFRALWIQRLNGALR--ELGVTYSVFINLLKKQQIT------INRKMLSEIAIHDHEAFKKLVKEVT------GK-----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_864298-NC_008576/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTSQARHK-KVLKAAKGYTGRNNSCFRIAKQKVEKGLQYAYRDRKNLKREMRRLWIARINAATR--LHGMSYSQFMNGLNKAGIE------LDRKVLSELAISEPESFGTLVEQAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_127968-NC_006369/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAKARHK-KILDQAKGYYGARSRTYRVAKQAVIKAGQYAYRDRRQKKRQFRALWITRINAQAR--ECGLSYSRLIDGLKKASIE------LDRKILADMAVHDKVAFAAIAEQAKAALAG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001442255-NC_009782/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001400692-NC_009708/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001470970-NC_009828/1-123"
+type    "PROTEIN"
+sequence        "-MRIKRS--VHARKKRREKFLKSAKGYRGAIKRRYRLAKQHYYRAKWYAYAGRKLKKRDFRSLWITRINIAAR--QNGLKYSQLMHGLKLANIS------VNRKMLAELAINDPPAFSEYVKIAKEQLQKEAVK----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_764908-NC_004461/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHDISYSRLMNGLKKAEID------INRKMLSEIAISDDKAFAELVSKAKEALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001422180-NC_009725/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVSRQRRK-KVLKLAKGYFGSKHRLYKVANQQVMKSGNYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKLSGIE------VNRKMLADLAVNDLTAFNQLADAAKAQLDK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_852804-NC_008563/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_972755-NC_002967/1-119"
+type    "PROTEIN"
+sequence        "MSRSTSS--DRRITRRK-AILKQAKGFRGRRGTNFKAARDAVRKALLHSYVGRKDKKSDMRQIWITRINAAVR--AEGITYSRFIAGMNKAGIQ------LNRKALSNMAIEDPTAFKAVVEASKKALGV--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_267999-NC_002662/1-119"
+type    "PROTEIN"
+sequence        "MARVKGS--VATRKRRK-RILKLAKGYYGAKHKLFKTAKEQVMNSYYYAFRDRRQKKRDFRKLWIARINAAAR--MNGLSYSKLMHGLKLADIE------VNRKMLADIAIADAAAFTALAEEAKKALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_891323-NC_008599/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFYSARHKHFRKAKEQLERSLVYAFRDRRAKKRDFRRLWIIRINAACR--LNDISYSRFMNGLKKANIA------LDRKVLANLAMNDAAAFAAIVAEAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_856847-NC_008570/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVMKAAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRLINGLKKASIE------IDRKILSDIAVHDKLAFTALVEKAKAALV---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_102784-NC_006348/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_646439-NC_003923/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_290120-NC_007333/1-125"
+type    "PROTEIN"
+sequence        "MARVKRS--LNAKKKRR-VVLSQAKGYRGQRSRLYRKAKEQMLHSMTYAYRDRKDRKGQFRRLWIQRINAASR--AHGLTYNRFMQGLKAAGIE------VDRRMLAELAVNDAAAFAALVETAKKAI---PAPSESAA-----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001033285-NC_009004/1-119"
+type    "PROTEIN"
+sequence        "MARVKGS--VATRKRRK-RILKLAKGYYGAKHRLFKTAKEQVMNSYYYAFRDRRQKKRDFRKLWIARINAAAR--MNGLSYSKLMHGLKLADIE------VNRKMLADIAIADAAAFTALAEEAKKALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_735889-NC_004368/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001506074-NC_009921/1-126"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-EVLEAASGYRGQRSRLYRKAKEQMLHSMTYSYRDRRARKGDFRQLWITRINAAAR--ANGLTYNRFVQGLRLAGVE------VDRKILADLAVNDAAAFAALVEVARAAL---PAAAETSAA----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_460302-NC_003197/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_546108-NC_007947/1-120"
+type    "PROTEIN"
+sequence        "MPRVKRG--VIARARHK-KVLNAAKGYRGRRKNVYRIAKQAVMKAGQYAYRDRRQRKRQFRALWIARINAGAR--EYGLTYSRFINGLKKSAVE------VDRKVLADLAVFDKQAFAKFAELAKSGLAAA-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001295808-NC_009613/1-114"
+type    "PROTEIN"
+sequence        "MPRSVNS--VAKRARRK-KIMKQAKGFFGRRKNVWTVAKNAVEKAMCYAYRDRKVNKRNFRALWIQRINAGAR--LEGMSYSQFMGKVKKHNIE------LNRKVLADLAMNHPVAFKTILNKVK-------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001379069-NC_009675/1-114"
+type    "PROTEIN"
+sequence        "-MRVKKG--YKARRRRN-RVLKLAKGFRGRRKNCYRRANQAVERALDYATRDRRQKRRDFRALWIVRINAAAR--QNGTTYSRLLAGLKKAGVA------IDRKILADLALALPGDFAAVVKAAKA------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_118126-NC_006361/1-126"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-SILEASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGDFRKLWIARINAAAR--LNDITYNRFIQGLKAAGVE------VDRKNLAELAVSDAEAFAGLVAIAKAAL---PQDVNAPA--A--------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_014402-NC_002973/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KIVKLAKGYYGSKHLLFKVANQAVMKSYQYAYRDRRQKKRDFRRLWIARINAAAR--MQDLSYSKLMHGLKLAGID------INRKMLADLAVNDIASFNTLADSAKKALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_065161-NC_006138/1-118"
+type    "PROTEIN"
+sequence        "MPRVTRG--FKARRRRN-RVLKLAKGYRGARSRLFKTATEAVDRALCYAYRDRKQRKRDFRRLWITRINAGAK--MNDINYSRFIGGLAKAGIE------LDRKVLANLAVLDAPAFTKLSVIAKEANA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_888084-NC_008596/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--LNAQKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLAELAVSDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_567306-NC_007958/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKLAKGFRGRRKNTIRAAKAAVDKAGQYAFRDRKRKKRTFRALWIQRINAAVR--PLGMTYSVFINGLAKSGVI------VDRKVLSDLAITEPAAFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_403413-NC_007606/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARTRHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_573853-NC_007963/1-117"
+type    "PROTEIN"
+sequence        "MTRVKRG--VVARRRHK-KILKQAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWITRINAASR--ANGLSYSRFIAGLKKSGIE------IDRKVLADLAVHEKAAFAAIVDKAKAAQ----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_242739-NC_007086/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILTLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWITRINAAAR--INGLSYSRFMNGMLKAGIT------LDRKVLADIAVHDAAGFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001353180-NC_009659/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLDQAKGYRGRRSKVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAASR--EHGLTYSVFMNGLKRASIE------LDRKVLADMAVMDKPAFAAIVNQVKANIAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_952569-NC_002939/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--FKARRRRN-KVLKLAKGFRGARSKLFRSATEAVDRALNYAFRDRKVKKRDFRALWITRINAASR--LNGLSYSKLIHGLKQAQVE------IDRKVLADLAVSDPKGFSEIATLAKAQF----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_514059-NC_007880/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKADVE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_647814-NC_008149/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001565627-NC_010002/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALSKGFRGRRGNVFRIAKQAVMKAGQYAYRDRRAKKRVFRRLWIARINAAAR--ELGLTYSQFANGLKKAAIE------IDRKMLADIAVHDKAAFSSIVDQVKAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_797661-NC_004603/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRAKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKAAFAVLVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_688994-NC_008258/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTTLVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_216159-NC_000962/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASRGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWIARINAAAR--LNDITYNRLIQGLKAAGVE------VDRKNLADIAISDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_715381-NC_008278/1-126"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TVLEQASGYRGQRSRLYRKAKEQMLHSMTYSYRDRRARKGDFRQLWITRINAAAR--ANGLTYNRFVQGLKLSGVE------VDRKILADLAVNDAAAFTALVEVARAAL---AAAPEPTAA----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_802651-NC_008513/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VIAHARHK-KVIKLAKGYYGARSRVYRVANQAVIKSGQYSYRDRRNKKRDFRKLWIIRINAAVK--NYNLSYSKFIYGLKLSSIN------INRKILSEIAIFDKISFKKLVDYSKNALSI--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_265866-NC_007205/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KVLKAVKGQWGRRKSTIRVAKQAMEKAMQYAYRDRRTKKREFKSLWIQRINAGVR--SEGITYSKFINGLTKCGIK------LDRKILAEIAYDSPEAFKTIVQKAQSALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_004160-NC_005835/1-118"
+type    "PROTEIN"
+sequence        "MPRAKTG--VVRRRKHK-KILKLAKGYWGLRSKSFRKARETLFAAGNYAYAHRKRRKRDFRRLWIVRINAACR--QHGLNYSTFIHGLKKAGIE------VDRKNLADLAVREPQVFAELVERAKAAQG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001037648-NC_009012/1-117"
+type    "PROTEIN"
+sequence        "MSRVKGG--VRTRARHK-KILKLAKGYFGAKSKNFRIANQAVMKSLVYAYRDRRARKRDFRKLWITRINAAAR--MNGLSYSKFMNGLKKSGIA------LNRKMLAEMAVNDAEAFAQLVEKVKAVI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_281984-NC_007297/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001094154-NC_009092/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAKQAVTKAGQYAYRDRRQKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001010261-NC_008816/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NIARKRRN-KILNLAKGFRGGNKNLFRTANQRVMKALCNAYRDRRRRKRDFRRLWISRINASAR--INGTNYSKLINGMKNADII------INRKMLAQLAITDPKCFEKIVSSVSQ------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_201823-NC_006834/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILTLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWITRINAAAR--INGLSYSRFMNGLLKAGIT------LDRKVLADIAVHDAAGFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_860652-NC_008571/1-114"
+type    "PROTEIN"
+sequence        "MPRSVNS--VAKRARRK-KVLKQAKGYFGRRKNVWTVAKNAVDKAMLYAYRDRKAKKRNFRSLWIMRINAAAR--QEGLSYSQFMGKLKTSDIG------LNRKVLADLAMNSPEAFKAIVEKVK-------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_993547-NC_005810/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_522604-NC_007908/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALAKGFRGRRGNVYRVAKEAVMKAGQYAYRDRRTKKRVFRQLWIARINAAAR--QCGMTYSQFANGLKKANIE------IDRKVLSDIAVHDMAAFASIVDQVKAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_800324-NC_008510/1-117"
+type    "PROTEIN"
+sequence        "MPRAVNG--TIHKNRRR-RVLKDAKGFRGARSKLYRTAKSAVMKAGQWAYRDRRAKKRDFRKLWIIRINAAAR--ENGLSYSVFMNSLKKLGIN------MDRKSLAELAFNDREVFNALVEKIKVAG----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_347666-NC_007492/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--VNGLSYSRFIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKATLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_348975-NC_003030/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--VNARKNHR-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRRLRKRDFRKLWIARINAATR--INGLSYSKFINGIKLAGID------MNRKMLSEIAINDPKAFSELVEVAKKQINA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001016081-NC_008820/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFQGSNGSLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--INGVSYSRLIGDLKKADVR------INRKMLAQLAVMDPKSFTSVVTSAKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001209435-NC_009446/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQAHARHK-KVLKAAKGYYSARRKTFRVAKQAVIKAGQYAYRDRKTKKRQFRQLWIIRINAGAR--IHGLSYSRFINGLKKSGIA------VDRKILSELAVYDKSVFATLAEKAKAALSA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001083650-NC_009085/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VVAHRRHK-KILARAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--QNGLSYSRMIDGLKKAQVI------IDRRVLADIAMHDAVAFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_292453-NC_007335/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGGNGTLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--LNGLSYSKFMGGLKKADIR------INRKMLAQLAVIDPKTFTNVAVNSKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_288150-NC_002655/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_837188-NC_004741/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTTLVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_163250-NC_006526/1-125"
+type    "PROTEIN"
+sequence        "MARVKRG--TTTRAKHN-RILDQAKGYYGRRKNTIRIARQAVEKAGQYAYRDRKVKKRSFRALWIQRINAAVR--AEGLTYGVFMYGLKLAGLD------LDRKVLADLAMNESAAFGAIIAQVKSALPEGARVAA--------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001495031-NC_009882/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIEKVEKALQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLVYSQFMGALKKTEIA------IDRKVLAELAVNNSDGFVSIVEKAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001485134-NC_009840/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NIARKRRN-KILNLAKGFRGGNKNLFRTANQRVMKALCNAYRDRRRRKRDFRRLWISRINASAR--INGTNYSKLINGMKNSEII------INRKMLAQLALSDPKCFEKIVSSVSN------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_515162-NC_007899/1-121"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRRRRK-RILKQAKGFWGDRKGHIRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--INGLSYSRLINGLKCAGIE------LNRKMLSEMAIHNPQGFAEVANQAKKALEATV------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_445401-NC_002179/1-121"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRRRRK-RILKQAKGFWGDRKGHIRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--IHSLSYSRLINGLKCANIS------LNRKMLSEIAIHNPEGFAEIANQAKKALEATV------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_220977-NC_000963/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKKRHK-KILKLAKGYRGRANNCFRVAIEKVEKGLQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLIYSQFMGALKKAGIN------IDRKVLAELAVNNNDGFASIVQQSKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_535389-NC_007929/1-120"
+type    "PROTEIN"
+sequence        "MPRVKGG--SVTRQRRK-KIIKLAKGYRGAKHIQFKVAKQQVMKSYQYAFRDRRKTKSNFRKLWIARINAAAR--QNDISYSKLMHGLKLANVE------VNRKMLADLAITDAAAFTALVDEAKKALAAE-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001663660-NC_010320/1-119"
+type    "PROTEIN"
+sequence        "MARVKFG--KVTRRRRK-KILKLAKGYWGAKSKLFRVANQAVMKSLMYAYIGRKLRKRDFRRLWITRINAAAR--AHGISYSRFINGLKKAGIE------INRKMLSEMAIHDEKAFEELVNIAKQHLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_259222-NC_004129/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--NNGLSYSRLIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKATLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_673239-NC_008254/1-133"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLKAAKGFYGRRKNTIRIAKQAVEKSLQYAYRDRKNRKRNFRALWIQRINAATR--EHGLTYGRFIDGLNKAGIE------IDRKVLADMAVHEPQAFAALVAKSKASLEYLKNT-TPNAFESAVA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001664764-NC_010321/1-119"
+type    "PROTEIN"
+sequence        "MARVKFG--KVTRRRRK-KILKLAKGYFGAKSKLFRVANQAVMKSLMYAYIGRKLRKRDFRKLWITRINAAAR--AHGISYSRFINGLKKAGIE------INRKMLSEMAINDEKAFAELVNIAKQQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_693559-NC_008260/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILKQAKGYYGARSRVFRVAVQAVTKAGQYAYRDRKVRKRQFRRLWIVRINAAAR--LNGLSYSRLINGLKKASID------IDRKVLADIAVRDQATFSALAEKAKASLTA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_316687-NC_007406/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKVTKGFSGRRKNTIRAAKAAADKAGQYAFRDRKRKKRTFRALWIQRLNAAVR--PFGMTYSRFIDGLSKSGIT------VDRKVLSDLAINEPAAFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_301047-NC_002491/1-121"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRRRRK-RILKQAKGFWGDRKGHIRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--IHSLSYSRLINGLKCANIS------LNRKMLSEIAIHNPEGFAEIANQAKKALEATV------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_310450-NC_002695/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001369351-NC_009667/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPDAFGALVASAKKALEYLKNTETPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_754007-NC_004431/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_792197-NC_004578/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--VNGLSYSRFIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKATLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_314768-NC_007404/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARASHK-KILDAAKGYRGRRKNVFRVANEAVMKAGQYQYRDRRQRKRQFRALWIARINAAAR--QHGLTYSVFMNGLSRAEIG------VDRKVLSDIAIFDKDAFAKIVDQVKAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001428922-NC_009749/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKADVE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_296602-NC_002620/1-123"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRARRK-RILKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWISRLNVASR--IHGLSYSRLINGLKQAGIN------LNRKMLSEMAIHDPQGFALVAAQAKLALEASIQG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_603230-NC_003454/1-116"
+type    "PROTEIN"
+sequence        "-MRVKTG--IIRRKRHK-RVLKAAKGFRGASGDAFKQAKQATRRAMAFATRDRKVNKRRMRQLWITRINSAAR--MNGVSYSVLMNGLKKAGIL------LDRKVLADIALNNATEFTKLVEAAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_966615-NC_002978/1-121"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTHARHK-KILKLAKGYRGRAKSCYRIALQRVEKALQYAYRDRRTRKRDFRSLWIIRINAAAR--EHGLTYGRFMHGLTLAGID------LNRKILAEMAVNYKDDFAKLVETVSGKLAESS------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_617977-NC_008048/1-121"
+type    "PROTEIN"
+sequence        "MSRIKRG--TTTRAKHK-RILDQAKGYYGRRKNTIRIARQAVEKAGQYAYRDRKVKKRSFRALWIQRINAAVR--AEGLTYSQFMHGVKLAGIE------LDRKVMADLAMNEGGVFTAIVAQAKAALPKAA------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001301281-NC_009614/1-116"
+type    "PROTEIN"
+sequence        "MPRSVNH--VASRARRK-KILGLTKGYFGARKNVWTVAKNTWEKGLTYAYRDRKNKKRNFRALWIQRINAAAR--LEGMSYSKLMGALHKAGIE------INRKVLADLAMNHPEAFKAIVAKAKAA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_623288-NC_003869/1-119"
+type    "PROTEIN"
+sequence        "MARVKSG--KVTRRRHK-KILKLAKGYWGAKSKLFRVANQAVMKSLMYAYIGRKLRKRDFRRLWITRINAAAR--AYGISYSRFINGLKKAGIE------INRKMLSEMAIHDEKAFAELVNIAKQQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_148569-NC_006510/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--PVTRRRRK-KVLKLAKGYFGAKHALYRVANQQVMKSLMYAYRDRRQRKRDFRKLWIVRINAAAR--QNGLSYSRLMHGLKLAGVE------VNRKMLADLAVNDQAAFAQLADLAKANLNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_323950-NC_007413/1-118"
+type    "PROTEIN"
+sequence        "MTRVKRG--NVARKRRN-KILKLAKGFRGSHSTLFRTANQQVMKALRSAYRDRKKKKRDFRRLWITRINAAAR--QHGLSYSQLIGNLKKADIQ------LNRKMLAQLAVLDPASFGKVAELAIQAKG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_600599-NC_003450/1-127"
+type    "PROTEIN"
+sequence        "MARVKRS--VNAKKKRR-EILKSAKGYRGQRSRLYRKAKEQWLHSMTYSYRDRRARKSEFRKLWIQRINAAAR--MNGITYNRLIQGLRLAEIE------VDRKILADLAVNDFATFSAICEAAKAAL---PEDVNAPK----AA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001438203-NC_009778/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_047569-NC_005966/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VVAHRRHK-KILARAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--QNGLSYSRMIDGLKKAQVI------IDRRVLADIAMHDAVAFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_392723-NC_007575/1-118"
+type    "PROTEIN"
+sequence        "MPRVKTG--VVRRRRHK-KILKLAKGFYSGRRKHYRKAKEQLERSMYYSFRDRKQKKRDFRKLWIIRINAACR--LNGMNYSTFINGLSKAGIE------LDRKILADMAMNDAAAFSAVAASAKAALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_190702-NC_006677/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHARHK-KVLELAKGYRGRSSTNYRIALERVEKALRYAYRDRRNKKRDFRALWIQRINAAVR--EHGLTYSRFINGLDKAGIE------IDRKVLAAIAFDDSAAFGEIVKKAQAALG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001302061-NC_009615/1-114"
+type    "PROTEIN"
+sequence        "MPRSVNH--VASRAKRK-RILKLTRGYYGARKNVWTVAKNTWEKGLTYAFRDRRNKKRNFRALWIQRINAAAR--MEGLSYSRLMGALHAAGIE------INRKVLADLAVNHPEAFKAIVAKVK-------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_813347-NC_008529/1-101"
+type    "PROTEIN"
+sequence        "--------------------MKLAKGYRGSKHVQFKAASTQLFVSYKYAFRDRKKRKSEFRRLWIARINAAAR--QNGLSYSKMMHGLKLAGVD------MNRKMLADIAYNDEKTFAALAETAKKALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_446896-NC_007677/1-115"
+type    "PROTEIN"
+sequence        "MPRATNK--PATRRRRK-KILNKAKGYWGRRSKVYKVAKHAVEKGLQYAYRDRRQKKRRFRRLWITRINAATR--QHDVSYSQFMGQYRKSDLD------MNRKVLADLAVHDPDAFEQIVDHVME------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_997843-NC_008786/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALAKGFRGRRGNVFRIAKQAVMKAGQYAYRDRRTKKRVFRQLWIARINAAAR--ELGLTYSQFANGLKKAAIE------IDRKMLADLAVHDKAAFGSIVEQVKARLAV--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001499574-NC_009900/1-117"
+type    "PROTEIN"
+sequence        "MTRVKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIEKVEKALQYAYRDRRNRKRDFRGLWIQRINAAVR--EHELVYSQFMGALKKAGID------INRKVLAELAVNNSDGFVSIVEKAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001200840-NC_009443/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHLLFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001551673-NC_009976/1-115"
+type    "PROTEIN"
+sequence        "MSRVKRG--NVARKRRN-KILRIAKGYRGGNGKLFRTANQRVMKALCNAYRDRKRRKRDFRRLWIARINAAAR--LNGMSYSKLMGNLKKADVR------INRKMLAQLAVIDPKSFKNVVTHSQK------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_867641-NC_005027/1-118"
+type    "PROTEIN"
+sequence        "-MRTTKG--AARRQSKK-RLFKRAKGFRGGRGNLTRTVKETLLRSGAFAFRDRRVRKREFRKLWIIRINAAVK--QHGLRYSEFIHGLNKAGIQ------LDRKSLSEMAIHDAAGFKQVCDKVKETLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_459653-NC_007722/1-119"
+type    "PROTEIN"
+sequence        "MPRIKRG--VTTRQKHK-RLLDQAKGYRGRRKNTIRIARQAVEKAGQYAYRDRKVKKRSFRALWIQRINAAVR--AEGLTYSQFMHGVKLAGIE------LDRKVMADLAMNEEAAFKSVIDQAKAALPA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_368858-NC_007510/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_507021-NC_007799/1-124"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTRARHK-KVIKLAKGYRGRSKNCYRIALQRVEKALQYAYRDRRNRKRFFRSLWIMRINAAVR--QHGLLYSDFIHGLSLANVT------LNRKVLADMAVNHKDHFKQIVDLIKEALNKSRVAQ---------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_945394-NC_005296/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVYKLAKGYRGRRKNTIRTAKAAVDKAGQYAFRDRKRKKRTFRALWIQRLNAAVR--PFGMTYSVFINGLSKSGIV------VDRKVLSDLAINEPAAFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_841028-NC_004757/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAKARHK-KILKLAKGYRGRRKNVYRIAKQAVMKAGQYAYRDRRQRKRQFRTLWIARINAAAR--ELGMTYSTFMNGIRKAGIS------LDRKILADLAVFDKVAFEKITNQVKAGLAN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_759161-NC_008358/1-120"
+type    "PROTEIN"
+sequence        "MPRSRAK--VPAHARHK-KIIKQAKGFRGRRKNTFSNAAAAVWKAGEYAYVGRKVKKRSFRSLWIQRINAAVRIHDENLNYSTFINGLTKAGIE------VDRKVMADLAVREPEAFGALVAQAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001172862-NC_009434/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARRRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGAR--VNGLSYSRLIAGLKKAAIE------IDRKVLADLAVNEKAAFAAIVEKAKASLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_789533-NC_004551/1-136"
+type    "PROTEIN"
+sequence        "MVRVARS--VNARKKRR-SILAAAKGYRGQRSRLYRKAKEQVLRSLVYAYRDRRKRKSSFRKLWIIRINAAAR--MEGVTYNRFLQGLKLANIE------LDRRSLAHLAVHNPDTFSALVGVAKDSLKNAPDPVAAPRLRGTSSRT---------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001249758-NC_009494/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAKARHK-KILDQAKGYYGARSRTYRVAKQAVIKAGQYAYRDRRQKKRQFRALWITRINAQAR--ECGLSYSRLIDGLKKASIE------LDRKILADMAVHDKVAFAAIAEQAKAALAG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_467812-NC_007761/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VAAHAKHK-KVLKAAKGFYGRRKNTIRTAKAAVDRAKQYAYRDRKVNKRNFRALWIQRINAAVR--EFGLTYGRFIDGLNKAGIE------VDRKVLSDMAIHEPEAFGALVAAAKKALEYLKETGTANEFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001080527-NC_009080/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_476177-NC_007775/1-118"
+type    "PROTEIN"
+sequence        "-MRVKRG--NVARKRRK-KILKLAKGFRGAGSKLFRTANQQVMKALRSAYRDRRRKKRDFRRLWIARINAATR--AQGLRYSEFIDGLKKGNIQ------LNRKMLARLAFLDPEAFTQVVEAARQARAS--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001634023-NC_010175/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--IMVRKRHK-KLLEQAKGYRGARSRHYKVAHEAVMHALADAYRDRRRRKRDFRRLWIMRINAAAR--LHGTTYSRLINSLKQANIE------IDRKMLADLAVRDPQAFARIVEQAQAAVTA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_482266-NC_007777/1-126"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TVLEQASGYRGQRSRLYRKAKEQMLHSMTYSYRDRRARKGDFRQLWITRINAAAR--ANGLTYNRFVQGLKLSGVE------VDRKILADLAVNDAVAFTALVEVARAAL---AAAPEPTAA----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001006173-NC_008800/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNDMSYSKFINGLKKASIE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_818907-NC_008531/1-139"
+type    "PROTEIN"
+sequence        "-MRVKGG--TVSRARRK-KFVKLAKGYRGQRRINYKVAKQQVYKSYLYAYRDRKNTKRNFRKLWIARINAAAR--MNGLSYSKLMHGLTLAGVE------LNRKMLAEIAVSDFDTFTKLADQAKAALSSDN-----------------------VLVQARTAATTDTTVSVER------------------------------------------------------------------"
+}
+
+{
+name    "YP_001134802-NC_009338/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--LNAQKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRKARKGDFRKLWITRINAAAR--LNGITYNRLIQGLKAAGVE------VDRKNLAEIAVSDAAAFAALAEVAKAAL---PADVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_030716-NC_005945/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_180004-NC_005295/1-123"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTRARHK-KVIKLAKGYRGRSKNCYRVALQRVEKALQYAYRDRRNRKRFFRSLWIMRINAAVR--QYGLLYSDFIYGLSLANIT------LNRKILADMAVHNKDNFKQIVDLTKEALTKSRVG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001530921-NC_009943/1-116"
+type    "PROTEIN"
+sequence        "-MRIKRG--FKARHRRK-KILKLAKGFRGGHSKLFKTAKNTVDKALGYAYRDRKQRKRDFRRLWIARINAAVR--MHSLSYSRFMHGLKKAGVE------LDRKVLAELAISDPSGFSKVVAVAAEQQ----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_269022-NC_002737/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_719085-NC_008309/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAATR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_016324-NC_006908/1-117"
+type    "PROTEIN"
+sequence        "-MRVKTG--PITRKRRK-KWLKLAKGYFGHKSIGFKVAKQQVVKSWTYAFRDRKQVKRHFRRLWIARINAATR--AQGVSYSLFINGLKKSNIQ------INRKMLSEIAIHQPKVFDKILTKVKSHLK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001066008-NC_009076/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_220356-NC_000117/1-123"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRSRRK-RVLKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWITRLSVASR--IHGLSYSRLINGLKQAGIH------LNRKMLSEMAIHDPQGFAVVATQAKLALEAAVQG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_374053-NC_007512/1-115"
+type    "PROTEIN"
+sequence        "MPKANNA--VASKARRK-RVLKKAKGYWGSRGNILTVVKHAVDKGEQYAYRDRRAKKRSFRSLWIIRINAAAR--LNGTTYSRLMDAMIKKNVE------IDRKTMAEIAVRDPEAFTQLVKTIID------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001291730-NC_009567/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_602202-NC_008024/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_188816-NC_002976/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHDISYSRLMNGLKKAEID------INRKMLSEIAISDDKAFAELVSKAKEALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_032946-NC_005956/1-133"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLKQAEGFYGRRKNTIRAAKAAVDRSKQYAYRDRKNRKRTFRALWIQRINAAVR--AEGLTYGRFIDGLSKAGIE------IDRKVLSDIAIHESAAFSALVASAKKALEYLKDT-TPNAFEGAVK-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_442051-NC_000911/1-117"
+type    "PROTEIN"
+sequence        "MTRVKRG--NVARKRRK-KILKLAKGFRGSHSKLFRTANQQVMKALRNAYRDRRKRKRDFRRLWITRINAAAR--QEGMSYSKLTGQLKKANIE------INRKMLAQLAVLDPAAFSEVVKVAATAK----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_108541-NC_006350/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001598832-NC_010120/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHQ-KIFALAKGYRGRRKNVYRVAKQAVMKAGQYAYRDRRQRKRQFRQLWIVRINAGAR--ENGLSYSKFMNGLKRASIE------IDRKVLADLAVFDKAAFAQLVEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_452053-NC_007705/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILTLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWITRINAAAR--INGLSYSRFMNGLLKAGIT------LDRKVLADIAVHDAAGFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_925730-NC_005125/1-119"
+type    "PROTEIN"
+sequence        "MVRVKRG--NVARKRRK-KILKLAKGFRGSHSKLFTAANQQVMKALRNAYRHRRTKKRDFRSLWIVRINAQAR--TEGLSYSRLIDGLHKADVA------LNRKMLAQLAVTDPEAFAEVARVAKSARPV--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001141777-NC_009348/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVMKAAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRLINGLKKASIE------IDRKILSDIAVHDKLAFTALVEKAKAALV---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_835123-NC_008542/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_785123-NC_004567/1-118"
+type    "PROTEIN"
+sequence        "MARVKGG--TVTRKRRK-RILKLAKGYRGAKHIQFKVAKDQVMKSYLYAFRDRRRRKSDFRRLWIARINAAAR--INDISYSQLMHGLKLANVD------VNRKMLADLAVNDADAFKALVDTAKKALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001357359-NC_009663/1-118"
+type    "PROTEIN"
+sequence        "-MRVKTG--VVRHRRHK-RLLKQARGFYSGRRKHFRKAKEQLERSLVYAYRDRRQKKRDFRKLWIVRINAAAR--LNDLNYSRFMHGLKLANIE------LDRKILADMAMNSPESFTKIADASKAALTK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_155785-NC_006512/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKQAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRNKKRQFRQLWIVRINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVHDQNGFAALVEKAKGAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_078063-NC_002162/1-120"
+type    "PROTEIN"
+sequence        "-MRVKGG--SVTRQRRK-RWLEKAEGSWGTRNTSYRIARQTVIRAAEYAYRDRRNKKRDFRKLWISRINAAVR--ELGYTYSQFMNALVKANVVTKDGQGLNRKMLSELAINNPEAFNQLVDKVMK------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_651686-NC_008150/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001287605-NC_009565/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASRGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWIARINAAAR--LNDITYNRLIQGLKAAGVE------VDRKNLADIAISDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_814654-NC_004668/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--TVTRKRRK-KVLKLAKGYYGSKHTLFKSAKEQVMNSYYYAFRDRRQKKRDFRKLWIARINAAAR--MNGLSYSKLMHGLKLAEID------INRKMLADLAVNDAAAFTALAEQAKDALSK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_424190-NC_007633/1-119"
+type    "PROTEIN"
+sequence        "MARVKYG--KVTRARRK-RWIKLAKGYFGTKKSSYKKAHEQVIRSMAYAFIGRKERKRDFRSLWIVRINAAVR--PEGLSYSTFMHGLKLANIN------INRKMLSELAINNSEEFKQIVQQAKKALNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_903861-NC_008610/1-119"
+type    "PROTEIN"
+sequence        "MARVSRG--VQAHAKHK-KILKKAKGYYGARSKVYRVAKQAVIKAGQYAYRDRRQRRRKFRRLWIVRINAEAR--NNGLSYSRMIDGISKADIE------IDRKVLSDIAIFDKTAFAKIADQAKQALVV--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_280069-NC_007296/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_310383-NC_007384/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_829632-NC_003361/1-121"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRRRRK-RVLKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--INGLSYSRLINGLKCAGID------LNRKMLSEMAIHNPMGFAEVANQAKKALEATI------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_219284-NC_000919/1-122"
+type    "PROTEIN"
+sequence        "MSRSLSS--NGRVRRRK-RILKLAKGFRGRCGTNYKAAKDAVSKALAHSYVARRDRKGSMRRLWISRINASVR--TQGLSYSRFMNGLLQAGIA------LNRKVLSNMAIEDPGAFQTVIDASKKALGGGAC-----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_343177-NC_007484/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTAHARHK-KVIAQAKGYRGRRKNVYRVANQAITRASQYAYRDRRQRKRQFRALWIVRINAAAR--ECGLSYSRLISGLKRAAIE------IDRKVLADLAVRDKAAFTTIAEQAKVALSD--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_871087-NC_004344/1-117"
+type    "PROTEIN"
+sequence        "MTRIKRG--VSSKFRHK-KILKKTKGYYGARSRSYRIAFQAFIKAGQYAYRDRKNKKRTFRKIWICRINSAVR--KHGLSYSCFMYKIKKLSIF------IDRKILSDLAVLNKEAFSELIKKVK-SIS---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_881202-NC_002929/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIAAAKGYRGRRGNVFRIAKQAVMRAGQYAYRDRRNKKRTFRALWITRINAAVR--EQGMSYSVFIAGLKKAAIE------LDRKVLADLAVRDKAGFAAIVQQAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001058755-NC_009074/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_711425-NC_004342/1-117"
+type    "PROTEIN"
+sequence        "MPRAVNG--TIHKNRRR-RILKDAKGFRGARSKLYRTAKSAVMKAGQWAYRDRRAKKRDFRKLWIIRINAAAR--ENGLSYSVFMNSLKKLGIH------MDRKSLAELAFNDREVFNSLVEKIKVAG----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001231375-NC_009483/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--FKARQRRN-KVLKLAKGYRGARSKLFRSATEAVDRALNYAFRDRRVKKRDFRALWIARINAAAR--INGLSYSKLIHGLKIAKVE------VDRKVMADLAVSDPRGFAEIASLAKANI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_809338-NC_004663/1-116"
+type    "PROTEIN"
+sequence        "MPRSVNH--VASKARRK-KILKLTRGYFGARKNVWTVAKNTWEKGLTYAFRDRRNKKRNFRALWIQRINAAAR--LEGMSYSKLMGGLHKAGIE------INRKVLADLAMNHPEAFKAVVAKAKAA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_696532-NC_004307/1-127"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VVLERASGYRGQRSRLYRKAKEQLLHSFNYNFRDRKARKGDFRKLWIQRINAAVR--AEGITYNRFIQGLRLAGIE------LDRRALAEIAVSDPNTFKTIVDAAKAAL---PEDVNAPVEA---------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_396006-NC_007576/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KILKLAKGYRGAKHLLFKSANTQVMVSYRYAFRDRRQRKRDFRKLWIARINAAAR--MNDMSYSQLMHGLRVAEID------MNRKMLADLAVNDAAAFTSVVEAAKAALNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001281207-NC_009524/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VQANRRHK-KILKRAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRNKKRTFRRLWIARINAGAR--LNGLSYSRFINGLKKANIE------IDRRVLADIAMHDAAAFTALTEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001450323-NC_009785/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDATAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_139585-NC_006448/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_150752-NC_006511/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_983073-NC_008781/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALAKGFRGRRGNVFRIAKEAVMKAGQYAYRDRRNKKRVFRRLWIARINAASR--SFGLTYSQFANGLKKAGIE------IDRKVLSDMAIHDSAAFGAIVEQAKAKLVA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_640142-NC_008146/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLAEIAVSDAAAFTALVEVAKAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001268532-NC_009512/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--TNGLSYSRLIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKAVLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_465181-NC_007760/1-114"
+type    "PROTEIN"
+sequence        "-MRVKKG--FKARRRRN-RVLKLAKGFRGRRKNCYRRANQAVERALNYSTRDRRLKRREFRALWIVRINAAAR--QNGTTYSKLVAALRKAGVE------IDRKILADLALALPGDFAAIVKTAQA------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001121643-NC_009257/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKAGVE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_074922-NC_006177/1-117"
+type    "PROTEIN"
+sequence        "MARTKPG--KTTRARHK-KILKLAKGYYGARSKHFRPANETVMKALFYARRDRRQRKRNFRRLWIARINAAAR--MNGLTYSQFINGLNKAGVQ------LNRKVLADIAVNDAAGFSALVEKAKASL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_721611-NC_008312/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--NVARKRRK-KILKLAKGFRGAQSRLFKVANQRVMQALRNAYRDRRKRKRDFRRLWITRINAAAR--QQGMTYSQLICNMKRANIA------INRKMLAQLAVLNPEAFAKVLELASLAKK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_504693-NC_007797/1-128"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTRARHK-KVIALAKGYRGRSKNCYRAALQRLEKALAYAYRDRRARKRDFRSLWIVRINAAAG--LYGLRYSEFMHGVSLCSIG------LNRKMLAEMAVRDKGAFEKIAHAAAQACGRTCVVAQSNS-----------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_216342-NC_006905/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_923652-NC_008699/1-130"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-VVLERASGYRGQRSRLYRKAKEQVTHSLVYSYNDRRKNKGNFRKLWIQRINAAAR--AQGMTYNRFIQGLNLAGVE------VDRKILADLAVNDVTAFNALVETAKAAL---PADVNAPKAEA--------SA----------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_795197-NC_008497/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KVLKLAKGYRGSKHRLFKVAKDQVMKGRQYAFRDRKATKRNFRKLWIARINAAAR--MNGLSYSKLMHGLKLANID------VNRKMLADLAVNDAAAFAALAEQAKTALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_405964-NC_003143/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_415445-NC_007618/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_011747-NC_002937/1-117"
+type    "PROTEIN"
+sequence        "-MRVKRG--LAAHRRHK-KYLDMAKGYRGGRSRLYRTAREAVERSLCYAFRDRKVKKREFRKLWILRINAAAR--LNGLSYSKFMHGLTLAGVE------LNRKVLADLAVREKDDFAKIAELAKSKLN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_682948-NC_004113/1-116"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRK-KILKLAKGYRAGHSKLFRTANQVVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--QYGMSYSQLMGALKKADIQ------LNRKMLAQLAVLDAPAFATVIQTARAL-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_273765-NC_003112/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHQ-KIFALAKGYRGRRKNVYRVAKQAVMKAGQYAYRDRRQRKRQFRQLWIVRINAGTR--ENGLSYSKFMNGLKRASIE------IDRKVLADLAVFDKAAFAQLVEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_423746-NC_007626/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTHARHK-KILKLAKGYRGRSSTCFRVAIQKVEKALRYAYRDRRAKKRNFRALWIQRINAGSR--AYGLPYSRFMDGLKKAGIA------LDRKVLSDIAIREPDAFKSLVEKAQAALQ---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_859976-NC_004917/1-117"
+type    "PROTEIN"
+sequence        "-MRVKTG--VVRRRRHK-KILKLARGFYSGRRKHFRKAKEQLERSMCYAFRDRKQKKRDFRRLWITRINAACK--MNGVSYSRFIHALKLANIE------LDRKTLADMAMNDINAFNAVLASVKNKLK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_975224-NC_005364/1-121"
+type    "PROTEIN"
+sequence        "MARVKYGKVKVTRARRK-RWIKLAKGYFGTKKSSYKKAHEQVIRSMAYAFIGRKERKRDFRSLWIVRINAAVR--PEGLSYSTFMHGLKLANIN------INRKMLSELAINNNEEFKKIVKQAKKALNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_780094-NC_004556/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILSLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWIVRINAAAR--MNGLSYSRFMNGILKCGIT------LDRKMLADIAVHDPAGFTALAEKAKTMLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_607023-NC_003485/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001411499-NC_009719/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTAHARHR-KIIKKAKGYYGRRKNAFRTANQAVEKAGQYAYRDRRTRKRNFRALWIQRINAGVREH--GLTYSRFIDGLAKAGIE------VDRKVLSDIAIHEPEAFKALVEQAQAALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_594591-NC_008011/1-117"
+type    "PROTEIN"
+sequence        "-MRVKRG--FSAHRRHK-KYLEMAKGFRGGRSRLYRTAREAVERSLVYAYIGRKQRKREFRKLWILRINAGAR--EHGLSYSKMMAGLSQAGIM------LNRKILAELAVKQKEDFAKLVEIAKNQVH---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_460702-NC_007759/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRS--VTAKKKRR-KIFKLAKGFFGARSRLLRTATEAVNRALNYAFRDRRVRKREFRKLWIARINAASR--AQGLTYSRLIDGLRKSHVE------IDRKVLADIAVNDPRGFSEIVLLAKGET------VS--------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_339917-NC_007481/1-120"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRAKKRTFRQLWIARINAASR--QNGLSYSRFISGLKKTSVE------IDRKILADIAVYDQVAFAALVEKAKEGLAAA-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_678256-NC_008255/1-115"
+type    "PROTEIN"
+sequence        "MPRSVPS--VASRERRK-KILKLAKGYFGRRKNVWTVAKNAVERGKVFAYIGRKQKKRHFRGLWIQRINAGTR--QHGLSYSQFIGALDKANIK------LNRKVLADLAMNDPEAFKAVVEKVKK------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_717898-NC_004347/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_246365-NC_007109/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIEKVEKALQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLVYSQFMGALKKAEID------IDRKVLAELAVNNSDGFASIIEQAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001489028-NC_009850/1-118"
+type    "PROTEIN"
+sequence        "MPRVKTG--VVRRRRHK-KVLKAARGFFSGRRKHFRKAKEQLERSLVYAFRDRRQKKRDIRKLWIIRINAACR--LNDINYSRFMNGLKLSGLE------LDRKILADMAMNDSAAFASLVATAKAALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_007703-NC_005861/1-118"
+type    "PROTEIN"
+sequence        "MVRATNA--VASHRRKK-RLFKLAKGFVGDRKNHLRLTSGAVMRAMAYNYAHRKQKKRDFRSLWIMRLNAAAR--INGISYSKFIYGLKKAQCE------LDRKVLADMAIRDPGSFAAIVGFAKEALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_588907-NC_007984/1-120"
+type    "PROTEIN"
+sequence        "MARVKRG--VVARARHK-KVLKLANGYYGARSRVYRVAFQAVLKAGQYCYRDRRCKKRQFRKLWITRINAAVR--QHGITYSCFMNSLKKASIH------IDRKILAEIAISDKVAFATLAEKAKSILCVT-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_285874-NC_007298/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLVQAKGYRGRRKNVYRIAKQAVMKAGQYQYRDRRQRKRQFRSLWIARINAAAR--ELGMKYSTFMNGLKKANIE------VDRKVLADLAVFDQPAFAALAAQAKAQLGA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_729296-NC_008319/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGSNGTLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--MNGVSYSRLIGGLKKADVR------INRKMLAQMAVVDPASFANVVNATQG------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_700947-NC_008268/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-SILEASSGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGDFRKLWITRINAAAR--ANDITYNRLIQGLRLAEIE------VDRKNLAELAVSDAAAFAGLVALAKAAL---PADVNAPA--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_827915-NC_003155/1-127"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-AILEAASGYRGQRSRLYRKAKEQVTHSLVYNYNDRKKRKGDFRQLWIQRINAAAR--ANGMTYNRLIQGLKAANIE------VDRKILAELAVNDAGAFAALVEVAQKAL---PSDVNAPKAA---------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001463013-NC_009801/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_905213-NC_002950/1-115"
+type    "PROTEIN"
+sequence        "MPRSVNH--VASRAKRK-RILKLTRGYFGARKNVWTVAKNTWEKGLTYAYRDRKSKKRNFRALWIQRINAAAR--LEGMSYSRLMGALHANGIE------INRKVLADLAMNHPEAFRAIVAKVKN------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_398251-NC_007577/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NIARKRRN-KILNLAKGFRGGNKNLFRTANQRVMKALCNAYRDRRRRKRDFRRLWISRINASAR--INGTNYSKLINGMKNSEII------INRKMLAQLALNDPKCFEKIVSSVSN------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_707398-NC_004337/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTTLVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001669705-NC_010322/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--TNGLSYSRLIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKAVLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_519701-NC_003295/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIDAAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWIARINAGAR--EHGLSYSKFMNGLKKASIE------LDRKVLSDMAIHDKVAFAAIVNQVKANVA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001617894-NC_010162/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--FKARRRRN-RVLNQTEGYFLGRKNRFRQAVEVLRHAWEYGYISRKLKKRDFRRLWITRINAAAR--LNGTTYSRLVSGLKKAGIA------LDRKILSEIAIHDPASFGAVAKLASPAAAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_598285-NC_008022/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_834279-NC_004722/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001487752-NC_009848/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVSRQRRK-KVLKLAKGYFGSKHRLYKVANQQVMKSGNYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKLSGIE------VNRKMLADLAVNDLSAFNQLADAAKAQLDK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001493722-NC_009881/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRANSCFRVAIEKVEKALQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGFVYSQFIGALKKAEID------IDRKVLAELAVNNSDGFASIVEKTKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001355585-NC_009662/1-116"
+type    "PROTEIN"
+sequence        "-MRVKTG--TVRRRRHK-KILKQAKGFYSGRRKHFRKAKEQLERSLVYAYRDRKQKKREFRKLWITRINAACR--LNDISYSRFIHGLSKAGIE------LDRKILADMAMNEPEAFKAVVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_548930-NC_007948/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLALAKGFRGRRGNVFRIAKEAVMKAGQYAYRDRRTKKRVFRQLWIARINAASR--SFGMTYSQFANGLKKAGIE------IDRKVLSDMAIHDSAAFGAIVEQVKAKLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_699170-NC_008262/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--VNARKNHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRRLKKRDYRRLWIARINAATR--MNGLSYSRFMNGMKLAGVD------INRKMLSEIAINDPKAFADLVELAKKHLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_626866-NC_008086/1-116"
+type    "PROTEIN"
+sequence        "-MRVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSMYYAFRDRKQKKREFRSLWVVRINAACR--MHNTSYSRFMHALKVANIE------LDRKVLADMAMNDMQAFKSVLESVKEHL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_186563-NC_002951/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001290776-NC_009566/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_098971-NC_006347/1-116"
+type    "PROTEIN"
+sequence        "MPRSVNH--VASKARRK-KILKLTRGYFGARKNVWTVAKNTWEKGLTYAFRDRRNKKRNFRALWIQRINAAAR--LEGMSYSKLMGGLHKAGIE------INRKVLADLAVNHPEAFKAVVAKAKVA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_225186-NC_000922/1-121"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRRRRK-RILKQAKGFWGDRKGHIRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--IHSLSYSRLINGLKCANIS------LNRKMLSEIAIHNPEGFAEIANQAKKALEATV------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_530962-NC_003304/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSRAKHT-KTLKAAKGFYGRRKNTIRAAKAAVDRSKQYAYRDRKVNKRNFRALWIQRINAAVR--ESGLTYGRFIDGLNKAGIE------VDRKVLSDMAIHEPAAFGALVEAAKKALEYLKDAGTTNEFETAVK-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001620831-NC_010163/1-126"
+type    "PROTEIN"
+sequence        "MARVKNT--PVTRRRRK-KILKLAKGYFGSKSTLYRTAHEQVMRALQYAYRDRKQNKRNFRRLWISRINAGAV--QNGFKYSKLIHGLSLANVQ------LNRKVLADLAISEPTVFASYVELAKDAIAN------------------------------------------------------PAKYQVK-------------------------------------------------"
+}
+
+{
+name    "YP_001050517-NC_009052/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_734088-NC_008321/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_229392-NC_000853/1-118"
+type    "PROTEIN"
+sequence        "-MRVKRA--VHAKKKRK-KYLKAAKGYRGALSRRYKLAKQMYVRSKWYSYVGRKQKKRDMRKLWITRINIAAR--NEGLKYSELIHGLKLAGVS------INRKMLSELAVNDPEAFKEYVKIAKEALAS--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_206926-NC_000915/1-116"
+type    "PROTEIN"
+sequence        "-MRVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSMYYAFRDRKQKKREFRSLWVVRINAACR--MHNTSYSRFMHALKVANIE------LDRKVLADMAMNDMQAFTSVLESVKEHL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001271833-NC_009513/1-117"
+type    "PROTEIN"
+sequence        "-MRVKGG--TVTRARRK-RIMKLAKGYRGSKHRLFKTAKDQVMKSYAYAFRDRKVNKRKFRELWIARINAAAR--MNDISYSKLMHGLKVANID------INRKMLADLAVNDADAFKALVDEAKKALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_666959-NC_008245/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKVGVE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001256616-NC_009497/1-116"
+type    "PROTEIN"
+sequence        "-MRVKGG--TVTRARRK-KWIKLAKGYFGHKSIGYKVAKQAVVKSWTYAFRDRKQVKRDYRKLWISRISAAVR--LEGLSYSKFINGLKKSNIT------INRKMLSELAINEPQVFSQLIAIARDSE----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001192384-NC_009441/1-114"
+type    "PROTEIN"
+sequence        "MPRSVNS--VAKRARRK-KIMKQAKGFFGRRKNVWTVAKNAVEKAMSYAYRDRKQNKRNFRSLWIQRINAGAR--LEGMSYSQFMGKVKANGIE------LNRKVLADLAMNHPEAFKAILNKVK-------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_882309-NC_008595/1-128"
+type    "PROTEIN"
+sequence        "---MKRA--VNAHKKRR-SILKASKGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLADIAIADPAAFTALVDVARAAL---PEDVNAPSDSGEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001362895-NC_009664/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TVLEQASGYRGQRSRLYRKAKEQVTHSLVYAYRDRKARKGDFRRLWIQRINAAAR--AEGMTYNRFIQGLKAAEIE------VDRRMLAELAVSDPAAFGALVRTAKAAL---PVAPVAAEGTAA-------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_245541-NC_002663/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001128728-NC_009332/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_211335-NC_003228/1-116"
+type    "PROTEIN"
+sequence        "MPRSVNH--VASKARRK-KILKLTRGYFGARKNVWTVAKNTWEKGLTYAFRDRRNKKRNFRALWIQRINAAAR--LEGMSYSKLMGGLHKAGIE------INRKVLADLAVNHPEAFKAVVAKAKVA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_364523-NC_007508/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILTLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWITRINAAAR--INGLSYSRFMNGLLKAGIT------LDRKVLADIAVHDAAGFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_419861-NC_002696/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VVAHAKHK-KVLEQAKGFYGRRKNTIRTAKAAVDKAGQYAYRDRKVRKRAFRSLWIQRINAGAR--LEGFTYSQFIHGLDVAGIV------MDRKVLADIAGNDPAAFKAIADKVRAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_665178-NC_008229/1-116"
+type    "PROTEIN"
+sequence        "-MRVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSMYYAFRDRKQKKREFRSLWVVRINAACR--MHDTSYSRFMHALKVANIE------LDRKILADMAMNDMQAFKSVLEGVKEHL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001481798-NC_009839/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSLVYAYRDRRRKKRDFRRLWIVRINAACR--LNDLSYSRFINGLKKAGIE------LDRKILADLAMNDSAAFAKIAEAAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_384390-NC_003047/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KTLKAAKGFYGRRKNTIRAAKAAVDRSKQFAYRDRKVNKRNFRALWIQRINAAVR--EFGLTYGRFIDGLNKAGIE------VDRKVLSDMAIHEPAAFGALVEASKKALAYLKEAGTANEFESAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001226315-NC_009482/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARNRRN-KILRLARGFQGSNGTLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--MNGVSYSRLIGGLKKADVR------INRKMLAQLAVLDPSGFETVVAAAKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001536753-NC_009953/1-130"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TLLATASGYRGQRSRLYRKAKEQVLHSMQYSYRDRRDRKGDFRQLWIQRINAGAR--ANGLTYNRLIQGLKLAGVE------VDRKILADLAVNDAAAFAAIVELARAAV---AEQGTGGAASQAA------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_884821-NC_002928/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIAAAKGYRGRRGNVFRIAKQAVMRAGQYAYRDRRNKKRTFRALWITRINAAVR--EQGMSYSVFIAGLKKAAIE------LDRKVLADLAVRDKAGFAAIVQQAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_043726-NC_002953/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_681361-NC_008209/1-121"
+type    "PROTEIN"
+sequence        "MSRTKGG--TVTHARHK-KVIKAAKGYYGRRKSTFKVARQAVDKANQYATRDRKNRKRNFRALWIQRINAAVRSHDEALTYSRFINGLNLAGIE------VDRKVLADLAVHEPEAFGAIVKQAQDALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_820477-NC_008532/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSQLMHGLKLAEIE------VNRKMLADLAVNDAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_053431-NC_006055/1-120"
+type    "PROTEIN"
+sequence        "MARVKFG--KVTRARRK-RWIKRAKGYYGTKHSSYKKAHEQVVRSMAYAFIGRKQKKRDFRKLWIVRINAAVR--PYGLSYSKFMNGLKLANID------VNRKMLSELAISNPEQFKLLVDASNKALTSK-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_169827-NC_006570/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKVGVE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001155614-NC_009379/1-121"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KITDAATGYRGRRKNVFRIAKQAVMRAGQYAYRDRRNKKRVFRALWIARINAAVR--QHDMTYSVFMNGMKKAAIE------LDRKVLSDMAIADKAAFAALVTRIKSVVNAAA------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_738121-NC_004369/1-128"
+type    "PROTEIN"
+sequence        "MARVKRS--VNAKKKRR-EILKSAKGYRGQRSRLYRKAKEQWLHSMTYAYRDRRARKGEFRKLWIQRINAAAR--MNGITYNRLIQGLRLAEIE------VDRKILADLAVNDFAAFSAICEAAKAAL---PEDVNAPK----AAA----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001478376-NC_009832/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--VNGLSYSKFINGLKKASIE------IDRKILADIAVFDKVAFGALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001623908-NC_010168/1-127"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-VILERAKGYRGQRSRLYRKAKEQLLHSFVYSYGDRRKRKGDFRRLWIQRINAASR--ANGLTYNRLIQGLKAASIE------VDRRMLSELAVNDAAAFAGLVKLAKAAL---PADTSAPVAN---------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_815207-NC_008530/1-118"
+type    "PROTEIN"
+sequence        "MPRTKGG--TVTRARRK-KIMKLAKGYRGSKHLQFKAASTQVFVSRKYAFRDRKKRKSEFRKLWIARINAAAR--QNGLSYSKLMHGLKVAGID------MNRKMLADIAYNDEKAFADLADAAKKALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001431549-NC_009767/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VMVRKRHK-KLLEQAKGYRGSRSRRVKVARETVMKALWYAYRDRRNRKRDFRRLWIIRINAAAR--MHGMSYSRLMNGLKRAGIE------LDRKVLADMAVRDPAAFGRVVEQAQQVV----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_021463-NC_007530/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_620878-NC_008060/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001607029-NC_010159/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_844562-NC_008554/1-117"
+type    "PROTEIN"
+sequence        "MPRVKKA--VKSRERRK-KILKLAKGYRGGRGKLIRSASETVDRALKFAYRDRKTRKRQFRSLWIMRINAAAR--EHDLSYSRFMHALKKANID------MDRKALAHLAVNDPAAFAKLARIAKEAA----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_295492-NC_007347/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIDAAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWIARINAATR--EHGMTYSVFMNGLKKASIE------LDRKVLSDMAIHDKPAFAAIVNQVKATVA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_631782-NC_008095/1-115"
+type    "PROTEIN"
+sequence        "-MRVKKG--VKARRRRN-RILKLAKGYRGRRKNCYKRANEAVERALDYASRDRMQRKRDFRRLWIVRINAAAR--TVGLSYSKLIAGLAKAKIG------LDRKVLSDMAIADPSGFAAVANIAKAA-----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001366421-NC_009665/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_642904-NC_003919/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARRRHK-KILTLAKGYYNARRKVFRVAKQAVIKAQQYAYIGRKQKKRNFRSLWITRINAAAR--INGLSYSRFMNGLLKAGIT------LDRKVLADIAVHDAAGFAALAEKAKGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_581561-NC_007969/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VQANRRHK-KILKRAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRNKKRTFRRLWIARINAGAR--LNGLSYSRFINGMKKANIA------IDRRVLADIAMHDAATFTALVEKAKAELA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_538035-NC_007940/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRASTCFRVAIEKVEKGLQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLVYSQFMGALKKAEID------IDRKVLAELAVNNNEEFASIVEQAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_625874-NC_003888/1-127"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-AILEQASGYRGQRSRLYRKAKEQVTHSLVYNYNDRKKRKGDFRQLWIQRINAAAR--ANGITYNRFIQGLKAANVE------VDRKILAELAVNDPNAFAALVEVAQKAL---PSDVNAPKAA---------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_301176-NC_007350/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKRTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHDMSYSRLMNGLKKAEID------INRKMLSEIAISDEKAFGELVAKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_888582-NC_002927/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIAAAKGYRGRRGNVFRIAKQAVMRAGQYAYRDRRNKKRTFRALWITRINAAVR--EQGMSYSVFIAGLKKAAIE------LDRKVLADLAVRDKAGFAAIVQQAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001570667-NC_010067/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001215775-NC_009456/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRAKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKAAFAVLVEKAKGAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001223781-NC_009481/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFRGSNGTLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--LNGVSYSRLIGGLKQADVR------INRKMLAQLAVADPSSFTTVVNATQG------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001332606-NC_009641/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_130357-NC_006370/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRQKKRTFRALWIARINAAAR--QNGLSYSRLINGLKKASIE------IDRKILADIAVFDKATFTVLVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001631252-NC_010170/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIAAAKGYRGRRGNVFRIAKQAVMRAGQYAYRDRRNKKRTFRALWITRINAAVR--EQGMSYSVFIAGLKKASID------LDRKVLADLAVRDKAGFAAIVQQAKAALSA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_660477-NC_004061/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHARHK-KVLKQAKGYYGARSRIYRVACQAVIKAGQYAYRDRRQRKRQFRQLWITRINAAVR--QSQMSYSSFMYGLKKASIN------IDRKILSDIAIFDGFSFNILIKKAKEALL---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_745325-NC_008343/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTHARHK-KVLKASKGFFGRSSTNYRIALERLEKSLQYAYRDRRVKKRDFRALWIQRINAAVR--EHGMTYSVFINGLKKAEID------MDRKVLAAIAFDDAAAFAEIVKKVQGALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_088248-NC_006300/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KVLKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKILADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_644079-NC_008148/1-133"
+type    "PROTEIN"
+sequence        "MARASRS--IHARKKRR-KLLKEARGYRGTKHTSYKRAKEQVWKSGVYAYVGRKQKKRDFRALWIQRINAAAR--RHGLSYSRFVHGLRLAGFD------LDRKVLADLAVSEPEAFGAVAAQAKNALEGRPVERRVELGGAGR------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_265278-NC_007204/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VQANRRHK-KILKRAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRNKKRTFRRLWIARINAGAR--LNGLSYSRFINGMKKANIA------IDRRVLADIAMHDAATFTALVEKAKAELA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001397472-NC_009707/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRKHK-KVLKLARGFYSGRRKHFRKAKEQLERSLVYAYRDRRRKKTDFRRLWIVRINAACR--LNDLSYSRFINGLKKAGIE------LDRKILADLAMNDVAAFAKIAEAAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_850001-NC_008555/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KIVKLAKGYYGSKHLLFKVANQAVMKSYQYAYRDRRQKKRDFRRLWIARINAAAR--MQDLSYSKLMHGLKLAGID------INRKMLADLAVNDIASFNTLADSAKKALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_767347-NC_004463/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTAHAKHK-KVYKAAKGFYGRRKNTIRAAKPAVEKAQQYAFRDRKRKKRTFRALWIQRLNAAVR--PFGLTYSRFIDGLAKSGIT------VDRKVLSDLAINEPASFQAIAEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_804204-NC_008525/1-117"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRRRRK-RVLKLAKGYRGAKHIQFKVAKDQVMKSGLYAFRDRRNRKGEFRRLWIARINAAAR--MNGLSYSKLMHGLKEAGID------MNRKMLADLAVNDADAFKALAEEAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001654297-NC_010287/1-123"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRSRRK-RVLKQAKGFWGDRKGHFRQSRSSVMRAMAFNYMHRKDRKGDFRSLWITRLNVASR--IHGLSYSRLINGLKQAGIH------LNRKMLSEMAIHDPQGFAVVATQAKLALEAAVQG----------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001579961-NC_010084/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001335835-NC_009648/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_391930-NC_007520/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHN-KVLKQAKGYYGARKKIFRVAKQAVIKAGQYAYRDRRNKKRQFRRLWIARINAAAR--LNGMTYSRFISGLNKAGVE------VDRKVLSDIAVHDAAAFSAIVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_893888-NC_005071/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NVARKRRN-KILRLARGFQGSNGSLFRTANQRVMKALCNAYRDRRRRKRDFRRLWIARINAAAR--INGVSYSRLIGGLKKADVR------INRKMLAQLAVMDPKSFTSVVTSAKS------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_787294-NC_004572/1-136"
+type    "PROTEIN"
+sequence        "MVRVARS--VNARKKRR-SILAAAKGYRGQRSRLYRKAKEQVLRSLVYAYRDRRKRKSNFRKLWIIRINAAAR--MEGVTYNRFLQGLKLANIE------LDRRSLAHLAVHNPDTFSALVGVAKDSLKNAPDPVAAARLRGTSSRT---------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_235246-NC_007005/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARKRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQKKRQFRALWIARINAGAR--VNGLSYSRFIAGLKKASIE------IDRKVLADLAVNEKAAFAAIVEKAKATLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_699095-NC_004310/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001306171-NC_009616/1-118"
+type    "PROTEIN"
+sequence        "-MRVKNA--VNAKKKRK-KIMKAVKGYRGALSRRYRLAKQAYIKAKKHAYVGRKLKKRDYRKLWITRINIAAR--NEGLKYNELIHGLKISGIN------INRKMLAELAVNDPESFKEYVNIAKQAIGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001259919-NC_009505/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_939007-NC_008705/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAQKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLAEIAVSDAAAFTALVEVAKAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_907036-NC_005090/1-117"
+type    "PROTEIN"
+sequence        "MPRVKTG--TVRRQRHK-KVLKLARGFYSGRRKHFRKAKEQLERSMYYAFRDRKQKKRDFRSLWITRINAACR--INEISYSRFMHGLKLANIE------LDRKILADMAMNEPANFAKIVEAAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_269607-NC_003910/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAYQAVTKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASIE------IDRKILADIAVYDKAAFTFLVEKAQASLAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001473860-NC_009831/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAKQAVTKAGQYAYRDRRQKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFTTLVEKAKEALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_407829-NC_007613/1-110"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFHHSG-----------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001392412-NC_009699/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--MNARKRHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRKLKKRDYRKLWIARINAATR--MNGLSYSKFMNGIKNAGID------INRKMLSEIAINDPKAFAELVDVAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_204601-NC_006840/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVTKAGQYAYRDRRNKKRVFRQLWIARINAAAR--QNEMSYSRFINGLKKASIE------IDRKILADIAVFDKVAFAALVEKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_898828-NC_008601/1-118"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTARARHK-KVLNQAKGYYGARSRVYRVAKQAVIKAGQYAYRDRKVKKRTFRSLWIVRINAAAR--QHDISYSQLINGLNKAGIE------LDRKALAELAVYNKDAFAAVVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_738064-NC_008322/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_479032-NC_007776/1-118"
+type    "PROTEIN"
+sequence        "-MRVKRG--NVARKRRK-KILKLAKGFRGAGSKLFRTANQQVMKALRSAYRDRRRKKRDFRRLWITRINAATR--AQGLRYHEFIDGLKKANIQ------LNRKMLARLAFLDPEAFTQVVEAARQSRAS--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_896872-NC_008600/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_456176-NC_003198/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_877302-NC_005043/1-121"
+type    "PROTEIN"
+sequence        "MVRATGS--VASRRRRK-RILKQAKGFWGDRKGHIRQSRSSVMRAMAFNYMHRKDRKGDFRSLWIARLNVASR--IHSLSYSRLINGLKCANIS------LNRKMLSEIAIHNPEGFAEIANQAKKALEATV------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_244004-NC_002570/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--YVARRRRK-KVLKLAKGYFGSKHTLFKSAQGQVMKSLQYAYRDRRQKKRDFRKLWITRINAAAR--LNGLSYSRLMHGLKLAGIN------VNRKMLADLAINDEKAFAQLAEKAKASLNN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001495926-NC_009883/1-117"
+type    "PROTEIN"
+sequence        "MTRAKSG--KISKNRHK-KILKLAKGYRGRASTCFRVAIEKVEKGLQYAYRDRRNRKRDFRGLWIQRINAAVR--EHGLVYSQFMGALKKAEID------IDRKVLAELAVNNNEEFASIVEQAKAHI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001410174-NC_009718/1-118"
+type    "PROTEIN"
+sequence        "-MRVKNA--VNSKKKKK-KILKFVKGFRGALRRRYSLAKQSYYRALKFAFDGRRNKKGNFRKIWITRINIAAR--NAGLKYNELIHGLKLANVA------INRKMLAELAVNDPESFKEYVNIAKAALGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_943556-NC_008709/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAVQAVTKAGQYAYRDRRQRKRVFRQLWITRINAASR--ISGLSYSRFINGLKKASVE------IDRKILADIAVFDKATFAHLVEVAKKALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_664344-NC_004070/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_855323-NC_002945/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--VNAHKKRR-SILKASRGYRGQRSRLYRKAKEQQLHSLNYAYRDRRARKGEFRKLWIARINAAAR--LNDITYNRLIQGLKAAGVE------VDRKNLADIAISDPAAFTALVDVARAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001026203-NC_008836/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_384373-NC_007517/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--FKARRRRN-KVLKLAKGYRGARSKLFRSATEAVDRALNYAFRDRKVKKRDFRALWITRINAASR--LNGLSYSKLIHGLKKASVE------IDRKVLADLAVSDPQGFSEIASVAKTQI----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001236032-NC_009484/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VTTHARHK-KVLKQSKGFVGRSSTNYRIALERLEKALRYAYRDRRNKKREFRALWIQRINAAVR--EQGMTYSQFIAALKAANIE------LDRKVLAAMAFDDPAGFTAIVEAAKAVRG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_954129-NC_008726/1-129"
+type    "PROTEIN"
+sequence        "MARVKRA--LNAQKKRR-TVLKASKGYRGQRSRLYRKAKEQQLHSLTYAYRDRRARKGEFRKLWISRINAAAR--ANDITYNRLIQGLKAAGVE------VDRKNLAEIAVSDPAAFTALVEVAKAAL---PEDVNAPS--GEAA-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001502115-NC_009901/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAASR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKDALAK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001388864-NC_009698/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--MNARKRHK-KVLKLAKGYYGGKSKLFKTANESVIRALRNAYVGRKLKKRDYRKLWIARINAATR--MNGLSYSKFMNGIKNAGID------INRKMLSEIAINDPKAFAELVDVAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001183535-NC_009438/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLKLAKGYYGARSRTYRVAVQAVTKAGQYAYRDRRQKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKVVFATLVEKAKEALN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001659348-NC_010296/1-115"
+type    "PROTEIN"
+sequence        "MSRVKRG--NVARKRRK-KVLKLAKGFRGSHSRLFRTANQQVMKALRNAYRDRRKRKRDFRRLWITRINAAAR--QQGISYSQLTGQLKKANIL------LNRKMLAQLAVLDPVAFAKVVETAKG------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001168681-NC_009428/1-120"
+type    "PROTEIN"
+sequence        "MSRVKSG--KVTHARHR-KVIKAAKGYYAARSTNFRTATQAVDKANQYATRDRKARKRNFRALWIQRINAAVRLFDLEMTYSRFINGLAKAGIE------VDRKVLADLAVHEPEAFNAIAARAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001162099-NC_009381/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_725849-NC_008313/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVIDAAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWIARINAATR--EHGMTYSVFMNGLKKASIE------LDRKVLSDMAIHDKPAFAAIVNQVKATVA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_822498-NC_008536/1-130"
+type    "PROTEIN"
+sequence        "MPRVKRG--THRRASRK-KVLARASGYFLTKSKLYRAAMEAVDRGLKFAYVGRKRKKRDYRRLWIVRINASCR--AAGLSYSKFVHGLKAAGLD------LNRKVLADVALHDDAAFRNLAELAKSALAVKESARLALEKE---------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001236418-NC_009485/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTAHAKHK-KVFKAAKGYYGRRKNTIRTAKQAVEKAGQYAFRDRKRKKRTFRALWIQRLNAAVR--PFELTYSRFIDGLSKSGIT------VDRKVLSDLAINEPAAFQAIVEKAKAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_487468-NC_003272/1-118"
+type    "PROTEIN"
+sequence        "MTRVKRG--NVARKRRN-KILKLAKGFRGSHSTLFRTANQQVMKALRSAYRDRKKKKRDFRRLWITRINAASR--QHGLSYSQLIGNLKKADIQ------LNRKMLAQLAVLDPASFGKVAELASQAKG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_143819-NC_006461/1-118"
+type    "PROTEIN"
+sequence        "MPRAKTG--VVRRRKHK-KILKLAKGYWGLRSKSFRKARETLFAAGNYAYAHRKRRKRDFRRLWIVRINAACR--QHGLNYSTFIHGLKKAGIE------VDRKNLADLAVREPQVFAELVERAKAAQG---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001244791-NC_009486/1-118"
+type    "PROTEIN"
+sequence        "-MRVKRA--VHAKKKRK-KYLKAAKGYRGALSRRYKLAKQMYVRSKWYSYVGRKLKKRDMRKLWITRINIAAR--NEGLKYSEFIHGLKLAGVS------INRKMLSELAVNDPEAFREYVKIAKEALAS--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_070854-NC_006155/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASVE------IDRKILADIAVFDKVAFSALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001002020-NC_008789/1-119"
+type    "PROTEIN"
+sequence        "MSRVKRG--VTNRAKHK-KVLKAAKGYYGMRGSAFRIARQQVIKSGQYAYAHRRLRKREFRSLWIQRINAAAR--QHGLSYSRLMNGLQQAGIE------VDRKQLADLAVHEPQSFAALAERAQGALSN--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_992863-NC_008785/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIINLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVKQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_038619-NC_005957/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-KVIKLAKGYYGSKNTLFKVANQQVMKSLMYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKNAGIE------VNRKMLADLAVHDEKAFAELATVAKNNIN---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_773254-NC_008390/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KIIKLAKGYRGRRNNVYRIAKQAVMRAGQYAYRDRRNKKRVFRALWITRINAAVR--QHDMTYSVFINGLKKASIE------LDRKVLADMAVFDKAAFAAIVQQVKAAVAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001347873-NC_009656/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARRRHK-KILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGAR--QNGLSYSRLIAGLKKAAIE------IDRKVLADLAVNEKAAFTAIVEKAKASLA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_178316-NC_003912/1-117"
+type    "PROTEIN"
+sequence        "MARVKTG--VVRRRRHK-KVLKLARGFYSGRRKHFRKAKEQLERSLVYAYRDRRRKKRDFRRLWIVRINAACR--LNDLSYSRFINGLKKAGIE------LDRKILADLAMNDAAAFAKIAEAAKKAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001593918-NC_010103/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTAHAKHK-KVLDQAAGFRGRRKNTIRTAKAAVDRSKQYAYRDRKNRKRSFRALWIQRINAAVR--EQGLTYGRFIDGLAKAGIE------IDRKVLSDIAIHEPEAFAALVASAKKALEYLKNTSMPNAFEGAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_213649-NC_000918/1-118"
+type    "PROTEIN"
+sequence        "-MRVK-G--PSSRRKKK-KILKLAKGYRGQRSRSYRRAKEAVMRALYYQYRDRKLRKREFRRLWIARINAAVR--AYGLNYSTFINGLKKAGIE------LDRKILADMAVRDPQAFEQVVNKVKEALQVQ-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_059956-NC_006086/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RILKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQKKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEIE------VNRKMLADLAVADAAAFTALADAAKAKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_753773-NC_008346/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--VTSHKRHK-KILKLAKGYRGSKSKLYRVANEQVMKSGQYAYIHRRLKKRDFRKLWIARINAAAR--NNGTTYSRMVHGLKVAGVD------INRKLLAELAISDPQGFTQLAELAKRSVQ---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_877836-NC_008593/1-119"
+type    "PROTEIN"
+sequence        "MARVKRA--MHARKKHK-KILKLAKGYYGRRSRTFKNANETVLRAMNFAYVGRKLKKRDFRRLWIARINAAAR--MNGLSYSKFMNGIKLAGIN------MNRKMLSEIAINDEKAFADLVEVAKKQLNA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_619326-NC_008054/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KVLKLAKGYRGSKHVQFKAASTQLFVSYKYAFRDRKKRKSEFRRLWIARINAAAR--QNGLSYSKMMHGLKLAGVD------MNRKMLADIAYNDEKTFAALAETAKKALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_435704-NC_007645/1-118"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARRRHK-KVLNQAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGAR--DNGLSYSRLIAGLKRANVE------IDRKVLADLAMNEKAAFAAVVQKAKEALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_232686-NC_002506/1-117"
+type    "PROTEIN"
+sequence        "MPRVKRG--VQARARHK-KVLKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRAKKRQFRQLWIARINAAAR--QNGLSYSRFINGLKKASIE------IDRKILADIAVFDKAAFAVLVEKAKGAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_893779-NC_005072/1-115"
+type    "PROTEIN"
+sequence        "MARVKRG--NIARKRRN-KILNLAKGFRGGNKNLFRTANQRVMKALCNAYRDRRRRKRDFRRLWISRINASAR--INGTNYSRLINGMKNSEII------INRKMLAQLALSDPQCFEKIVSTVNN------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001527364-NC_009937/1-119"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KVFKAAKGFYGRRKNTIRAAKSAVERSMQYNYRDRKVKKRTFRALWIQRINAGVR--ELGMTYGRFIDGLGKAGIE------VDRKVLSDIAVHEPETLKALVEKAQAALAA--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001042298-NC_009049/1-120"
+type    "PROTEIN"
+sequence        "MSRVKSG--KVTHARHR-KVIKQAKGYYAARSTNFRTATQAVDKANQYATRDRKARKRNFRALWIQRINAAVRLFDIEMTYSRFINGLSKAGIE------VDRKVLADLAVHEPEAFNAIAAQAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_721125-NC_004350/1-119"
+type    "PROTEIN"
+sequence        "MARVKGG--VVSRKRRK-RVLKLAKGYYGAKHILFRTAKEQVMNSYYYAYRDRRQRKRDFRKLWITRINAAAR--MNGLSYSQLMHGLKLAEVE------VNRKMLADLAVNDAAAFTVLADAAKEKLGK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001458496-NC_009800/1-118"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGISYSKFINGLKKASVE------IDRKILADIAVFDKVAFTALVEKAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001424760-NC_009727/1-119"
+type    "PROTEIN"
+sequence        "MPRVKRG--VTARARHK-KVLTKAKGYYGARSRVFRVAKQAVIKAAQYAYRDRKQRKRQFRALWIVRINAAAR--EHGLSYSRLINGLMKASVA------IDRKNLAELAVYDKAAFGKLAEKAKQALGG--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_506110-NC_007798/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VQVRQRHK-KVIKQAKGFHGRSKNCYRIALRRLEKSWQYAYRDRKVRKRDFRSLWIQRINAAVR--SFGLVYSVFMKGLKAAGVD------VNRKVLSELAISQPSAFGEIVNKAKAAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_494320-NC_007793/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_351812-NC_007493/1-120"
+type    "PROTEIN"
+sequence        "MSRVKSG--KVTHARHR-KVIKQAKGYYAARSTNFRTATQAVDKANQYATRDRKARKRNFRALWIQRINAAVRLFDIEMTYSRFINGLSKAGIE------VDRKVLADLAVHEPEAFNAIAAQAKAALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_874161-NC_002940/1-117"
+type    "PROTEIN"
+sequence        "MARVKRG--VIARARHK-KILKAAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQLWIARINAAAR--QNGLSYSKFINGLKKASVE------IDRKTLADIAVFDKVAFAALVEKAKSAL----------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_390763-NC_000964/1-119"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRKRRK-KVLKLAKGYFGSKHTLYKVANQQVMKSGNYAFRDRRQKKRDFRKLWITRINAAAR--MNGLSYSRLMHGLKLSGIE------VNRKMLADLAVNDLTAFNQLADAAKAQLNK--------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001547397-NC_009972/1-118"
+type    "PROTEIN"
+sequence        "MARIKRG--IMTHKRHK-KLLNQAKGFRGSRSHNYKTAHEAVMKALAYAYRDRRNRKRDFRRLWIVRINAAAR--LNGLSYSNLINGLNKAGIV------IDRRQLADLAVRDAAAFTAIVAQAKQALA---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_417008-NC_007622/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRARRK-KTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAAR--QHEMSYSRLMNGLKKAGID------INRKMLSEIAISDEKAFAQLVTKAKDALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_001329138-NC_009636/1-134"
+type    "PROTEIN"
+sequence        "MARVKRG--VTSHAKHK-KTLKAAKGFYGRRKNTIRAAKAAVDRSKQFAYRDRKVNKRNFRALWIQRINAAVR--EFGLTYGRFIDGLNKAGIE------VDRKVLSDMAIHEPAAFGALVEASKKALAYLKDAGTANEFESAVR-----------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_876213-NC_005042/1-115"
+type    "PROTEIN"
+sequence        "MSRVKRG--NVARKRRN-KILRLAKGFQGSNGSLFRTANQRVMKALCNAYRDRKRRKRDFRRLWIARINAAAR--MNGMSYSKLIGNLKKADIR------INRKMLAQIAILDPTNFQKVVADVKK------------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "NP_693071-NC_004193/1-118"
+type    "PROTEIN"
+sequence        "MPRVKGG--TVTRQRRK-RVLKLAKGYYGSKRTLFKTAKQQVIKSGQYAYRDRRQKKRDFRKLWITRINAAAR--MHDLSYSKLMHGLKVAGID------INRKMLSDLAISDEKAFAQLVSQAKEALK---------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "YP_277865-NC_007292/1-120"
+type    "PROTEIN"
+sequence        "MTRVKNS--VVARARHK-KILKQAAGYYGARSRTYRVAYQSVIKSGQYSYRDRRQKKRLFRRLWINRINAASR--KYGMSYNHLINGLQKCNVC------INRKMLADIAIFDRETFSALIDKAKINCEHT-------------------------------------------------------------------------------------------------------------"
+}
+
+{
+name    "MASK_strict"
+type    "MASK"
+sequence        "111111100111111110111111111111111111111111111111111111111111111111111111100111111111111111111100000011111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+}
+
+{
+name    "MASK_relax"
+type    "MASK"
+sequence        "111111100111111110111111111111111111111111111111111111111111111111111111100111111111111111111100000011111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+}

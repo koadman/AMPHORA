@@ -1,0 +1,3414 @@
+
+{
+name    "YP_001022627-NC_008825/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLVAKVEKAVA-IKD--KKPIKTWSRRSTILPDFIGLTIAVHNGKQHVPVYVTD-QMVGHKLGEFALTRTFKGH---PADKKAK---K-------"
+}
+
+{
+name    "NP_953896-NC_002939/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDHVAKKVA-AESAGS---KKVIKTWSRRSTITPDFIGLTFAVHNGKKFIPVFVTE-NMVGHKLGEFAPTRTFHGHA---ADKKSK--LKKK-----"
+}
+
+{
+name    "YP_263790-NC_007204/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDAHLFAKVETALE-TNS--RKPIKTWSRRSMILPQMVGLTLSVHNGRTHVPVIVSE-QMVGHKLGEFAPTRTYRGH---GIDKKAK---R-------"
+}
+
+{
+name    "YP_001223358-NC_009480/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLRKVISANE-ASS--KNVIKTWSRRSMIIPAMLGHTIAVHDGRKHVPVFVTE-SMVGHKLGEFALTRTFRGHV--KDDKKGR---RR------"
+}
+
+{
+name    "YP_001370505-NC_009667/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLTKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSISE-EMVGHKFGEFAPTRTYYGHG---ADKKSK---RK------"
+}
+
+{
+name    "YP_001476045-NC_009831/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_796640-NC_004603/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPTMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_663848-NC_004070/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_328788-NC_007432/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001427689-NC_009749/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001265845-NC_009512/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "NP_641323-NC_003919/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLAKKVESA---AGS--KKPIKTWSRRSMILPEMVGITIAVHNGKNHIPVLVNE-NMVGHKLGEFAVTRTFKGH---GGDKKSG---R-------"
+}
+
+{
+name    "NP_698233-NC_004310/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_479699-NC_007777/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDLQNS-KGT--KHVIKTWSRRSTVIPDMLGHTIAVHDGRKHVPVFITE-GMVGHKLGEFAPTRTFRGHV--KEDRRSR---RG------"
+}
+
+{
+name    "YP_033831-NC_005956/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVDGYLLGKAEKVRASGRN---EVIKIWSRRSTILPQFVGLTFGVHNGNKHIPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_539678-NC_003317/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_778064-NC_004545/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDIALLRKVEQAVE-IRD--KKPIRTWSRRSTIFPKMVGLTMLIHNGRQHIPVFITE-DMVGHKLGEFVLTRTYRGH---TADKKVK---KR------"
+}
+
+{
+name    "YP_237612-NC_007005/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKIEVAAE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "NP_898162-NC_005070/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKVEKQND-TDD--KSVIKTWSRASTILPMMIGHTIAVHNGKSHVPVFITE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "YP_169378-NC_006570/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_547123-NC_007948/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLVAKADKAVT-NKD--KKPIKTWSRRSMILPEFIGLTIAVHNGKQHVPVYITD-QMVGHKLGEFALTRTFKGH---PADKKVV---KK------"
+}
+
+{
+name    "YP_826354-NC_008536/1-96"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSVK-------------KGPFTDTHLEAKLMVLNA-ASE--KKVVRTWSRRSTILPEFVGHTIAVHNGKKFIPVYVTE-NMVGHKLGEFSPTRTFKGHSVKAATEKSSKPS--------"
+}
+
+{
+name    "NP_232220-NC_002505/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPTMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_862856-NC_008571/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSLK-------------KGPFVHYKLEQKVAQNVE-SGK--KAVIKTWSRASMITPDFVGQTIAVHNGKQFVPVYVTE-NMVGHKLGEFSPTRSFRGHAGAKNKGRK------------"
+}
+
+{
+name    "NP_273204-NC_003112/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPYVDLHLLKKVDAARA-SND--KRPIKTWSRRSTILPDFIGLTIAVHNGRTHVPVFISD-NMVGHKLGEFSLTRTFKGH---LADKKAK---KK------"
+}
+
+{
+name    "YP_001489690-NC_009850/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDAHLMKKVLSANS-AND--KKPIKTWSRRSTVLPEMIGITFNVHNGRNFVPVLITE-NHVGYKLGEFAPTRTFKGHKG-SVQRKA------------"
+}
+
+{
+name    "YP_001275538-NC_009523/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------SKKGPYVDIRLLNRIEELNR-ANE--KRVLRTWSRDSTIFPQMVGHTIAVHDGRRHVPVYITE-NMVGHKLGEFAPTRSFRGHG-GKKADKRG---KMK-----"
+}
+
+{
+name    "YP_001224153-NC_009481/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKVEKQNA-ADD--KSVIKTWSRASTILPMMIGHTIAVHNGKTHVPVFVTE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "YP_001129774-NC_009337/1-98"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSLK-------------KGPYIDIKLERRVLDMNS-RGE--KKVLKTWCRSSMISPDFVGHTIAVHNGKTHVPVYVSD-NMVGHKLGEFAPTRTYRGHAGGKAEKGGAAPKRK------"
+}
+
+{
+name    "YP_001143772-NC_009348/1-85"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPVKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTE-EMIGHKLGEFAPTRTLSRP---CC----------------"
+}
+
+{
+name    "YP_044249-NC_002953/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_015936-NC_006908/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------AKKGFYVEASLMKKVVNAIESKS---KKPIKTWSRRSTIFPEFVGFTFQVHNGRQFIDVYVTD-DMVGHKLGEFSPTRTYTGHG---SEKGKK---K-------"
+}
+
+{
+name    "YP_001326678-NC_009636/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_788860-NC_008463/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPIKTWSRRSMILPHMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAATRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_056541-NC_006085/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLAKKVTAQNE-AGT--HNVIKTWSRRSMVTPDMIGHTIGVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHV--KDDKKAR---RR------"
+}
+
+{
+name    "NP_868056-NC_005027/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSSK-------------KGPFVDPKVFFKVQKAAE-TGS--KEPIKTWARSCTIVPEFVNVTFMVHNGRQHIKVLVTE-DMVGHKLGEFAPTRTFKGHGGKGKR---------------"
+}
+
+{
+name    "YP_283552-NC_007298/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDAHLIDKVEAVRA-TSD--KRPIKTWSRRSTILPEFIGLTIAVHNGKQHIPVFVTE-NMVGHKLGEFSLTRTFKGH---TAGKKAK---K-------"
+}
+
+{
+name    "YP_362734-NC_007508/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLAKKVESA---AGS--KKPIKTWSRRSMILPEMVGITIAVHNGKNHIPVLVNE-NMVGHKLGEFAVTRTFKGH---GGDKKSG---R-------"
+}
+
+{
+name    "YP_001666735-NC_010322/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "NP_335149-NC_002755/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_001210874-NC_009454/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPYCDARLLAKIEKMNE-TGE--KRVIKTWSRASTIFPQMVGHTIAVHDGRKHVPVYITE-DMVGHKLGEFAPTRIFRGHG-AH-TERST---ALK-----"
+}
+
+{
+name    "NP_357786-NC_003098/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_367697-NC_007510/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "NP_072818-NC_000908/1-87"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSSK-------------KGAFVDAHLLKKVIEMNK-QAK--KKPIKTWSRRSTIFPEFVGNTFSVHNGKTFINVYVTD-DMVGHKLGEFSPTRNFKQHTANR-----------------"
+}
+
+{
+name    "NP_229296-NC_000853/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSRK-------------KGPYVDRKLLEKIRKLNE-TGE--KKVIKTWSRASMIIPEMVGHTIAVYNGMKHIPVYITE-NMIGHRLGEFAPTRRFGGHADKKAK-KGELKK--------"
+}
+
+{
+name    "NP_223953-NC_000921/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFIDDHLMKKTLKAKE-GKD--NRPIKTWSRRSTILPEMIGFTYNVHNGRVFVPVYITE-NHVGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001560749-NC_010001/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADDHLLKKVDDLNK-TGS--KTVIKTWSRRSTIFPQMVSHTIAVHDGRRHVPVYVTE-DMVGHKLGEFVATRTFRGHG-KD--EKKS---RK------"
+}
+
+{
+name    "NP_734532-NC_004368/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_732341-NC_008321/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_631502-NC_008095/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDFLVKKIEDMIKTNK---KAVVKTWSRRSTILPEFVGHTFAVHNGKKFIPVFVTE-NMVGHKLGEFAPTRTFGGHS---AEKKVA---KAP--GK-"
+}
+
+{
+name    "YP_001248300-NC_009488/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVRESLIKKVNKLIESGK---SSVIKTWSRESAIIPLFVRFVFAVHNGNKFIPVVITE-EMVGRKLGEFAPTRTFYGHA---ADRKVK---RK------"
+}
+
+{
+name    "YP_697090-NC_008261/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVHAGLLKKIEEMNQ-NGD--KKVIKTWSRSSTIFPQMIGHTIAVHDGRKHIPVYVTE-DMVGHKLGEFVLTRTFKGHI-K--NEKTS---KRK-----"
+}
+
+{
+name    "YP_590306-NC_008009/1-96"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------M-RSQK-------------KGPFIDTHVLAKIEDMNN-RNE--KKVVRTWSRRSTIIPEMVGHTLAVHNGKKFIPVYVTE-NMVGHKLGEFSFTRQFKGHSVKAATETAAKPAR-------"
+}
+
+{
+name    "YP_560667-NC_007951/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "NP_532622-NC_003304/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLTKAEKVRESGRN---EVIKIWSRRSTILPQFVGLTFGVYNGSKHVPVSVNE-DMVGHKFGEFSPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_882127-NC_002929/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVDAHLIKKVDAAVA-GKD--KKPIKTWSRRSTVLPEFIGLTIAVHNGRQHVPIYINE-NMVGHKLGEFALTRTFKGH---AADKKSK---R-------"
+}
+
+{
+name    "YP_187045-NC_002951/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_152430-NC_006511/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_828971-NC_003361/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLIKKVRAMNL-LEK--KSPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRIFKSHPVKKG----------------"
+}
+
+{
+name    "YP_001578445-NC_010084/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_653166-NC_008150/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_361114-NC_007503/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPYCDPKLLKKIEELNA-KGE--KRVIKTWSRRSTIFPQMVGHTIAVYDGRKHVPVYITE-EMVGHKLGEFAPTRTFRGHG-DH-TERST---ALK-----"
+}
+
+{
+name    "YP_001069343-NC_009077/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQND-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_877202-NC_008593/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFVAESLIKKIEEMNE-KGE--KKVIKTWSRSSTIFPQMLGHTIAVHDGRKHVPVYISE-DMVGHKLGEFVLTRTFKGHV-DK-TEKGT---RVK-----"
+}
+
+{
+name    "YP_248489-NC_007146/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_585454-NC_007973/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------AKKGPFCDGHLLKKVEAAVG-GKD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYVTE-NMVGHKLGEFAITRTFKGH---AADKKAK---R-------"
+}
+
+{
+name    "NP_252949-NC_002516/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPIKTWSRRSMILPHMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAATRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "NP_811635-NC_004663/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYINVKLEKRIFAMNE-SGK--KVVVKTWARASMISPDFVGHTVAVHNGNKFIPVYVTE-NMVGHKLGEFAPTRTFRGHAGNKKR---------------"
+}
+
+{
+name    "YP_711344-NC_008278/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNS-KGT--KHVIKTWSRRSTVIPDMLGHTIAVHDGRKHVPVFITE-GMVGHKLGEFAPTRTFRGHV--KEDRRSR---RG------"
+}
+
+{
+name    "YP_179841-NC_003912/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVIAAKK-AND--NKPIKTWSRRSTITPDMIGLTFNVHNGKSFIPVYITE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001389199-NC_009698/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYIQEVLLKRINEMNK-NGE--KKVLKTWSRSSTVFPQMIGHTIAVHDGRKHVPVYITE-DMVGHKLGEFVLTRTYRGHD-DK-SEKSS---RLR-----"
+}
+
+{
+name    "NP_964363-NC_005362/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFADASLLKKIEAQEG-SEK--KQVIKTWSRRSTIFPSFVGFTIAVYDGRKHVPVYITE-DMVGHKLGEFVPTRTFRGHK-VADKATTT---VGK-----"
+}
+
+{
+name    "NP_623827-NC_003869/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPFVDPKLLKKIIEMNK-KNE--KKVIKTWSRDSTIVPEMVGHTIAVHDGRKHVPVYITE-AMVGHKLGEFAPTRTFRGH--AG-SEKTT---KVK-----"
+}
+
+{
+name    "YP_452412-NC_007705/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLAKKVESA---AGS--KKPIKTWSRRSMILPEMVGITIAVHNGKNHIPVLVNE-NMVGHKLGEFAVTRTFKGH---GGDKKSS---R-------"
+}
+
+{
+name    "NP_790477-NC_004578/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKIEVAAE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVSE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "YP_001052500-NC_009052/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_172579-NC_006576/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVADHLLRKVEKLNA-KGD--KQVIKTWSRASTILPQMIGHTIAVHNGRQHVPVYVTE-QMVGHKLGEFAPTRTFRGHT-K--DKKAG---R-------"
+}
+
+{
+name    "NP_297184-NC_002620/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRDMNA-LEK--KTPIKTWSRRSMITPEMIGHTFEVHNGRKFLTVFVSE-TMVGHKLGEFSPTRMFKSHPVKKG----------------"
+}
+
+{
+name    "YP_001609855-NC_010161/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVDGYLLGKAEKVRASGRN---EVIKIWSRRSTILPQFVGLTFGVYNGNKHIPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_001137484-NC_009342/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLNKVDAQNE-KGT--KQVIKTWSRRSTILPDFIGHTFAVHDGRKHVPVFVDD-AMVGHKLGEFAPTKTFKGHV--KDDKKGR---R-------"
+}
+
+{
+name    "YP_377960-NC_007513/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKLEKQND-NDD--KSVIKTWSRASTILPMMIGHTIAVHNGKSHIPVFITE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "YP_267618-NC_003910/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLTKVEKAVE-SGN--KKPIKTWSRRSMIIPTMIGLTIAVHNGRQHVPVFVTE-EMIGHKLGEFAPTRTYRGH---VADKKAK---K-------"
+}
+
+{
+name    "NP_871550-NC_004344/1-142"
+type    "PROTEIN"
+sequence        "-----------------------------MEEEKEKILENTQYLHGVFNQKEKKQEKIKEQKNIFYITENIKNKKGFIYMPRS-------------LKKGPFIDFHLLKKIEEIKQ-TGK--KKLIRTWSRRSTIFPDMIGMTISVHNGKQHIPIFIGD-EMVGHKLGEFVPTRTYRGH---SADKKIK---KR------"
+}
+
+{
+name    "YP_674234-NC_008254/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VWKGPFVDGYLLKKADKSRESGRK---EVIKTWSRRSTILPQFVGLTFGVYNGQKHIPVSVSE-EMVGHKLGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_246350-NC_002663/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "NP_903852-NC_005085/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------QKKGPFVDLHLLKKVDAVRA-TSD--KRPIKTWSRRSTILPDFIGLTIAVHNGRTHVPVYVSE-NMVGHKLGEFSLTRTFKGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001620093-NC_010163/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADQSLLDKVAKQAK-SND--KKVIQTWSRRSTIFPEFIGFTIAVYNGREHVPVYVTE-DMVGHKLGEFAPTRTFRGHK--KEDKKVK---R-------"
+}
+
+{
+name    "NP_300699-NC_002491/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRAMNI-EEK--KTPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRIFKSHPVKKG----------------"
+}
+
+{
+name    "YP_001611483-NC_010162/1-99"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------IKKGPFIDGHLLEKIQAAQATNA---KKVIKTWSRRSTILPESVGLTFAVHNGRKFVPVFVTE-NMVGHKLGEFAPTRTFHGHS---GDKKAKVAKGGPGGR--"
+}
+
+{
+name    "YP_001189384-NC_009439/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEAAVE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKGK---R-------"
+}
+
+{
+name    "YP_001414005-NC_009719/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFVDGYLLKKAETTRSSGRK---EVIKMWSRRSTILPQFVGLTFGVHNGKKHVPVLVTE-DMVGHKFGEFSPTRTYFGHT---SDKKAK---KG------"
+}
+
+{
+name    "YP_001464784-NC_009801/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_244400-NC_007086/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLAKKVESA---AGS--KKPIKTWSRRSMILPEMVGITIAVHNGKNHIPVLVNE-NMVGHKLGEFAVTRTFKGH---GGDKKSS---R-------"
+}
+
+{
+name    "YP_411470-NC_007614/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDLHLLSKVEAARE-AND--KRPIKTWSRRSTVLPDFIGLTIAVHNGKQHVPVYVTE-NMVGHKLGEFSHTRTFKGH---SGDRKAA---GRK-----"
+}
+
+{
+name    "NP_488251-NC_003272/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADHLLSKIEKLND-RNE--KQVIKTWSRASTILPLMVGHTIAVHNGRQHVPVFISE-QMVGHKLGEFAPTRTYRGHG-KS-DKKAG---R-------"
+}
+
+{
+name    "YP_001525466-NC_009937/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IWKGPFVDGYLLKKADAARASGRN---ETIKIWSRRSTILPQFVGLTFGVYNGAKHVPVYVSE-DMVGHKFGEFSPTRTYYGHA---ADKKSK---RR------"
+}
+
+{
+name    "YP_390569-NC_007520/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------VKKGPFVDHHLVKKVMEAQE-SGN--KRPIKTWSRRSMILPDMIGLTIAVHNGKEHIPVYVSE-NMVGHKLGEFSMTRTYRGH---AADKKSK-----------"
+}
+
+{
+name    "YP_154073-NC_004842/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKPPFCAPHVLRLANRAIASNRN---AIINIHSRSSVILHKFIGLTFGVHNGRTYVPVKVTD-NIVGRKFGEFSPTRRFLGHA---GDKKVS---RKG-----"
+}
+
+{
+name    "YP_198168-NC_006833/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------AWKPPFCHPSVLRLVNRALKQGSIN--KVIKIHSRASVILPNCLGLKFAVYNGKDYIPVSVNDQNMIGHKFGEFSPTRKFAGHN---GDKKAV---RR------"
+}
+
+{
+name    "YP_458523-NC_007722/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVELSLLRKAEDAQEASSNK---PIKTWSRRSTILPQFVGLTFNVYNGHKFIPVSVSE-EMVGHKLGEFAPTRTFPGHA---ADKKGK---R-------"
+}
+
+{
+name    "YP_104162-NC_006348/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001598019-NC_010118/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPYVNYKLIKKIILNNLNLKK--KKIIKTWSRSSTITPEFIGNTIAVHNGKIFIPIYISE-NMVGHKLGEFAPTRIFRGHSG--SKKKPK---K-------"
+}
+
+{
+name    "YP_398143-NC_007577/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNT-DND--KSVIKTWSRASTILPLMIGHTIAVHNGKTHIPVFITE-QMIGHKLGEFAPTRTYRGHI-R--DKKGA---KS------"
+}
+
+{
+name    "YP_221933-NC_006932/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_795792-NC_008497/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFADAHLLKKIDAQKD-SEK--KTVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYVQE-DMVGHKLGEFVPTRTFRGHG--GDDKKTR-----------"
+}
+
+{
+name    "YP_772165-NC_008390/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_196551-NC_006831/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKPPFCAPHVLRLVNKAIAQNKLN--SIINIHSRSSVILNKFIGLTFGVYNGKTYVPVKVND-NMIGRKFGEFSPTRRYTGHV---GDKKVS---RK------"
+}
+
+{
+name    "YP_001485025-NC_009840/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNT-DND--KSVIKTWSRSSTILPVMIGHTIAVHNGKTHIPVFITE-QMIGHKLGEFAPTRTYRGHI-R--DKKGA---KS------"
+}
+
+{
+name    "NP_687098-NC_004116/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "NP_458464-NC_003198/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_561194-NC_007954/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_344308-NC_007484/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------IKKGPFVDPHLQKKVLEASA-SQS--RRPIKTWSRRSMVVPEMIGLTIAVHNGRQHVPILVTE-NMVGHKLGEFSPTRTFKGH---VANKKSR-----------"
+}
+
+{
+name    "YP_001160727-NC_009380/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDDHLLKKVETQND-KGT--KNVIKTWSRRSTIIPEMLGHTIAVHDGRKHVPVFVTE-AMVGHKLGEFALTRTFKGHE--KDDRKSR---RR------"
+}
+
+{
+name    "YP_128565-NC_006370/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPVKTWSRRSMIIPQMIGLTIAVHNGRQHVPVFVSE-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_572486-NC_007963/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVETAVE-KSD--RKPIKTWSRRSMILPNMVGLTIAVHNGRQHVPVHVSE-EMVGHKLGEFAATRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "NP_466151-NC_003210/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDDHLMKKVEAAAE-SEK--KQVIKTWSRRSTIFPTFVGQTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_002785-NC_005823/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSVK-------------KGPFIDDHLMKKITKLNS-ENQ--KKPFKTWSRRSTIFPDMVGHTVMVHNGKQFTPVYINE-NMIGHKLGEFSPTRTFRAHVAGDKKAAKK-----------"
+}
+
+{
+name    "YP_052114-NC_004547/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_691044-NC_004193/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFADDHLMKKIEVLNT-DDK--KQVIKTWSRRSTIFPTFVGHTVAVYDGRKHVPVYITE-DMVGHKLGEFAPTRTYRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_757021-NC_008347/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------VWKGPFVDGYLLKKAEKSHEGGRK---QAIKTWSRRSTIMPQFVGLTFQVHNGNKFVPVLVTE-DMVGHKLGEFSPSRTYYGHA---ADKKAK---RR------"
+}
+
+{
+name    "YP_072925-NC_006156/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFIEKSLYQKVLSSFGSEK---RVVIKTYSRSSTIIPEMVSLTISVYNGKTFIPIYITE-DLVGHKLGEFSPTRIFRGHAK--SDKKGR---K-------"
+}
+
+{
+name    "YP_404961-NC_007606/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_860913-NC_004917/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDYLVKKVEKAKA-SKD--NKPIKTWSRRSTILPDMIGLTFNVHNGRAFVPVYITE-NHVGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "NP_907838-NC_005090/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFIDDHLMKKVLKSKE-TKD--NKPIKTWSRRSTIVPDMIGLTLNVHNGRAFVPVYVTE-NHVGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001259149-NC_009505/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGSKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_001346227-NC_009656/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPIKTWSRRSMILPHMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAATRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_193219-NC_006814/1-76"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------------------------------------MMHKQMQIRS--------KLLKLGHVRSTIFPSFVGLTIAVYDGRKHVPVYITE-DMVGHKLGEFVPTRTFHGHK-STDDKATS---QS------"
+}
+
+{
+name    "YP_815716-NC_008533/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_431281-NC_007644/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPYCDAKLLKKIIDMNE-KGE--KRVIKTWSRRSTIFPEMVGHTIAVHDGRKHVPIYITE-DMVGHKLGEFAPTRVFRGHG-AH-TERST---ALK-----"
+}
+
+{
+name    "YP_001633567-NC_010170/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVDAHLIKKVDTAVA-GKD--KKPIKTWSRRSTILPEFIGLTIAVHNGRQHVPVYINE-NMVGHKLGEFALTRTFKGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_001652793-NC_010278/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_729663-NC_008319/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKVEKQNA-ADD--KSVIKTWSRASTILPMMIGHTIAVHNGRTHVPVFVTE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "YP_252721-NC_007168/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDHLMKKVEAQDG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001247629-NC_009487/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "NP_923850-NC_005125/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGVFVADHLLRKIETMNS-KNE--KRVIKTWSRASTIVPQMIGHTIAVHNGKEHLPVYVTE-QMVGQKLGEFVPTRVFKGHA-GK-DKKGK---R-------"
+}
+
+{
+name    "YP_804894-NC_008525/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFADEHLLKKVDAQKD-QDK--KPVIKTWSRRSTIFPSFIGCTIAVYDGRKHVPVYIQD-DMVGHKLGEFVPTRTFRGHG--GDDKKTS---GK------"
+}
+
+{
+name    "YP_692121-NC_008260/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLGKVEDAVE-AGS--RKPIKTWSRRSMIIPEMVGLTIAVYNGKQHVPVMVSE-HMVGHKLGEFALTRNYRGH---AVDKKAK---R-------"
+}
+
+{
+name    "YP_067592-NC_006142/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMKSGK---SEMIKTWSRRSTILPLFVGFTFSVHNGNKFIPVYINE-EMVGRKLGEFAPTRTFHGHG---ADKKVK---RK------"
+}
+
+{
+name    "YP_001122552-NC_009257/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_372770-NC_002758/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_952149-NC_008726/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_156301-NC_006512/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLNKVEKALE-AGE--KKPIKTWSRRSMIIPDMIGLTIAVHNGRQHVPVYVTD-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_383597-NC_007517/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDHLAKKVA-AEGTGS---KKVLKTWSRRSTITPDFIGLTFAVHNGKKFIPVFVTE-NMVGHKLGEFAPTRTFYGHA---ADKKSK--LKKK-----"
+}
+
+{
+name    "YP_538228-NC_007940/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFSPTRTFHGHG---ADKKVK---RK------"
+}
+
+{
+name    "YP_292318-NC_007335/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFISDSLLRKIEKQNS-NDD--KAVIKTWSRASTILPLMIGHTIAVHNGKSHIPVFITE-QMVGHKLGEFAPTRTYRGHI-R--DKKGA---R-------"
+}
+
+{
+name    "YP_303240-NC_007354/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKPPFCAPHVLRLVNKAVAQNKLN--SIINIHSRSSVILNKFIGLTFGVYNGKTYVPVKVND-NMVGRKFGEFSPTRRYTGHV---GDKKVS---RK------"
+}
+
+{
+name    "YP_202218-NC_006834/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLAKKVESA---AGS--KKPIKTWSRRSMILPEMVGITIAVHNGKNHIPVLVNE-NMVGHKLGEFAVTRTFKGH---GGDKKSS---R-------"
+}
+
+{
+name    "YP_001518990-NC_009925/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFVADHLLTKVENLNE-KGE--KQVIKTWSRASTIIPQMIGHTIAVHNGRQHVPVYVSE-QMVGHKLGEFAPTRTFKSHS-KG-DKKAR---M-------"
+}
+
+{
+name    "YP_001385792-NC_009697/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYIQEVLLKRINEMNK-NGE--KKVLKTWSRSSTVFPQMIGHTIAVHDGRKHVPVYITE-DMVGHKLGEFVLTRTYRGHD-DK-SEKSS---RLR-----"
+}
+
+{
+name    "YP_754991-NC_008346/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPYCEDKLLKKIELMNQ-SGQ--KKVIKTWSRRSTIMPEMIGHTLAVHDGRKHIPVYVTE-DMVGMKLGEFAPTRTYRGHA-GK-SEKSS---RAR-----"
+}
+
+{
+name    "NP_742624-NC_002947/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "YP_001205109-NC_009445/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEASLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLTFGVYNGQKHVPVAVNE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---KA------"
+}
+
+{
+name    "YP_001551559-NC_009976/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNS-NDD--RSVIKTWSRASTILPVMIGHTIAVHNGKSHIPVFITE-QMVGHKLGEFAPTRTYKGHI-K--DKKGA---R-------"
+}
+
+{
+name    "NP_948585-NC_005296/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEASLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLTFGVYNGQKHVPVSVNE-EMVGHKFGEFSPTRTFHGHA---GDKKSK---KG------"
+}
+
+{
+name    "NP_663059-NC_002932/1-98"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSLK-------------KGPFIEFKLEKRILDMNS-KGE--KKVVKTWSRSSMISPDFVGHTVAVHNGKTHVPVYVTE-NMVGHKLGEFAPTRLFRGHAGGKAEKGGSAPRKK------"
+}
+
+{
+name    "YP_762898-NC_008369/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001333182-NC_009641/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001244886-NC_009486/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSSK-------------KGPYVDKKLLEKIRKLNE-TGE--KKVIKTWSRASMIIPEMVGHTIAVYNGMKHIPVYITE-NMIGHRLGEFAPTRRFGGHADKKAK-KGELKK--------"
+}
+
+{
+name    "YP_001653869-NC_010280/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRDMNA-LEK--KTPIKTWSRRSMITPEMIGHTFEVHNGRKFLTVFVSE-TMVGHKLGEFSPTRMFKSHPVKKG----------------"
+}
+
+{
+name    "YP_010526-NC_002937/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDGHLMKKVDMAVANSDR---RVIKTWTRRSTILPEMVGLTFAVHNGKKFMPVFVTE-NMVGHKLGEFAPTRTYHGHA---ADKKSK--AKK------"
+}
+
+{
+name    "YP_300757-NC_007350/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFADDHLKKKVEAQSG-SEK--KQVIKTWSRRSTIFPDFIGHTFAVYDGRKHVPVFVTE-DMVGHKLGEFAPTRTFKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001286664-NC_009565/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_976850-NC_008769/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_001092293-NC_009092/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGMTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_622626-NC_008060/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001018306-NC_008820/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKLEKQNA-DDD--KSVIKTWSRASTILPMMIGHTIAVHNGRSHVPVFITE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "NP_893671-NC_005072/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNT-DND--KSVIKTWSRSSTILPVMIGHTIAVHNGKAHIPVFITE-QMIGHKLGEFAPTRTYRGHL-R--DKKGA---R-------"
+}
+
+{
+name    "NP_709104-NC_004337/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_736261-NC_008322/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_994452-NC_008785/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001639632-NC_010172/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LWKGPFVDGYLLKKADAARGGSRN---EVVKIWSRRSTILPQFVGITFGVHNGHKHIPVYVTE-EMVGHKFGEFSPTRTFPGHA---ADKKAK---RR------"
+}
+
+{
+name    "YP_437283-NC_007645/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVETAVE-VKD--KKPIKTWSRRSTIFPEMVGLTIAVHNGRQHVPVYVTE-DMVGHKLGEFAATRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "NP_388001-NC_000964/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDGHLMTKIEKLNE-TDK--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVFISE-DMVGHKLGEFAPTRTYKGHA--SDDKKTR---R-------"
+}
+
+{
+name    "YP_001596189-NC_010117/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------TNKGPFVDHHLMKKVDQAQK-EGS--KRPIKTWSRRSMVVPEMVGLTIAIHNGRQHVPVYISE-NMVGHKLGEFAITRTFRAH---SGDRKAK---KEGEK---"
+}
+
+{
+name    "YP_504896-NC_007797/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKPPFCAPHVLRLANRVIASNRTS--VVINIHSRSSVILNKFVGLTFGVYNGKTYVPVKVTD-NIVGRKFGEFSPTRRFLGHA---GDKKVS---RKG-----"
+}
+
+{
+name    "YP_579755-NC_007969/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDAHLFAKVETALE-TNS--RKPIKTWSRRSMILPQMVGLTLSVHNGRTHVPVIVSE-QMVGHKLGEFAPTRTYRGH---GIDKKAK---R-------"
+}
+
+{
+name    "YP_944802-NC_008709/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-SGE--KKPIKTWSRRSMIIPDMIGLTIAVHNGRQHVPVFVTD-EMVGQKLGEFAPTRTYRGH---TSDKKTK---KK------"
+}
+
+{
+name    "YP_854843-NC_008570/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPVKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTE-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_842682-NC_003997/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_181222-NC_002936/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSVK-------------KGPALCPKLMKKVEVASA-TNQ--KSIIKTWARWSTITPLMVGLNVGVHDGRRHVPIYITE-NMVGHRLGEFTTTRNFRGHAKAEKVSQVK-----------"
+}
+
+{
+name    "YP_005293-NC_005835/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGVFVDDHLLEKVLELNA-KGE--KRLIKTWSRRSTIVPEMVGHTIAVYNGKQHVPVYITE-NMVGHKLGEFAPTRTYRGHG-----KEAK---ATKKK---"
+}
+
+{
+name    "YP_644907-NC_008148/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------SKKEPFVEEKLMRRILEMNE-KNE--KRMIKTWSRASVIYPEMVGHTIAVHDGRKHVPVYITE-SMVGHRLGEFAPTRTFRSH--KK-DDRTA---RRR-----"
+}
+
+{
+name    "YP_219526-NC_004552/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHSLIKKVRAMNL-LEK--KTPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRIFKSHPVKKG----------------"
+}
+
+{
+name    "YP_001322205-NC_009633/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------AKKGPFIHKGLLRKIEEMNE-KDE--KKVIKVWSRASTIFPQMIGHTIAVHDGRKHVPVYVTE-DMVGHKLGEFALTRTYRGHD-D--DEKTS---KRK-----"
+}
+
+{
+name    "YP_001443962-NC_009783/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLKTWSRRSMIIPSMIGLTIAVHNGRQHVPVFVTE-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_145963-NC_006510/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFCDEHLMKKIEKLNA-TGQ--KQVIKTWSRRSTIFPQFVGHTIAVYDGRKHVPVYITE-DMVGHKLGEFAPTRTFRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_001552646-NC_009997/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001185261-NC_009438/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001292723-NC_009567/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_741306-NC_008340/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------VKKGPFVDGHLLSKVEKARE-SNS--KRPIKTWSRRSMVLPQMVGLTIAIHNGRQHVPVLINE-NMVGHKLGEFAATRTYRGH---AAGKKTK-----------"
+}
+
+{
+name    "YP_934915-NC_008702/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFIDAHLLKKVDAARA-SND--KRPIKTWSRRSTVLPDFVGLTIAVHNGRQHIPVYVSE-NMVGHKLGEFALTRTFKGH---AASKKAK---R-------"
+}
+
+{
+name    "YP_001039298-NC_009012/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYVDPKLLKKIEEMNA-KNE--KKVIKTWSRASTIFPQMVGHTIAVHDGRKHVPIYISE-EMVGHKLGEFAPTRTFKGHG-AH-TEKST---ALK-----"
+}
+
+{
+name    "NP_602457-NC_003454/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFCDHHLMAKVEEAVASGNN--KAVIKTWSRRSTIFPNFIGLTFGVYNGKKHIPVHVTE-QMVGHKLGEFAPTRTYHGHG---VDKKKK-----------"
+}
+
+{
+name    "YP_001495098-NC_009882/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFAPTRTFHGHG---ADKKIK---RK------"
+}
+
+{
+name    "YP_001178455-NC_009436/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_472106-NC_003212/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDDHLMKKVEAAAE-SEK--KQVIKTWSRRSTIFPTFVGQTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_599648-NC_008023/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001405701-NC_009714/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDEYIIKKVIAAKK-AKD--NKPIKTWSRRSTITPEMIGLTFNVHNGKSFIPVYVTE-HHIGYKLGEFAPTRTFKGHRG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_925086-NC_008699/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLQKKVDAENA-KGS--HNVIKTWSRRSMIVPDMIGHTIAVHDGRKHVPVFVTD-SMVGHKLGEFAPTRTYRGHV--KEDRKGR---RR------"
+}
+
+{
+name    "YP_281412-NC_007297/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "NP_636285-NC_003902/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDHHLAKKVESA---AGS--KKPIKTWSRRSMILPEMVGITIAVHNGKNHIPVLVNE-NMVGHKLGEFAVTRTFKGH---GGDKKSS---R-------"
+}
+
+{
+name    "YP_001635971-NC_010175/1-81"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------------------------------MLDKIEAMNK-ANE--KRVIRTWSRDSTIFPQMIGHTIAVHDGRRHVPVYITE-NMVGHKLGEFAPTRFFRGHG-GKKADKRG---KVK-----"
+}
+
+{
+name    "YP_203623-NC_006840/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPVKTWSRRSMIIPTMINLTIAVHNGRQHVPVFVTE-DMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_845681-NC_008554/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDGHLFEKIYKAKETGD---RKVIKTWSRRSTIVPEFVGITVAVHNGKKFIPVFITE-NMVGHKLGEFAPTRTFYGHA---GDKKSK--VKGKK----"
+}
+
+{
+name    "NP_282829-NC_002163/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVIAAKK-AND--NKPIKTWSRRSTITPDMIGLTFNVHNGKSFIPVYITE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_605327-NC_008025/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDAQNE-RRE--KRVIKTWSRRSTIVPEMIGHTIAVHNGKQHVPVFINE-QMIGHKLGEFSPTRTYRGHG-A--DKNAK---GSKKK---"
+}
+
+{
+name    "NP_078069-NC_002162/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGAYADPSLLKKVEAANA-SVS--KKPIKTWSRRSQIFPNFVGLTFEVHNGKTFLKVYVTE-DMIGHKLGEFAPTRNFKNHTEAKR----------------"
+}
+
+{
+name    "NP_102124-NC_002678/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------IWKGPFIDGYLLKKVDKVREGGRN---EVIKMWSRRSTILPQFVGFTFGVYNGQKHVPVSVNE-DMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_991610-NC_005810/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_817704-NC_008531/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADPHLLKKIEAQVD-SEK--KSVIKTWSRRSTIFPSFIGFTIAVYDGRKHVPVYVQE-DMVGHKLGEFVPTRTFKGHK--NDDKKTG---K-------"
+}
+
+{
+name    "YP_001337369-NC_009648/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001171327-NC_009434/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEAAVE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVSE-DMVGHKLGEFAATRTYRGH---VADKKGK---R-------"
+}
+
+{
+name    "YP_001161531-NC_009381/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_053367-NC_006055/1-87"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDENLFKKAEVAKDGE------VIKTWSRRSTIFPEFIGKTFGVYNGKEFIPVYVTE-DMVGHKLGEFAPTRKFGGHG----DDKGK---K-------"
+}
+
+{
+name    "NP_715875-NC_004347/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001590427-NC_010102/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_807677-NC_008526/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFADAHLLKKIEAQAD-NDK--KTVIRTWSRRSTIFPSFIGYTIAVYDGRKHVPVFVSE-DMVGHKLGEFVPTRTFRGHN--TDDKKTT---AR------"
+}
+
+{
+name    "YP_974265-NC_008767/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPYVDLHLLKKVDAARA-SND--KRPIKTWSRRSTILPDFIGLTIAVHNGRTHVPVFISD-NMVGHKLGEFSLTRTFKGH---LADKKAK---KK------"
+}
+
+{
+name    "YP_988971-NC_008783/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVDGYLLGKAEKVRASGRN---EVIKIWSRRSTILPQFVGLTFGVHNGNKHIPVFVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_867853-NC_008577/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001235062-NC_009484/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------VWKGPFVDGYMLNKADASRASGRN---EIIKIWSRRSTILPQFVGLTFGVYNGRKFLPVQVTE-NMVGHKFGEFSPTRTFNGHA---ADKKAK---RG------"
+}
+
+{
+name    "YP_001197447-NC_009442/1-123"
+type    "PROTEIN"
+sequence        "-------------------------------------------------MRGQDNEHGNWGSVHLPSRCGTYFKGENTKMGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_142258-NC_006449/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_821213-NC_008532/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDGHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_706072-NC_008268/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLAKVDVQNE-KGT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVSD-SMVGHKLGEFAPTRTFKGHI--KDDRKAK---RR------"
+}
+
+{
+name    "YP_001573124-NC_010067/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_508531-NC_007802/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VWKGPFVDSYVLKKAEKSKESGRN---EVIKIWSRRSTILPQFVGLTFGVYNGRKHIPVNVTE-DMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_478794-NC_007776/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDAKLLLKVEKMNE-RNE--KHLIKTWSRASTILPVMIGHTIAVHNGKQHVPIYITD-QMVGHKLGEFVPTRTFRGHA-GS-DKKAA---RR------"
+}
+
+{
+name    "YP_722636-NC_008312/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFIADHLLKKIEALNA-KNE--KQVIKTWSRSSTIIPDMVGHTIAVHNGRQHVPVFISD-QMVGHKLGEFAPTRTYRGHG-S--DKKSK---R-------"
+}
+
+{
+name    "YP_474625-NC_007775/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDAKLLLKIEKMNE-RNE--KHMIKTWSRASTILPVMIGHTIAVHNGKQHVPIYITD-QMVGHKLGEFVPTRTFRGHA-GS-DKKAA---RR------"
+}
+
+{
+name    "YP_122738-NC_006368/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IRKGPFIDHHLISKVEAAIE-SKS--KKPIKTWSRRSTIVPEMIDLTIAVHNGKDHVPVFITD-NMVGHKLGEFAMTRTFKGH---SGDRKAK---GK------"
+}
+
+{
+name    "NP_282975-NC_003116/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPYVDLHLLKKVDAARA-SND--KRPIKTWSRRSTILPDFIGLTIAVHNGRTHVPVFISD-NMVGHKLGEFSLTRTFKGH---LADKKAK---KK------"
+}
+
+{
+name    "YP_213578-NC_003228/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYINVKLEKKVLAMNE-SGK--KVVVKTWSRASMISPDFVGHTVAVHNGNKFIPVYVTE-NMVGHKLGEFAPTRTFRGHAGNKKK---------------"
+}
+
+{
+name    "NP_895563-NC_005071/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKLEKQNA-DDD--KSVIKTWSRASTILPMMIGHTIAVHNGRSHVPVFITE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "YP_001272062-NC_009513/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFADASLLKKVKEQEG-SEK--KTVIKTWSRRSTIFPSFIGYTFAVYDGRKHVPVYVQE-DMVGHKLGEFVPTRTFHGHA--SDDKKTG---K-------"
+}
+
+{
+name    "NP_876099-NC_005042/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLIKKVEKQNS-DDD--KSVIKTWSRASTILPMMIGHTIAVHNGKTHVPVFITE-QMVGHKLGEFAPTRTYRGHM-K--DKKGG---R-------"
+}
+
+{
+name    "YP_001298127-NC_009614/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYINVKLEKKVLAMNE-SGK--KVVVKTWARASMISPDFVGHTVAVHNGNKFIPVYVTE-NMVGHKLGEFAPTRTFRGHAGNKKK---------------"
+}
+
+{
+name    "YP_525022-NC_007908/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLVAKADKAVA-TKD--KKPIKTWSRRSMVLPDFIGLTIAVHNGKQHVPVYITD-QMVGHKLGEFALTRTFKGH---PADKKVQ---KK------"
+}
+
+{
+name    "YP_465150-NC_007760/1-98"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFADKHLTKKVEDANKGNK---KSVIKTWSRRSTILPDFVGHTFAVHNGRKFVPVFVTE-NMVGHKLGEFAPTRTFHGHS---AEKKAA---AAPGPAKK"
+}
+
+{
+name    "YP_076897-NC_006177/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSLK-------------KGPYIDPSVEKKILAMNE-KGE--KKVFKTWARDCTIFPEMVGHTIAVHNGKTHVPVYITE-EMVGHKLGEFAPTRTFRGHGGDERSSRVR-----------"
+}
+
+{
+name    "YP_443568-NC_007651/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001261852-NC_009511/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDLHLLRKAEGAQDSGARA---PIKTWSRRSTILPQFVGLTFNVYNGRKFVPVSVSE-EMVGHKLGEFAPTRYFPGH----ADKKGK---R-------"
+}
+
+{
+name    "YP_833999-NC_008542/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001291327-NC_009566/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "NP_462340-NC_003197/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001101392-NC_009138/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFCDAHLVKKVETAQA-IKD--KKPIKTWSRRSTIMPDFIGLTIAVHNGKQHVPVYVSE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_544395-NC_007947/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDGHLAKKVEAAVA-SRD--RKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVLISE-NMVGHKLGEFALTRTFKGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_356134-NC_007498/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPYVEESLLRKADFEGGAGS---KKVIKTWSRRSTIIPEFVGYTFAVHNGKKFIPVFVTE-NMVGHKLGEFAPTRTYYGHG---ADKKGK---R-------"
+}
+
+{
+name    "NP_444656-NC_002179/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRAMNI-EEK--KTPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRIFKSHPVKKG----------------"
+}
+
+{
+name    "NP_224839-NC_000922/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSLR-------------KGPFVDHHLLKKVRAMNI-EEK--KTPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRIFKSHPVKKG----------------"
+}
+
+{
+name    "NP_966441-NC_002978/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------AWKPPFCHPSILKSVNNALNKGFVN--MAIKVHSRASVILPNCLGLKFAVYNGKDYIPVNVNDQNMIGHKFGEFSPTRKFTGHS---GDKKAT---RR------"
+}
+
+{
+name    "YP_314167-NC_007404/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDGHLLKKVEAVRG-SND--KRPIKTWSRRSTVLPDFIGLTIAVHNGRQHVPVFVTE-NMVGHKLGEFSLTRTFKGH---VADKKAK---K-------"
+}
+
+{
+name    "YP_984612-NC_008782/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLVAKVEKAIA-TKD--KKPVKTWSRRSMVLPEFIGLTIAVHNGKQHVPVYVTD-QMVGHKLGEFALTRTFKGH---PADKKVQ---KK------"
+}
+
+{
+name    "YP_001303723-NC_009615/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYINVKLEKKVLAMNE-SGK--KAVVKTWARASMISPDFVGHTIAVHNGNKFIPVFVTE-NMVGHKLGEFSPTRTFRGHAGNKKK---------------"
+}
+
+{
+name    "YP_266520-NC_007205/1-97"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVEESLIKKVEKQKLDPK---KMPIKTWSRKSTIIPEFIGVSFLIYNGKKFIPVTISE-DMVGHKLGEFSPTRTFFGHTP--AEKKGKPAEKKK-----"
+}
+
+{
+name    "YP_812449-NC_008529/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFADAHLLKKVDEQQA-AEK--KQVIKTWSRRSTIFPSFVGLTIAVYDGRKHVPVFVTE-DMVGHKLGEFVPTRTFRGHK--ADDKASK-----------"
+}
+
+{
+name    "YP_513035-NC_007880/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_064864-NC_006138/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFIDDHLQKKVDQSLESGSR---KVIKTWSRRSDISPEMVGLTFAVHNGKKFIPVFVSE-NMVGHKLGEFSPTRTYYGHS---ADKK----GKR------"
+}
+
+{
+name    "YP_001425178-NC_009727/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------TNKGPFVDHHLMKKVDQAQK-EGS--KRPIKTWSRRSMVVPEMVGLTIAIHNGRQHVPVYISE-NMVGHKLGEFAITRTFRAH---SGDRKAK---KEGEK---"
+}
+
+{
+name    "YP_958007-NC_008740/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEAALE-AND--KRPIKTWSRRSTVFPEMVGLTIAVHNGKQHVPVYVTE-DMVGHKLGEFAATRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_001279335-NC_009524/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDAHLFAKVEKAVE-SNS--RKPIKTWSRRSMILPQMVGLTISVHNGRTHVPVIISE-QMVGHKLGEFAPTRTYRGH---GFDKKAK---K-------"
+}
+
+{
+name    "YP_001108921-NC_009142/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDALNE-SGK--KTVIKTWSRRSTIIPDMLGHTFAVHDGRKHIPVFVNE-SMVGHKLGEFAPTRTFKGHV--KDDRKSR---RR------"
+}
+
+{
+name    "YP_748853-NC_008345/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001355097-NC_009659/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFCDAHLVKKVETAQA-IKD--KKPIKTWSRRSTIMPDFIGLTIAVHNGKQHVPVYVSE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001561426-NC_010002/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLLAKAEKAVA-TKD--KKPVKTWSRRSMVLPEFIGLTIAVHNGKQHVPVYVTD-QMVGHKLGEFALTRTFKGH---PADKKAK---K-------"
+}
+
+{
+name    "YP_101454-NC_006347/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYINVKLEKKVLAMNE-SGK--KVVVKTWSRASMISPDFVGHTVAVHNGNKFIPVYVTE-NMVGHKLGEFAPTRTFRGHAGNKKK---------------"
+}
+
+{
+name    "YP_872070-NC_008578/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVEAQNA-RGT--KNVIKTWSRRSMIVPEMIGHTIAVHDGRKHVPVFITE-AMIGHKLGEFAPTRTFRGHV--KEDRRSR---RG------"
+}
+
+{
+name    "YP_001213918-NC_009455/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSVK-------------KGPALCPKLMKKVEVASA-TNQ--KSIIKTWARWSTITPLMVGLNVGVHDGRRHVPIYITE-NMVGHKLGEFTTTRNFRGHAKAEKVSQVK-----------"
+}
+
+{
+name    "YP_900373-NC_008609/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFIDEHLAKKVL-AEGPNS---KKIIKTWSRRSTITPDFIGLSFAVHNGRKFVPVYVTE-NMVGHKLGEFSPTRTFHGHA---ADRKSK--AKR------"
+}
+
+{
+name    "NP_969751-NC_005363/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDTHVQKKIDNALEKND---KKVIKTWSRRSTILPETIGLTFAVHNGRKFVPVYITE-NMIGHKLGEFAPTRTFHGHA---EKKAAAPAAKK------"
+}
+
+{
+name    "YP_891248-NC_008599/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVLAAKA-AND--NKPIKTWSRRSMIIPEMIGLTFNVHNGKGFIPVYVTE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001255958-NC_009495/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYIQEVLLKRINEMNK-NGE--KKVLKTWSRSSTVFPQMIGHTIAVHDGRKHVPVYITE-DMVGHKLGEFVLTRTYRGHD-DK-SEKSS---RLR-----"
+}
+
+{
+name    "NP_403864-NC_003143/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_173658-NC_006582/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDGHLMKKVEALNA-TND--KKVVKTWSRRSTIFPDFIGHTFAVYDGRKHVPVYVSE-DMVGHKLGEFAPTRTYKGHA---ADKKTR---R-------"
+}
+
+{
+name    "YP_077404-NC_006270/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMTKIEKLNE-ADK--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYISE-DMVGHKLGEFAPTRTYKGHA--SDDKKTR---R-------"
+}
+
+{
+name    "YP_570307-NC_007958/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADVARASGRH---DVIKIWSRRSTILPQFVGLTFGVYNGQKHVPVAINE-EMVGHKFGEFSPTRTFHGHS---GDKKSK---KG------"
+}
+
+{
+name    "YP_485915-NC_007778/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLTFGVYNGQKHVPVAINE-EMVGHKFGEFSPTRTFHGHS---GDKKSK---KG------"
+}
+
+{
+name    "NP_599752-NC_003450/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLNKVDAQNE-KGT--KQVIKTWSRRSTILPDFIGHTFAVHDGRKHVPVFVDD-AMVGHKLGEFAPTKTFKGHV--KDDKKGR---R-------"
+}
+
+{
+name    "YP_746800-NC_008344/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------ISKGPFVDLHLINKVIVVRK-NND--KRPIKTWSRRSTILPDFIGLTISVHNGRQHIPIFITE-NMVGHKLGEFSHTRTFKGH---AGDKKAA---GSKR----"
+}
+
+{
+name    "YP_001493779-NC_009881/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFVPVSVNE-EMVGKKLGDFAPTRTFYGHG---ADKKVK---RK------"
+}
+
+{
+name    "YP_001467716-NC_009802/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVIAAKN-AND--NKPIKTWSRRSTIVPEMIGLTFNVHNGKSFIPVYVTE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_081725-NC_006274/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_388745-NC_007519/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDDHVMKKVEKAQESGDR---RVIKTWSRRSTISPEMVGLTFAVHNGRKFIPVFVTE-NMVGHKLGEFSPTRTYYGHA---ADKKSK--AKR------"
+}
+
+{
+name    "YP_001229850-NC_009483/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDTHLQAKVQ-AEGPSS---KKVIKTWSRRSTITPDFIGLTFAVHNGRKFIPVFVTE-NMVGHKMGEFAPTRTFFGHA---ADKKSK--LKKK-----"
+}
+
+{
+name    "YP_034466-NC_005957/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_897906-NC_008601/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_660057-NC_008228/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEAAVE-KND--KKPIKTWSRRSMIIPDMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "YP_802549-NC_008512/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGVFLHKSLFLKIKNNKLEN-------IKTWSRNSTIIPDMIGININIHNGKLFKKVFIVE-DMIGCKLGEFSFTRKFKSHS-----KKIK--RKKK-----"
+}
+
+{
+name    "YP_016719-NC_007530/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001531636-NC_009952/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------VWKGPFVDAYVLKKAEKTRESGRN---EVIKIWSRRSTILPQFVGLTFGVYNGRKHIPVNVTE-DMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "NP_268464-NC_002737/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_904907-NC_008611/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "NP_302261-NC_002677/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKAK---RR------"
+}
+
+{
+name    "YP_059415-NC_006086/1-110"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------MLLNSSRCGTLFKGENYKMGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "NP_294038-NC_001263/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVEDHLLKKVDAQND-KKD--KRVIKTWSRRSTIVPEMIGHTIAVYNGKQHVPVFVNE-QMIGHKLGEFSPTRTYRGHG-A--DKNAK---GSKKK---"
+}
+
+{
+name    "YP_001027899-NC_008836/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_699659-NC_008262/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVHAGLLKKIEEMNQ-NGD--KKVIKTWSRSSTIFPQMIGHTIAVHDGRKHIPVYVTE-DMVGHKLGEFVLTRTFKGHI-K--NEKTS---KRK-----"
+}
+
+{
+name    "NP_950456-NC_005303/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSVK-------------KGPIVASHLLAKIEKQKN-LKN--KKVIQTWSRSSTITPIFVGHKIAVYNGREHIPVYITE-NMVGHKLGEFSPTRTYRGHNKKDKKIQKK-----------"
+}
+
+{
+name    "YP_001228376-NC_009482/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVADSLLRKVEKLNA-AGE--KPVIKTWSRASTILPMMIGHTIAVHNGKAHVPVFVTE-QMVGHKLGEFAPTRTFKGHI-K--DKKGG---R-------"
+}
+
+{
+name    "NP_759739-NC_004459/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLKTWSRRSMIIPTMIGLTIAVHNGRQHVPVFVTE-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_420065-NC_002696/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------VWKGPFVDGYLLKKADAALSSGRK---DVIKTWSRRSTIMPQFVGLTFGVHNGHKHVPVLVSE-DMVGMKFGEFAPTRNFPGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_001436154-NC_009778/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001306203-NC_009616/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSTK-------------KGPFVDPKLLKKIKQLNE-AGE--KKIIKTWSRASMIVPEMVGHTIAVYNGLKHIPVYITE-NMVGHRLGEFSFTRRFGGHADKSAS-KGQVKK--------"
+}
+
+{
+name    "YP_015189-NC_002973/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDDHLMKKVEAAAE-SEK--KQVIKTWSRRSTIFPTFVGQTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_424656-NC_007633/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDENLFKKVTSAKDGE------VIKTWSRRSTIFPEFIGKTFGVYNGKEFIPVYITE-DMVGNKLGEFAPTRKFGGHG----DDKGK---KK------"
+}
+
+{
+name    "NP_755947-NC_004431/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_212616-NC_001318/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFIEKSLYQKVLSSFGSEK---RVVIKTYSRSSTIIPEMVSLTISVYNGKTFIPIYITE-DLVGHKLGEFSPTRIFRGHAK--SDKKGR---K-------"
+}
+
+{
+name    "YP_338695-NC_007481/1-96"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MRNSHATF---------SQEGSFYRPTLLKKVEKALE-SGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFITD-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_276702-NC_005773/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKIEVAAE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "YP_001650372-NC_010263/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFAPTRTFHGHG---ADKKIK---RK------"
+}
+
+{
+name    "YP_328347-NC_007429/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRDMNA-LEK--KTPIKTWSRRSMITPEMIGHTFEVHNGRKFLTVFVSE-TMVGHKLGEFSPTRMFKSHPVKKG----------------"
+}
+
+{
+name    "YP_001082994-NC_009080/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001127646-NC_009332/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001256681-NC_009497/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADEHLLKKVDAILEGKMP--KKPIKTWSRRSTIFPSFIGLTFQVHNGHQHIDVYVTD-DMVGHKLGEFVPTRTYSGHG---AEKGKK---K-------"
+}
+
+{
+name    "YP_496531-NC_007794/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDLHLLKKAEAAQDAGSRA--GPIKTWSRRSTIIPQFVGLTFNVYNGQKFIPVSVSE-EMVGHKLGEFAPTRNFPGHA---ADKKGK---R-------"
+}
+
+{
+name    "YP_335136-NC_007434/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001240973-NC_009485/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEASLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLTFGVYNGQKHVPVAVNE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---KA------"
+}
+
+{
+name    "NP_765375-NC_004461/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDHLMKKVEAQDG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "NP_854383-NC_002945/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_469201-NC_007761/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRA---EVIKIWSRRSTILPQFVGLTFGVYNGSKHIPVSVNE-DMVGHKFGEFSPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_963099-NC_002944/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDGHLLKKVDAQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKAK---RR------"
+}
+
+{
+name    "YP_297379-NC_007347/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------AKKGPFCDAHLLKKVEAAVG-GKD--KKPIKTWSRRSTIMPEFIGLTIAVHNGRQHVPVYVTE-NMVGHKLGEFALTRTFKGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_727916-NC_008313/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------AKKGPFCDAHLLKKVEVASS-GKD--KKPIKTWSRRSTILPEFIGLTIAVHNGRQHVPVYVTE-NMVGHKLGEFAITRTFKGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_287587-NC_007332/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADDHLLKKVDEAIA-KNS--RKPIKTWSRRSTIFPQFVGLTFLVHNGKIFNEVYVTD-DMVGHKLGEFSPTRTYHGHG---KDKAKK-----------"
+}
+
+{
+name    "YP_116946-NC_006361/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLQAKVDVQNE-KGT--KQVIKTWSRRSTITPDFIGHTFAVHDGRKHVPVFVSE-NMVGHKLGEFAPTRTFKSHV--KEDRKSK---RR------"
+}
+
+{
+name    "YP_001456212-NC_009792/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_646982-NC_003923/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "NP_933172-NC_005139/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLKTWSRRSMIIPTMIGLTIAVHNGRQHVPVFVTE-EMIGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001451231-NC_009785/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_001360445-NC_009664/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLQKKVDAQNE-AGT--HNVIRTWSRRSVVTPDFLGHTFAVHDGRKHTPVFVTE-SMVGHKLGEFAPTRTFKGHE--KDDRKGR---RR------"
+}
+
+{
+name    "YP_001442820-NC_009782/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "NP_349728-NC_003030/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVKESLLNKIVEMNK-AGD--KKVVKTWSRSSTIFPEMIGHTIAVHDGRKHVPVYISE-DMVGHKLGEFVLTRTFRGHG-N--TEKTT---SVK-----"
+}
+
+{
+name    "NP_109857-NC_000912/1-87"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSAK-------------KGAFVDAHLLKKVIDMNK-QEK--KRPIKTWSRRSTIFPEFVGNTFAVHNGKTFINVYVTD-DMVGHKLGEFSPTRNFKQHTANR-----------------"
+}
+
+{
+name    "YP_893034-NC_008600/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001510295-NC_009921/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNE-KGT--KHVIRTWSRRSTVIPDMLGHTIAVHDGRKHVPVFITE-GMVGHKLGEFAPTRTFRGHV--KEDRRSR---RG------"
+}
+
+{
+name    "YP_681732-NC_008209/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VWKGPFVDSYVLKKAEASRESGRN---EVIKIWSRRSTILPQFVGLTFGVYNGRKHIPVNITE-DMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_001355698-NC_009662/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDHLMKKVLKAKE-SGD--KKPIKTWSRRSTIVPEMIGLTINVHNGRQFVPVYITE-NHVGFKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001002432-NC_008789/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------TKKGPFIDHHLLKKVEEANA-NNS--KRPIKTWSRRSVVMPDMVGLTIAIHNGRQHVPVLINE-NMVGHKLGEFAVTRSFRGH---AADKKSK---R-------"
+}
+
+{
+name    "NP_563317-NC_003366/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVHAGLLKKIEEMNQ-NGD--KKVIKTWSRSSTIFPQMIGHTIAVHDGRKHIPVYVTE-DMVGHKLGEFVLTRTFKGHI-K--NEKTS---KRK-----"
+}
+
+{
+name    "NP_826107-NC_003155/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLIKKVDAQNE-AGS--KNVIKTWSRRSMIIPAMLGHTIAVHNGKTHIPVFVTE-SMVGHKLGEFSPTRTFRGHV--KDDRKSK---RR------"
+}
+
+{
+name    "NP_344753-NC_003028/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_001008064-NC_008800/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001654857-NC_010287/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRDMNA-LEK--KTPIKTWSRRSMITPEMIGHTFEVHNGRKFLTVFVSE-TMVGHKLGEFSPTRMFKSHPVKKG----------------"
+}
+
+{
+name    "YP_290698-NC_007333/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLMKKVLEQNE-KGT--KNVIKTWSRRSMVVPEMIGHTIAVHDGRKHVPVFITE-AMIGHKLGEFAPTRTFRSHV--KEDRRSR---R-------"
+}
+
+{
+name    "YP_445171-NC_007677/1-97"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSLR-------------KGPYVYYKLQRKVDALNE-SDE--KKVIKTWSRDSIITPDFVGHTFAVHNGHQFIPVYVTE-NMVGHKLGEFAPTRTFTEHSQAKVDQRIRKPGQ-------"
+}
+
+{
+name    "YP_001091969-NC_009091/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNT-DND--KSVIKTWSRSSTILPLMIGHTIAVHNGKTHIPVFITE-QMIGHKLGEFAPTRTYRGHI-R--DKKGA---KS------"
+}
+
+{
+name    "YP_628001-NC_008086/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFIDDHLMKKTLKAKE-GKD--NRPIKTWSRRSTILPEMIGFTYNVHNGRVFVPVYITE-NHVGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001662509-NC_010320/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYVDPKLLKKIVEMNK-KNE--KKVIKTWSRSSTIVPEMVGHTIAVHDGRKHVPVYITE-AMVGHKLGEFAPTRTFHGH--AD-TEKTS---KVK-----"
+}
+
+{
+name    "YP_832450-NC_008541/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDQHLFVKVDRENE-KGT--KNVIKTWSRRSMIIPDMLGHTIAVHDGRKHIPVFVTE-SMVGHKLGEFAPTRTFRGHV--KDDRKGK---RR------"
+}
+
+{
+name    "NP_312208-NC_002695/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_996054-NC_008786/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLLAKVEKAVA-TKD--KKPVKTWSRRSMVLPEFIGLTIAVHNGKQHVPVYVTD-QMVGHKLGEFALTRTFKGH---PADKKVK---K-------"
+}
+
+{
+name    "YP_307559-NC_007356/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSVK-------------KGPALCPKLMKKVEVASA-TNQ--KSIIKTWARWSTITPLMVGLNVGVHDGRRHVPIYITE-NMVGHKLGEFTTTRNFRGHAKAEKVSQVK-----------"
+}
+
+{
+name    "YP_001664383-NC_010321/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYVDPKLLKKIVEMNK-KNE--KKVIKTWSRSSTIVPEMVGHTIAVHDGRKHVPVYITE-AMVGHKLGEFAPTRTFHGH--AD-TEKTS---KVK-----"
+}
+
+{
+name    "YP_001512054-NC_009922/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFIHQGLLKKIEEMNA-KNE--KKVIKTWSRASTIFPQMIGHTIAVHDGRKHVPVYVTE-DMVGHKLGEFALTRTYRGHD-D--NEKTT---KRK-----"
+}
+
+{
+name    "YP_189390-NC_002976/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDDHLMKKVEAQDG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_744379-NC_008343/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLNKADAARASGRN---EIIKIWSRRSTILPQFVGLTFGVYNGHKFLPVQVTE-NMVGHKFGEFSPTRTFPGHA---ADKKAK---RG------"
+}
+
+{
+name    "YP_001296229-NC_009613/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSLK-------------KGPFVHYKLDKKVQENIA-GGN--KGVVKTWSRASMITPDFVGQTIAVHNGRQFVPVYVTE-NMVGHKLGEFSPTRSFRGHAGAKNKGKK------------"
+}
+
+{
+name    "NP_660833-NC_004061/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDVSLLKKVEKAVK-IND--KKPLKTWSRRSTVFPNMVGLTISVHNGRHHIPIFITE-EMVGHKLGEFSLTRTYRGH---TADKKVK---KR------"
+}
+
+{
+name    "NP_874307-NC_002940/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_072175-NC_006155/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_326415-NC_002771/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADEHLLKKVEKAIE-SKS--RKPIKTWSRRSTIFPDFVNLTFQVHNGKNFIDVFVTD-DMVGHKLGEFAPTRTFGGHG---EDKRKK---K-------"
+}
+
+{
+name    "YP_001576831-NC_010080/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFADASLLKKVDAQAD-ADK--KQVIKTWSRRSTIFPSFVGLTIAVYDGRKHVPVYITE-DMVGHKLGEFVPTRTFHGHK-STEDKTTA---K-------"
+}
+
+{
+name    "YP_850775-NC_008555/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDDHLMKKVEAAAE-SEK--KQVIKTWSRRSTIFPTFVGQTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_001373477-NC_009674/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYITE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_262646-NC_004129/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKIEVAAE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "NP_882398-NC_002928/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVDAHLIKKVDAAVA-GKD--KKPIKTWSRRSTVLPEFIGLTIAVHNGRQHVPVYINE-NMVGHKLGEFALTRTFKGH---AADKKSK---R-------"
+}
+
+{
+name    "YP_351767-NC_007493/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------TWKGPFVDGYLLKKAEKSRESGKN---EVIKIWSRRSTILPQFVGLTFGVYNGKKHVPVNVTE-EMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_455954-NC_007712/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTIFPTMIGLTIAVHNGRQHVPVFVAD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001154843-NC_009379/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------AKKGPFCDASLVKKVEVAQA-NKD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYVSE-NMVGHKLGEFALTRTFKGH---AADKKVT---KK------"
+}
+
+{
+name    "YP_864776-NC_008576/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFLDDFLVKKVDVLREGSR---KELIKTWSRRSTIIHEFVGYTFGVHNGRKFIPVLVTE-NMVGHKLGEFAPTRTYYGHG---VDKKAK---RR------"
+}
+
+{
+name    "YP_536318-NC_007929/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFVDEHLMKKVEAQAD-QEK--KSVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFVPTRTFHGHG--NDDKKTG---VR------"
+}
+
+{
+name    "YP_001015819-NC_008819/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFISDSLLRKIEKQNS-NDD--KAVIKTWSRASTILPLMIGHTIAVHNGKSHIPVFITE-QMVGHKLGEFAPTRTYRGHI-R--DKKGA---R-------"
+}
+
+{
+name    "YP_350803-NC_007492/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKIEVAAE-KND--RKPIKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRNYRGH---VADKKAK---R-------"
+}
+
+{
+name    "YP_115704-NC_006360/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADDHLLKKVDEAIA-KNS--RKPIKTWSRRSTIFPQFVGLTFLVHNGKIFNEVYVTD-DMVGHKLGEFSPTRTYHGHG---KDKAKK-----------"
+}
+
+{
+name    "YP_001379102-NC_009675/1-96"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFADKHLTKKVEDANKGNK---KSVIKTWSRRSTILPDFVGHTFAVHNGRKFVPVFVTE-NMVGHKLGEFAPTRTFHGHS---AEKKAA---AAP--ARK"
+}
+
+{
+name    "YP_679740-NC_008255/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYIDFRLDNKVQALND-SAK--KTVIKTWSRRSMISPEFVGHTFAVHNGNKFIPVYVTE-NMVGHKFGEFSPTRTFKGHAAKGKK---------------"
+}
+
+{
+name    "NP_241004-NC_002570/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDDHLMKKIETLNE-SND--KKVVKTWSRRSTIFPEFVGHTIAVYDGRKHVPVYISE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_114784-NC_002977/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------IKKGPFVDHHLMKKIDEANA-TGA--KKPIKTWSRRSMVLPEMIGKTIAVHNGKQHVPVLVSD-NMVGHKLGEFAPTRTYKGH---QADKKSK-----------"
+}
+
+{
+name    "YP_180468-NC_005295/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKPPFCAPHVLRLVNKAIAQNKLN--SIINIHSRSSVILNKFIGLTFGVYNGKTYVPVKVND-NMIGRKFGEFSPTRRYTGHV---GDKKVS---RK------"
+}
+
+{
+name    "YP_001419799-NC_009725/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDGHLMTKIEKLNE-TDK--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVFISE-DMVGHKLGEFAPTRTYKGHA--SDDKKTR---R-------"
+}
+
+{
+name    "YP_165747-NC_003911/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VWKGPFVDAYVLKKAAAVRESGRN---EVIKIWSRRSTILPQFVGLTFGVYNGQKHIPVNVTE-DMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_125740-NC_006369/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IRKGPFIDHHLISKVEAAIE-SKS--KKPIKTWSRRSTIVPEMIDLTIAVHNGKDHVPVFITD-NMVGHKLGEFAMTRTFKGH---SGDRKAK---GK------"
+}
+
+{
+name    "YP_007415-NC_005861/1-87"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSLK-------------KGPFVDHHLQKKVDVQNK-EGT--KKPIKTWSRRSMITPDMVGHTFEVHNGRKHLTVFVTD-NMVGHRLGEFSPTRTFKGHPIKK-----------------"
+}
+
+{
+name    "YP_814139-NC_008530/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFADASLLKKIEAQEG-SEK--KQVIKTWSRRSTIFPSFVGFTIAVYDGRKHVPVYITE-DMVGHKLGEFVPTRTFRGHK-VADKATTT---VGK-----"
+}
+
+{
+name    "NP_289877-NC_002655/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001393630-NC_009706/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYVQESLLKKINELNK-KGE--KKVIKTWSRSSTIFPQMIGHTIAVHDGRKHVPVYISE-DMVGHKLGEFALTRTYRGHV-NK-TEKTT---RVSR----"
+}
+
+{
+name    "YP_001010151-NC_008816/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNT-DND--KSVIKTWSRSSTILPLMIGHTIAVHNGKTHIPVFITE-QMIGHKLGEFAPTRTYRGHI-R--DKKGA---KS------"
+}
+
+{
+name    "NP_417775-NC_000913/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001192748-NC_009441/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSLK-------------KGPFVHYKLDKKVQENVE-SGK--NSVVKTWSRASMITPDFVGQTIAVHNGRQFVPVYVTE-NMVGHKLGEFSPTRSFRGHAGAKNKGKK------------"
+}
+
+{
+name    "YP_001210147-NC_009446/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGFFIDLHLAHKVDVAVE-TKS--KKPIKTWSRRSMIIPDMIGLTIAIHNGKQHVPVLITE-DMIGHKLGEFAPTRNYRGHT--AADKKGK-----------"
+}
+
+{
+name    "YP_460352-NC_007759/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEKLFDKVQKAVASGN---KSVIKTWSRRSTITPDLIGHTFAVHNGKKFIPVFVTE-NMVGHKLGEFAPTRIFFSHA---GDRKSK--VRK------"
+}
+
+{
+name    "NP_839554-NC_004741/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_811957-NC_008527/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQTN-AER--KSVIKTWSRRSTIFPNFVGLTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_506161-NC_007798/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------VWKGPFCDNYVIKLARRAR--GNPN--VLIKIRSRRSVILPAFVGYTFGVYNGKVFIPVKVNE-NMVGHKFGEFSPTRTFNGHS---GDRKVN---KK------"
+}
+
+{
+name    "NP_375359-NC_002745/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_218357-NC_006905/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_878494-NC_005061/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LRKGPFIDLHLLRKVEKVIK-TGD--KKPIRTWSRRSTIFPKMIGLTISVHNGKQHIPVFISD-EMVGHKLGEFAPTRTYRGH---SVDKKIK---KRY-----"
+}
+
+{
+name    "YP_001483181-NC_009839/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVIAAKK-AND--NKPIKTWSRRSTITPDMIGLTFNVHNGKSFIPVYITE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001410638-NC_009718/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSSK-------------KGPFVDPKLIKKIRMLNE-TGE--KKIIKTWSRASTIVPEMVGHTIAVYNGMKHIPVYITE-NMVGHKLGEFSFTRRFGGHTNKSAK-KGEVKK--------"
+}
+
+{
+name    "YP_909188-NC_008618/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------IKKGPFVDAHLQKKVDEQNE-KGT--HNVIKTWSRRSMITPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTKTFKGHV--KDDKKAR---R-------"
+}
+
+{
+name    "YP_001567833-NC_010003/1-97"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSLK-------------KGPYVHPSLIKKIREMNE-KGE--KKVIKTWSRASMILPEMVGHTIAVHNGMKHIPVYITE-QMIGHRLGEFSPTRRFGGHPDKKAV-KGKIEKQG------"
+}
+
+{
+name    "YP_001364434-NC_009665/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_761525-NC_008358/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VWKGPFVDGYLLKKAEEARSSEKR---AVIKTWSRRSTILPQFVGLNFQVHNGNKFIPVTVTD-EMVGHKLGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_001593072-NC_010103/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_588780-NC_007984/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLQKVEKAVK-TND--KKPIRTWSRRSTIFPQMIGLTIAVHNGRQHIPIFVAD-EMVGHKLGEFAPTRTYRGH---TADKKAK---KY------"
+}
+
+{
+name    "YP_903432-NC_008610/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LRKGPFIDEHLIKKVLVAQE-KND--RKPIKTWSRRSVVVPEMIGLTIAVHNGRVHVPVSINE-NMIGHKLGEFAITRTFKGH---SGDRKV------------"
+}
+
+{
+name    "YP_246298-NC_007109/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFAPTRTFHGHG---ADKKVK---RK------"
+}
+
+{
+name    "NP_840492-NC_004757/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VSKGPFVDLHLVNKVLSARQ-NND--KKPIKTWSRRSTILPDFIGLTISVHNGRQHVPVFVTE-NMVGHKLGEFSHTRTFKGH---AGDKKAA---GSKR----"
+}
+
+{
+name    "YP_618526-NC_008054/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFADAHLLKKVDEQQA-AEK--KQVIKTWSRRSTIFPSFVGLTIAVYDGRKHVPVFVTE-DMVGHKLGEFVPTRTFRGHK--ADDKASK-----------"
+}
+
+{
+name    "YP_595339-NC_008011/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDKDLMKKVDAAIANNDR---RVLKTWSRRSTILPEMVGLTFAVHNGKKFLPVFITE-NMVGHKLGEFSPTRTFYGHA---GDKKTK--AKK------"
+}
+
+{
+name    "YP_001359618-NC_009663/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------TKKGPFIDGHLMKKVLAAKE-AGD--KKPIKTWSRRSVIFPEFIGLTINVHNGRQFIPVFITE-NHVGYKLGEFAPTRTFKGHKG-SVQKKVG-----------"
+}
+
+{
+name    "NP_789151-NC_004551/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDMHLLKKVRAGNE-SKD--RNMIKTWSRRSMIIPEMLGHTIAVHDGRRHIPVFITE-SMVGHKLGEFAPTRTYRGHV--KDDRKAR---RR------"
+}
+
+{
+name    "NP_938856-NC_002935/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLNKVDAQNE-KGT--KQVIKTWSRRSTILPDFIGHTFAVHDGRKHVPVFVDD-SMVGHKLGEFAPTKTFKGHI--KDDKKGR---R-------"
+}
+
+{
+name    "YP_001034122-NC_009009/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_251624-NC_007164/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLAKVDAQNE-KGN--KNVIKTWSRRSTILPDFIGHTFAVHDGRKHVPVFIDD-SMVGHKLGEFAPTKTFKGHV--KDDKKGR---R-------"
+}
+
+{
+name    "YP_001600091-NC_010120/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPYVDLHLLKKVDAARA-SND--KRPIKTWSRRSTILPDFIGLTIAVHNGRTHVPVFISD-NMVGHKLGEFSLTRTFKGH---LADKKAK---KK------"
+}
+
+{
+name    "YP_001460108-NC_009800/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001218086-NC_009457/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPTMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001343102-NC_009654/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEAAVE-KND--RRPIKTWSRRSTIFPDFVGLTIAVHNGRQHVPVLVTE-DMVGHKLGEFAPTRTYRGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_980453-NC_008781/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLVAKADKAVT-NKD--KKPIKTWSRRSMILPEFIGLTIAVHNGKQHVPVYITD-QMVGHKLGEFALTRTFKGH---PADKKVV---RK------"
+}
+
+{
+name    "NP_628865-NC_003888/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLIKKVDTQNE-AGT--KNVIKTWSRRSMIVPAMLGHTIAVHNGKTHIPVFVTE-SMVGHKLGEFSPTRTFRGHV--KDDRKSK---RR------"
+}
+
+{
+name    "YP_001528599-NC_009943/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEKLENKIVIARNTKS---SHIIKTWSRRSTVTPEMVGLTFAVHNGKKFIPVFVTE-NMVGHKLGEFSPTRTFYGHA---GSKKSK--VR-------"
+}
+
+{
+name    "NP_438940-NC_000907/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_190815-NC_006677/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLFGKAEASRASGRN---EVIKIWSRRSTILPQFVGLTFGVYNGHKFLPVQVTE-NMVGHKFGEFSPTRTYTGHG---SDKKSK---RG------"
+}
+
+{
+name    "NP_212993-NC_000918/1-186"
+type    "PROTEIN"
+sequence        "MREAIKRYGSFELLKGKNTLPELEALLEERKLVLENLKKQLKEAHKGKPKIEAEGDEKLKELIREVNKAQAEVRALEIIVNRVRKYEELYAQYKQMTEKKAYVDPKLWVRIRKMNE-TGE--RKVVRTYSRATTIIPEFVGHTIAVHNGKTFVPVYITQ-DMVGHKLGEFAPTRTFKGHP--EKTAKVVKKK--------"
+}
+
+{
+name    "YP_047721-NC_005966/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDAHLFAKVEAAVA-ANN--RKPIKTWSRRSMILPDFVGLTISVHNGRNHVPVIVTE-HMVGHKLGEFAPTRTYRGH---GVDKKSK---R-------"
+}
+
+{
+name    "NP_710924-NC_004342/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSVK-------------KGPFIDDHLMKKITKLNS-ENQ--KKPFKTWSRRSTIFPDMVGHTVMVHNGKQFTPVYINE-NMIGHKLGEFSPTRTFRGHVAGDKKAAKK-----------"
+}
+
+{
+name    "YP_961567-NC_008750/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001168723-NC_009428/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------TWKGPFVDGYLLKKAEKSRESGKN---EVIKIWSRRSTILPQFVGLTFGVYNGKKHVPVNVTE-EMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_317981-NC_007406/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLVFGVYNGQKHVPVSVNE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---RS------"
+}
+
+{
+name    "YP_001118182-NC_009256/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_159187-NC_006513/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDAHLLKKVDAVRT-SND--KRPIKTWSRRSTVLPDFVGLTIAVHNGRQHVPVFVSE-NMVGHKLGEFALTRTFKGH---AASKKAK---R-------"
+}
+
+{
+name    "YP_427768-NC_007643/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFIDGYLLNKAEKARSSGRN---EVIKIWSRRSTIMPQFVGLTFGVYNGQKFVPVLVTE-QMVGHKFGEFAPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_782492-NC_008435/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLVFGVYNGQKHVPVSINE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---KA------"
+}
+
+{
+name    "YP_109803-NC_006350/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_576831-NC_007964/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLVFGVYNGHKHVPVSVNE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---RA------"
+}
+
+{
+name    "NP_758395-NC_004432/1-77"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------------------------------------MKKVQAMKA-ADK--KKPIKTWSRRSTIFPDFVGLNFEVHNGKSFVNVYVTE-DMIGHKLGEFAQTRTFKQHTSNRKDLAK------------"
+}
+
+{
+name    "NP_975717-NC_005364/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDESLFKKVTAAKDGE------VIKTWSRRSTIFPEFIGKTFGVYNGKEFIPVYITE-DMVGNKLGEFAPTRKFGGHG----DDKGK---KK------"
+}
+
+{
+name    "NP_221019-NC_000963/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMKSGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVYINE-EMVGRKLGEFAPTRTFHGHG---ADKKVK---RK------"
+}
+
+{
+name    "NP_215219-NC_000962/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "NP_886586-NC_002927/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFVDAHLIKKVDAAVA-GKD--KKPIKTWSRRSTVLPEFIGLTIAVHNGRQHVPVYINE-NMVGHKLGEFALTRTFKGH---AADKKSK---R-------"
+}
+
+{
+name    "YP_409626-NC_007613/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001199636-NC_009443/1-123"
+type    "PROTEIN"
+sequence        "-------------------------------------------------MRGQDNEHGNWGSVHLPSRCGTYFKGENTKMGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---RK------"
+}
+
+{
+name    "YP_914571-NC_008686/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDAYVLRKAEKARESGKS---DVIKIWSRRSTILPQFVGLTFGVYNGQKHIPVSVTE-EMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_001495832-NC_009883/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFSPTRTFHGHG---ADKKVK---RK------"
+}
+
+{
+name    "YP_542736-NC_007946/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001343774-NC_009655/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001485366-NC_009848/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMAKVEKLNE-TDK--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVFISE-DMVGHKLGEFAPSRTYKGHA--SDDKKTR---R-------"
+}
+
+{
+name    "YP_001499626-NC_009900/1-94"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSMARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFAPTRTFHGHG---ADKKVK---RK------"
+}
+
+{
+name    "NP_240327-NC_002528/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDISLLKKVEKSVK-IND--KKPIKTWSRRSTIFPNMVGLTISIHNGRSHIPVFVTE-EMVGHKLGEFSLTRTYRGH---TADKKVK---KR------"
+}
+
+{
+name    "YP_001252256-NC_009494/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IRKGPFIDHHLISKVEAAIE-SKS--KKPIKTWSRRSTIVPEMIDLTIAVHNGKDHVPVFITD-NMVGHKLGEFAMTRTFKGH---SGDRKAK---GK------"
+}
+
+{
+name    "YP_601545-NC_008024/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_396374-NC_007576/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFADAHLLNKIEAQAD-SEK--KQVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVFISD-DMVGHKLGEFVPTRTFHGHG--NDDKKTK---AR------"
+}
+
+{
+name    "YP_026400-NC_005945/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_885823-NC_008596/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_858918-NC_008563/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001068030-NC_009076/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "NP_360639-NC_003103/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFAPTRTFHGHG---ADKKIK---RK------"
+}
+
+{
+name    "NP_787678-NC_004572/1-144"
+type    "PROTEIN"
+sequence        "----------------------------MIIHMAAVREKLLAVGIRLVLGVDPKVKPAEPISRAIVLLFVVNPGSVGKLVPRS-------------LKKGPFVDMHLLKKVRAGNE-SKD--RNMIKTWSRRSMIIPEMLGHTIAVHDGRRHIPVFITE-SMVGHKLGEFAPTRTYRGHV--KDDRKAR---RR------"
+}
+
+{
+name    "YP_767382-NC_008380/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRS---EVIKIWSRRSTILPQFVGLTFGVYNGSKHIPVSVNE-DMVGHKFGEFSPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_500975-NC_007795/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "NP_876941-NC_005043/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRAMNI-EEK--KTPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRIFKSHPVKKG----------------"
+}
+
+{
+name    "NP_801308-NC_004606/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_041686-NC_002952/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001033622-NC_009004/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQTN-AER--KSVIKTWSRRSTIFPNFVGLTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_321214-NC_007413/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADHLLSKIEKLND-KNE--KQVIKTWSRASTILPLMVGHTIAVHNGRQHVPVFISE-QMVGHKLGEFAPTRTYRGHG-KS-DKKAG---R-------"
+}
+
+{
+name    "YP_595780-NC_008021/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_671285-NC_008253/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_810206-NC_008528/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPFADPSLLKKIEQLKG-QSK--KPVIRTWSRRSTIFPSFIGFTIAVYDGRKHVPVYIQD-DMVGHKLGEFVPTRTFRGHA-GSDDKKTG---K-------"
+}
+
+{
+name    "YP_001136299-NC_009338/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKAK---RR------"
+}
+
+{
+name    "YP_001111593-NC_009253/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFIDDHLLKKVDEMNE-KGE--KKVFKTWSRRSTIFPQMIGHTIAVYDGRKHIPVYITE-DMVGHKLGEFAPTRTYRGHA-DK-SERST---GLK-----"
+}
+
+{
+name    "YP_001603631-NC_010125/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLNKADASRASGRS---EVIKIWSRRSTILPQFVGLTFGVYNGHKFLPVQVSE-NMVGHKFGEFSPTRTFTGHS---SDKKAK---RG------"
+}
+
+{
+name    "YP_001492580-NC_009879/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IWKGPFVDGYLIKKVQKLMESGK---SEMIKTWSRRSTILPIFVGFTFSVHNGNKFIPVSVNE-EMVGRKLGEFAPTRTFYGHG---ADKKVK---RK------"
+}
+
+{
+name    "YP_597659-NC_008022/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_001500052-NC_009901/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAME-AGD--KKPIKTWSRRSMIIPNMIGMTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_032442-NC_005955/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVDGYLLGKAEKVRSSGRN---EVIKIWSRRSTILPQFVGLTFGVHNGNKHIPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "NP_521136-NC_003295/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------AKKGPFIDAHLLKKVEAAAG-GKD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYVTE-NMVGHKLGEFALTRTFKGH---AADKKAK---R-------"
+}
+
+{
+name    "YP_278757-NC_007294/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADDHLLKKVQAIIDGKAP--KKPIKTWSRRSTIFPDFVGLTFAVHNGKQFIEVYVTD-DMVGHKLGEFSPTRTFSGHG---ADKSKK---K-------"
+}
+
+{
+name    "YP_001012050-NC_008817/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLKKVEKQNT-END--KSVIKTWSRSSTILPVMIGHTIAVHNGKAHIPVFITE-QMIGHKLGEFAPTRTYRGHL-R--DKKGA---R-------"
+}
+
+{
+name    "NP_971381-NC_002967/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPFIAKSLFKNVNEMNRSGK---KKPIKTYSRCSTIIPEMVGNTISVHNGKTWIPVYITE-NLVGHKLGEFAPTRTFRKHAN--SDKKVG---K-------"
+}
+
+{
+name    "NP_680876-NC_004113/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVADHLLRKIEALNE-RNA--KEVIKTWSRASTIVPEMIGHTIAVHNGKQHVPVYITE-QMVGHKLGEFAPTRNFRSHV-KG-DKKAR---H-------"
+}
+
+{
+name    "YP_718269-NC_008309/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_456714-NC_007716/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSVK-------------KGPIVASHLLAKIEKQKN-LKN--KKVIQTWSRSSTITPIFVGHKIAVYNGREHIPVYITE-NMVGHKLGEFSPTRTYRGHNKKDKKMQKK-----------"
+}
+
+{
+name    "YP_374116-NC_007512/1-98"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSLK-------------KGPFIDIKLEKRILDMNS-RSE--KKVLKTWSRSTMISPDFVGHTIAVHNGKTHVPVYVSD-NMVGHKLGEFAPTRTFRGHAGGKAEKGGSAPKRK------"
+}
+
+{
+name    "YP_663991-NC_008229/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFIDDHLMKKTLKAKE-SKD--NRPIKTWSRRSTILPEMIGFTYNVHNGRVFIPVYITE-NHVGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "NP_807676-NC_004631/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "NP_440665-NC_000911/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVAASLLRKIDKLND-KGD--KQVVKTWSRASTILPQMVGHTIAVHNGRQHVPVFVSE-QMVGHKLGEFAPTRTFRSHS-KS-DKKAR---K-------"
+}
+
+{
+name    "YP_801836-NC_008510/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSVK-------------KGPFIDDHLMKKITKLNS-ENQ--KKPFKTWSRRSTIFPDMVGHTVMVHNGKQFTPVYINE-NMIGHKLGEFSPTRTFRGHVAGDKKAAKK-----------"
+}
+
+{
+name    "YP_417576-NC_007622/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_709929-NC_008277/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFIEKSLYQKVLSSFGSEK---RVVIKTYSRSSTIIPEMVSLTISVYNGKTFIPIYITE-DLVGHKLGEFSPTRIFRGHAK--SDKKGR---K-------"
+}
+
+{
+name    "YP_208868-NC_002946/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPYVDLHLLKKVDAVRA-SND--KRPIKTWSRRSTILPDFIGLTIAVHNGRTHVPVFISD-NMVGHKLGEFSLTRTFKGH---LADKKAK---KK------"
+}
+
+{
+name    "YP_001001347-NC_008787/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVIAAKK-AND--NKPIKTWSRRSTITPDMIGLTFNVHNGKSFIPVYITE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_001605179-NC_010159/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001547677-NC_009972/1-80"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------------------------------------MSRVETMNR-GNE--KRPLKTWSRDSTIFPQMVGHTIAVHDGRRHVPVYITE-NMVGHKLGEFAPTRTFRGHG-GKKADKRG---KLK-----"
+}
+
+{
+name    "YP_001416585-NC_009720/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------VWKGPFVDGYLLKKAEAASGSGRR---DVIKIWSRRSTILPQFVGLTFGVYNGHKHVPVNVSE-EMIGHKFGEFAPTRTYYGHA---ADKKSK---RR------"
+}
+
+{
+name    "NP_385466-NC_003047/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_617852-NC_008048/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDLHLLKKAETAQEGGSTA---PIKTWSRRSTILPQFVGLTFNVYNGRKFVPVSVNE-DMVGMKLGEFAPTRFFPGHA---ADKKGK---R-------"
+}
+
+{
+name    "YP_606257-NC_008027/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEVAVE-KND--RKPVKTWSRRSMILPQMVGLTIAVHNGRQHVPVLVNE-DMVGHKLGEFAGTRTYRGH---VADKKAK---R-------"
+}
+
+{
+name    "YP_516708-NC_007907/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------LKKGPYVEGRLLARVEKMNA-ANE--KRVLKTWSRSSTIFPQMVGHTIAVHEGRKHIPIYITE-DMVGHKLGEFAPTRTYKGHA-G--SEKSS---GLR-----"
+}
+
+{
+name    "YP_968723-NC_008752/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------LKKGPFVDHHLLAKVEKAVA-TKD--KKPVKTWSRRSMVLPEFIGLTIAVHNGKQHVPVYITD-QMVGHKLGEFALTRTFKGH---PADKKVQ---KK------"
+}
+
+{
+name    "NP_931884-NC_005126/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIKTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_278988-NC_007295/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFADDHLLKKVDEAIA-KNS--RKPIKTWSRRSTIFPQFVGLTFLVHNGKIFNEVYVTD-DMVGHKLGEFSPTRTYHGHG---KDKAKK-----------"
+}
+
+{
+name    "NP_772036-NC_004463/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADAARASGRH---DVIKIWSRRSTILPQFVGLTFGVYNGQKHVPVAVNE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---KA------"
+}
+
+{
+name    "YP_507231-NC_007799/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKPPFCAPHVLRLVNKAIAQNKLN--SIINIHSRSSVILNKFIGLTFGVYNGKTYVPVKVND-NMVGRKFGEFSPTRRYTGHV---GDKKVS---RK------"
+}
+
+{
+name    "YP_089236-NC_006300/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "NP_784728-NC_004567/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFADAHLLKKIDAQSD-SDK--KSVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQD-DMVGHKLGEFVPTRTFHGHG--TDDKKTK-----------"
+}
+
+{
+name    "YP_001398982-NC_009707/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHVMKKVIAAKK-AND--NKPIKTWSRRSTITPDMIGLTFNVHNGKSFIPVYITE-NHIGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "NP_906016-NC_002950/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLK-------------KGPYINLKLEKKVLAMNE-SGK--KAVIKTWARASMISPDFVGHTIAVHNGNKFIPVFVTE-NMVGHKLGEFSPTRTFRGHAGNKKK---------------"
+}
+
+{
+name    "YP_912831-NC_008639/1-98"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSLK-------------KGPFIDFKLEQRILDMNS-KGE--KKVLKTWSRSSMISPDFVGHTIAVHNGKTHVPVYVGD-NMVGHKLGEFAPTRTFRGHAGGKAEKGGSAPKKK------"
+}
+
+{
+name    "YP_001054453-NC_009053/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFLDLHLLKKVEKAVE-SGD--KKPIKTWSRRSMIIPSMIGLTIAVHNGRQHVPVYVSD-EMIGHKLGEFAPTRTYRGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_001317426-NC_009632/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_277709-NC_007292/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFIDLHLLKKVEKAIE-TGD--KKPIRTWSRRSTIFPRMIGLTVAVHNGRQHIPIFISD-EMVGHKLGEFAPTRTYRGH---SVDKKIK---KHY-----"
+}
+
+{
+name    "YP_001470213-NC_009828/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARSRK-------------KGPYVDPKLLKKIRMLNE-SGE--KKIVKTWSRASTIVPEMVGHTIAVHNGLKHIPVYITE-NMVGHRLGEFAPTRRFGGHADKKAATKGQVR---------"
+}
+
+{
+name    "YP_612248-NC_008044/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------VWKGPFVDAYVLKKAEAARDSGRN---EVIKIWSRRSTILPQFVGLTFGVYNGQKHIPVNVTE-DMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_638187-NC_008146/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQND-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_312254-NC_007384/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPVFVTD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_926098-NC_008700/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-AGD--KKPIKTWSRRSMIIPQMIGLTIAVHNGRQHVPVFVTD-EMIGHKLGEFSPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "YP_001627899-NC_010169/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_001625307-NC_010168/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDQHLFVKVANENE-KGT--KNVIKTWSRRSMIIPDMLGHTIAVHDGRKHIPVFVTE-SMVGHKLGEFALTRTFRGHV--KDDRKGK---RR------"
+}
+
+{
+name    "YP_967205-NC_008751/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDGHLMKKVDMAVANSDR---RVIKTWTRRSTILPEMVGLTFAVHNGKKFMPVFVTE-NMVGHKLGEFAPTRTYHGHA---ADKKSK--AKK------"
+}
+
+{
+name    "YP_001086541-NC_009089/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------TKKGPFVHARLLKKIEAMNA-SGN--KEVIKTWSRSSTVFPQMVENTIAVHDGRKHVPVYITE-DMVGHKLGEFVPTRTFKGHK-D--DEKSN---KRK-----"
+}
+
+{
+name    "NP_696737-NC_004307/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MTRS-------------IKKGPFVDAHLQKKVDEQNE-KGT--KNVIKTWSRRSMITPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTKTFKGHV--KDDKKAR---R-------"
+}
+
+{
+name    "YP_649782-NC_008149/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_778671-NC_004556/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------TKKGPFFDHHLIKKVESA---AGS--KRPIKTCSRRSVILPQMVGHTIAIHNGKNYHPVVINE-NMVGHKLGEFSITRVFKGH---CGDKKSG---K-------"
+}
+
+{
+name    "YP_666510-NC_008245/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDHHLLKKVFEAQE-SNS--KKPIKTWSRRSMIVPDMIGLTIAVHNGQQHVPVLMTE-EMVGHKLGEFVVTRNYRGH---AADKKAK---KK------"
+}
+
+{
+name    "YP_001124242-NC_009328/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFCDEHLMKKIEKLNE-TGQ--KQVIKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYITE-DMVGHKLGEFAPTRTFRGHA--GDDKKTK---R-------"
+}
+
+{
+name    "YP_494835-NC_007793/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------IKKGPFVDEHLMKKVEAQEG-SEK--KQVIKTWSRRSTIFPNFIGHTFAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTFKGHV--ADDKKTR---R-------"
+}
+
+{
+name    "YP_140343-NC_006448/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_802884-NC_008513/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDIHLLKKIQKSLK-LTN--KKSIRTWSRRSTIFPNMVGLTISIHNGRQHVPVFITE-EMVGHKLGEFSITRTYRGH---TADKKIK---KPIK----"
+}
+
+{
+name    "YP_001392830-NC_009699/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPYIQEVLLKRINEMNK-NGE--KKVLKTWSRSSTIFPQMIGHTIAVHDGRKHVPVYITE-DMVGHKLGEFVLTRTYRGHD-DK-SEKSS---RLR-----"
+}
+
+{
+name    "YP_533303-NC_007925/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MVRS-------------VWKGPFVEGSLLKKADVARSSGRH---DVIKIWSRRSTILPQFVGLVFGVYNGQKHVPVSVNE-EMVGHKFGEFSPTRTFHGHS---GDKKAK---KA------"
+}
+
+{
+name    "YP_001660753-NC_010296/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVAGHLMEKIEKLNA-QGS--KQVIKTWSRASTIIPDMVGHTIAVHNGKQHVPVYVSE-QMVGHKLGEFAPTRTFRGHA-KS-DKKAG---RK------"
+}
+
+{
+name    "NP_268252-NC_002662/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQVN-AER--KSVIKTWSRRSTIFPNFVGLTIAVYDGRKHVPVYVQE-DMVGHKLGEFAPTRTYRGHA--ADDKKTR---R-------"
+}
+
+{
+name    "NP_606381-NC_003485/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "YP_937038-NC_008705/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDDHLLKKVDVQND-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_001539083-NC_009953/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDDHLLKKVETQND-KGT--KNVIKTWSRRSTIIPEMLGHTIAVHDGRKHVPVFVTE-AMVGHKLGEFALTRTFKGHE--KDDRKSR---RR------"
+}
+
+{
+name    "YP_062850-NC_006087/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLFRKVVAANE-ANS--KNVIKTWSRRSMIVPAMLGHTIAVHDGRKHIPVFVTE-TMVGHKLGEFAPTRTFRGHV--KDDKRGR---RR------"
+}
+
+{
+name    "NP_830015-NC_004722/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKMEKLVA-SEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYITE-DMVGHKLGEFAPTRTYKGHL--ADDKKTR---R-------"
+}
+
+{
+name    "YP_414637-NC_007618/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFVDGYLLKKAEKVREGGRN---EVIKMWSRRSTILPQFVGLTFGVYNGNKHVPVSVSE-EMVGHKFGEFAPTRTYYGHG---ADKKAK---RK------"
+}
+
+{
+name    "YP_001643006-NC_010184/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMNKMEKLVA-SEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYITE-DMVGHKLGEFAPTRTYKGHL--ADDKKTR---R-------"
+}
+
+{
+name    "YP_144954-NC_006461/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGVFVDDHLLEKVLELNA-KGE--KRLIKTWSRRSTIVPEMVGHTIAVYNGKQHVPVYITE-NMVGHKLGEFAPTRTYRGHG-----KEAK---ATKKK---"
+}
+
+{
+name    "YP_001402859-NC_009708/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDLHLLKKVEKAVE-SGD--KKPIRTWSRRSTVFPNMIGLTIAVHNGRQHVPVFVSD-EMVGHKLGEFAPTRTYRGH---AADKKAK---KR------"
+}
+
+{
+name    "NP_814008-NC_004668/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDDHLMKKVEAQQG-AEK--KKVIKTWSRRSTIFPSFVGFTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYRGHV--ADDKKTK---R-------"
+}
+
+{
+name    "YP_380703-NC_007516/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFIADSLLRKVEKQND-NDD--KSVIKTWSRASTILPMMIGHTIAVHNGRTHVPVFITE-QMVGHKLGEFAPTRTFKGHI-R--DKKGG---R-------"
+}
+
+{
+name    "YP_001181052-NC_009437/1-94"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPYCDPKLLKKIEKLNQ-NNE--KKVIKTWSRRSTILPQMVGHTIAVYDGRKHVPVYITE-EMVGHKLGEFAPTRTFKGHG-HH-TERST---ALK-----"
+}
+
+{
+name    "YP_001307301-NC_009617/1-90"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------TKKAPFVHEGLFKKIEEMNG-NGE--KKVVKTWSRSSTIFPQFIGHTIAVHDGRKHVPVYVSE-DMVGHKLGEFVLTRTYKGHD-DK-TSKR------------"
+}
+
+{
+name    "YP_380141-NC_007514/1-98"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRSLK-------------KGPFIDIKLEKRILEMNS-KGE--KKVVKTWSRSSMISPDFVGHTVAVHNGKSHVPVYVGD-NMVGHKLGEFAPTRNYRGHAGGKSEKGGSAPRKK------"
+}
+
+{
+name    "YP_001042253-NC_009049/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------TWKGPFVDGYLLKKAEKSRESGKN---EVIKIWSRRSTILPQFVGLTFGVYNGKKHVPVNVTE-EMIGQKFGEYSPTRTYYGHA---ADKKAK---RK------"
+}
+
+{
+name    "YP_392806-NC_007575/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFVDDHLMKKVLSAKA-EGS--KKPIKTWSRRSMVLPDMVGITFNVHNGRQFVPVYVTE-NHIGYKLGEFAPTRTFKGHKG-SVQKKG------------"
+}
+
+{
+name    "NP_220039-NC_000117/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSLR-------------KGPFVDHHLLKKVRDMNA-LEK--KTPIKTWSRRSMITPEMIGHTFEVHNGRKFLTVFVSE-TMVGHKLGEFSPTRMFKSHPVKKG----------------"
+}
+
+{
+name    "YP_526438-NC_007912/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFIDHHLLSKVEAAAE-KND--RRPIKTWSRRSMILPNMVGLTLAVHNGRQHVPVLVNE-EMVGHKLGEFAVTRLYRGH---VADKKAK---R-------"
+}
+
+{
+name    "NP_218632-NC_000919/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------VKKGPFVDKKLYKRVVEMNKAANQRNKKVIKSYSRCSTIIPEMVGFTISVHNGKSWIPVYITE-EFVGHKLGEFSPTRVFRGHSG--SDKKVG---R-------"
+}
+
+{
+name    "YP_001060746-NC_009074/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VKKGPFCDAHLLKKVEAAAA-SRD--KKPIKTWSRRSTILPDFIGLTIAVHNGRQHVPVYISE-NMVGHKLGEFALTRTFKGH---AADKKAK---K-------"
+}
+
+{
+name    "YP_422489-NC_007626/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------VWKGPFLDGYMLGKADKARASGRN---EVIKIWSRRSTILPQFVGLTFGVYNGQKFIPVLVTE-NMIGHKFGEFSPTRTFYGHA---VDKKAK---RK------"
+}
+
+{
+name    "YP_001434073-NC_009767/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------SKKGPYVDVRLLGRIEELNR-ANE--KRVLRTWSRDSTIFPQMVGHTIAVHDGRRHVPVYITE-NMVGHKLGEFAPTRLFRGHG-GKKVDKRG---KMK-----"
+}
+
+{
+name    "YP_401245-NC_007604/1-91"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVADHLLRKVEKLNA-KGD--KQVIKTWSRASTILPQMIGHTIAVHNGRQHVPVYVTE-QMVGHKLGEFAPTRTFRGHT-K--DKKAG---R-------"
+}
+
+{
+name    "NP_819286-NC_002971/1-95"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------TNKGPFVDHHLMKKVDQAQK-EGS--KRPIKTWSRRSMVVPEMVGLTIAIHNGRQHVPVYISE-NMVGHKLGEFAITRTFRAH---SGDRKAK---KEGEK---"
+}
+
+{
+name    "YP_515826-NC_007899/1-88"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRSLR-------------KGPFVDHSLIKKVRAMNL-LEK--KAPIKTWSRRSMITPEMIGHTFEVHNGKKFLTVFVSE-TMVGHKLGEFSPTRMFKSHPVKKG----------------"
+}
+
+{
+name    "NP_298446-NC_002488/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------TKKGPFFDHHLIKKVESA---AGS--KRPIKTCSRRSVILPQMVGHTIAIHNGKNYYPVVINE-NMVGHKLGEFSITRVFKGH---GGDKKSG---K-------"
+}
+
+{
+name    "NP_976442-NC_003909/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LKKGPFVDDHLMSKIAKLNE-TEQ--KQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVYVTE-DMVGHKLGEFAPTRTYKGHD--ADDKKTR---R-------"
+}
+
+{
+name    "YP_883602-NC_008595/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDGHLLKKVDAQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-AMVGHKLGEFAPTRTFKGHI--KDDRKAK---RR------"
+}
+
+{
+name    "NP_208107-NC_000915/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRS-------------IKKGPFIDDHLMKKTLKAKE-GKD--NRPIKTWSRRSTILPEMIGFTYNVHNGRVFIPVYITE-NHVGYKLGEFAPTRTFKGHKG-SVQKKIG---K-------"
+}
+
+{
+name    "YP_279516-NC_007296/1-92"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MGRS-------------LKKGPFVDEHLMKKVEAQAN-DEK--KKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQE-DMVGHKLGEFAPTRTYKGHA--ADDKKTR---R-------"
+}
+
+{
+name    "NP_852837-NC_004829/1-87"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MSRSSK-------------KGAFVEASLYKKVLDMNA-QQK--KKIIKTWSRRSTIFPDFVGHTFAVHNGKKFINVYVTE-DMIGHKLGEFSPTRTFKGHSSNR-----------------"
+}
+
+{
+name    "YP_001219027-NC_009465/1-89"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MARS-------------LRKGPFVDEHLIKKVLAAQG-NND--RKPIKTWSRRSVVVPEMIGLTIAVHNGRVHVPVSINE-NMVGHKLGEFAITRTFKGH---FGDRKA------------"
+}
+
+{
+name    "YP_001282003-NC_009525/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDEHLLKKVDVQNE-KNT--KQVIKTWSRRSTIIPDFIGHTFAVHDGRKHVPVFVTE-SMVGHKLGEFAPTRTFKGHI--KDDRKSK---RR------"
+}
+
+{
+name    "YP_948653-NC_008711/1-93"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MPRS-------------LKKGPFVDQHLFVKVAREND-KGT--KNVIKTWSRRSMIIPDMLGHTIAVHDGRKHIPVFVTE-SMVGHKLGEFAPTRTFRGHV--KDDRKGK---RR------"
+}
+
+{
+name    "MASK_strict"
+type    "MASK"
+sequence        "00000000000000000000000000000000000000000000000000000000000000000000000000000001111000000000000000111111111111111111011000111111111111111111111111111111111111101111111111111111111100000000000000000000"
+}
+
+{
+name    "MASK_relax"
+type    "MASK"
+sequence        "00000000000000000000000000000000000000000000000000000000000000000000000000000001111000000000000011111111111111111111011100111111111111111111111111111111111111101111111111111111111100011111100010000000"
+}

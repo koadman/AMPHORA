@@ -1,0 +1,3420 @@
+
+{
+name    "YP_934920-NC_008702/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSALEIVDTAKRTGAVVRGPVPLPTRIERFNLLRSPHVNKTSRDQMEIRTHQRLMDIIDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_312213-NC_002695/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001609860-NC_010161/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------SQNIRIRLKAFDHRILD----TSTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRGPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "NP_438935-NC_000907/1-118"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------MLVFLLAKFYWSSG--LMQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_709924-NC_008277/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MIAK-------DKIRVRLFSFDVKILD----QSAESIVKAVQKAKAQIKGPIPLPTKIKKYTVLRSPHVNKKSREQFEMRTHKRLIDILEPTSAL---MDSLMKLELP----AGVEVDIKQ---------"
+}
+
+{
+name    "YP_283547-NC_007298/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------NQKIRIRLKAFDYRLID----QSAQEIVETAKRTGAVVRGPVPLPTRKQRFDILRSPHVNKASRDQLEIRTHLRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_140348-NC_006448/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_984607-NC_008782/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MS--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRMKRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_790472-NC_004578/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTEKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_001108926-NC_009142/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGARVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILEPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_883607-NC_008595/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_015931-NC_006908/1-102"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------------MSKIKIKLKSFDADLIE----EVSKKFVAFAKSKDIKMSGPIPLPTKIERITILRSVHVNKDSREQFESRTHKRLIIFEN-LDKK--MLDALKRQEIS----TGVQVEIKEIN-------"
+}
+
+{
+name    "YP_485910-NC_007778/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001480766-NC_009832/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_460347-NC_007759/1-109"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------MIGSDKDMK-D-----QKIRIRLKAYDYKLLD----RSVEEIVETARRTGARIAGPVPLPTEINKYCVNRSPHVDKKSREQFEIRTHKRLIDIIEPTQST---VDALMKLDLS----AGVDVEIKA---------"
+}
+
+{
+name    "NP_893624-NC_005072/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MTASLT---QQKIRIRLKAFDRRMLD----LSCDKIIQTADTTAASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_536323-NC_007929/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGATISGPIPLPTERTLYTVIRSPHKYKDSREQFEMRTHKRLIDIVNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_262651-NC_004129/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_001573117-NC_010067/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_893029-NC_008600/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_885818-NC_008596/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001060751-NC_009074/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001223363-NC_009480/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKSYDHSVID----SSARKIVDTVTRAGATVVGPVPLPTEKNVICVIRSPHKYKDSREHFEMRTHKRLIDIVDPTPKA---VDSLMRLDLP----ADVNIEIKL---------"
+}
+
+{
+name    "NP_349733-NC_003030/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQKIRIRLKAFDHTILD----QSAEKIVETAKTTGAKVAGPVPLPTEKDVVTILRSPHKYKDSREQFEIRTHKRLIDIISPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_179846-NC_003912/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADIRGPIPMPTKIKRYTVLKSPHINKDSREQFEIRIHARMLDIVAATPDT---VDSLTKLDLA----PEVSVEVRAMGK------"
+}
+
+{
+name    "YP_001256686-NC_009497/1-107"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MNKGGNMSKVNIKVKSFDHSLAD----FGAKKIIELATKSNTKFSGPVPLPTKREVVTILRSVHINKKSREQFESRTFQRLIVFIN-PSEQ--TIDKLKRLELP----SGVEIQVSQK--------"
+}
+
+{
+name    "YP_307554-NC_007356/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIKLKGFDHKILD----QSALQIVEALERTGATISGPVPLPTRIQRYSVIRASFIDKDSQEQFEIRTHKRLIDIVETTSKT---IDALTNLNLP----AGVSIDIKL---------"
+}
+
+{
+name    "YP_279511-NC_007296/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_801841-NC_008510/1-102"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MAG-------QKIRVKLKAFDHRLID----QSTYEIVATAKRTGATVSGPIPLPTKKEIYTVLRSPHVNKKSREQFELKTHKRLIDILDTNEDT---VEALMKLQLP----AGVSVDIKS---------"
+}
+
+{
+name    "YP_001322210-NC_009633/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSKA----NQKIRIRLKGYDHKAVD----QSAEKIVATAKKSGAEVSGPIPLPTEKQIITILRAVHKYKDAREQFEMRTHKRLIDILSPTPKT---VDLLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_561189-NC_007954/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001018364-NC_008820/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADNTAATAIGPIPLPTKRKIYCVLCSPHVDKDSREHFETRTHRRIIDIYNPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_864771-NC_008576/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MMES------QKIRIRLKAFDHRILD----QSTGEIVQTARRTGADIRGPIPLPTKINRYTVLRSPHVDKKSREQFEIRTHKRIIDIVNPTPQT---VDALMKLDLA----AGVNVEIKL---------"
+}
+
+{
+name    "YP_854838-NC_008570/1-134"
+type    "PROTEIN"
+sequence        "--------------------------------------------MGGNVKNHTSGGSNLGRAVLIYVLLSIGAL--SMQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_952144-NC_008726/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_396379-NC_007576/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAFEHRILD----QSADKIVETAKRTGASISGPIPLPTERTLYTVLRSPHKHKDSREQFEMRTHKRLIDIVNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001485361-NC_009848/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_289882-NC_002655/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_507226-NC_007799/1-108"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MVT------QKIYIELKAFDSCLLD----RSARSIILTAKRSGARVNGPIFFPRKIMKFIVNRSTHVDKKSREQFEIRTHKRLISLPKANSTI---IQALMSLQLP----AGVDVKVKVIGGSNG---"
+}
+
+{
+name    "YP_944807-NC_008709/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHKLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTILVSPHVNKDARDQYEIRTHKRLIDIVEPTEKT---VDALMKLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001598014-NC_010118/1-95"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------------------------------MKLKSYDYYLLD----KSVFTIVKFVISTGAKVNGPIPLPTKKKIYTVLRSPHVHKTSREQFKLSSYTRLLEICNAGPNT---VDALIKLELA----SGVEVEIKV---------"
+}
+
+{
+name    "NP_335144-NC_002755/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001402864-NC_009708/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001436146-NC_009778/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001286659-NC_009565/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_858922-NC_008563/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_601538-NC_008024/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "NP_876842-NC_005043/1-112"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------MLRSKGCMKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLVDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "NP_860908-NC_004917/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLRLKAYDHRVLD----RSVASIVEAVKRTGSEIRGPVPLPTKKKRYTVLRSPHINKDSREQFEIRVHHRIIDIMSATPDT---VDSLMKLDLA----PEVDVEVMSMSK------"
+}
+
+{
+name    "NP_710919-NC_004342/1-102"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MAG-------QKIRVKLKAFDHRLID----QSTYEIVATAKRTGATVSGPIPLPTKKEIYTVLRSPHVNKKSREQFELKTHKRLIDILDTNEDT---VEALMKLQLP----AGVSVDIKS---------"
+}
+
+{
+name    "YP_005298-NC_005835/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------M------PKIRIKLRGFDHKTLD----ASAQKIVEAARRSGAQVSGPIPLPTRVRRFTVIRGPFKHKDSREHFELRTHNRLVDIINPNRKT---IEQLMTLDLP----TGVEIEIKTVGGGR----"
+}
+
+{
+name    "YP_762893-NC_008369/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKEKFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "YP_001662504-NC_010320/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MP------KQKIRIRLKAFDHAILD----QSAQKIVETAKRTGAEVSGPIPLPTEKDIITILRAPHKYKDSREQFEIRTHKRLIDILNPTPKT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_102119-NC_002678/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRVLD----ASTKEIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_778069-NC_004545/1-104"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MQQ------NQRIRIRLKAFDHRLID----QSTSEIVETAKRTGAQVRGPIPLPTHKEKFTVLISPHVNKDARDQYEIRTHKRLIDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_273198-NC_003112/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------NQKIRIRLKAYDYALID----RSAQEIVETAKRTGAVVKGPIPLPTKIERFNILRSPHVNKTSREQLEIRTHLRLMDIVDWTDKT---TDALMKLDLP----AGVDVEIKVQ--------"
+}
+
+{
+name    "YP_001596184-NC_010117/1-110"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSDN-----QRIRIRLKAFDHRLID----RSTREIVETARRTGAIIRGPILLPTKIERYTVLISPNIDKDARDQYEIRTHKRLVDISEPTDKT---VDALMKLDLA----AGVDVQIELLNKKSGA--"
+}
+
+{
+name    "NP_539673-NC_003317/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_937033-NC_008705/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_152435-NC_006511/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001560754-NC_010001/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------QVMRITLKAYDHHLID----ASAGKIIETVKKTGSKVSGPVPLPTKKEIVTVLRAVHKYKDSREQFEQRTHKRLIDIIAPTQKT---VDALSRLEMP----AGVYIDIKMKAK------"
+}
+
+{
+name    "YP_817699-NC_008531/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAQ------KKIRIRLKAYEHRILD----QSAEKIVETAKRTGAEIAGPIPLPTERTLYTILRSPHKHKDSREQFEMRTHKRLIDIVNPTDKT---VDALRKLELP----SGVAIEIKL---------"
+}
+
+{
+name    "NP_297094-NC_002620/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQRIRIRLKGFDQGQLD----QSTANIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLSLP----AGVDIKIKAA--------"
+}
+
+{
+name    "NP_252954-NC_002516/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_001590433-NC_010102/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_278762-NC_007294/1-96"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------------------------------MKVFGFDHKVVD----EAAKKLVSLAVATKNKFVGPIPMPTKREEVTILRSVHVNKKSREQFESRTHQRLVVLEN-PSSE--LLDKLKRLELP----AGVGLKFKEK--------"
+}
+
+{
+name    "YP_125735-NC_006369/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSS-----NQNIKIRLKSFDHRLID----LSTREIVDTAKRTGAQIRGPIPLPIRKEKFTVLTSPHVNKDARDQYELRTHKRLVVIVHPTEKT---VDALMKLDLA----AGVDVQISLDD-------"
+}
+
+{
+name    "YP_533308-NC_007925/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----SSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_240332-NC_002528/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTTEIVETAKRTGAQVRGPIPLPTRKERFTILVSPHVNKDARDQYEIRTHKRLIDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_267623-NC_003910/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------NQRIRIRLKAFDHRLID----QSTAEIVDTAKRTGAQVRGPIPLPTRKERYTILTSPHVNKDARDQYEIRTHKRMIDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_542744-NC_007946/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_494840-NC_007793/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001531625-NC_009952/1-106"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------MTMAIQ------SQNIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHVDKKSRDQFEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVQISV---------"
+}
+
+{
+name    "YP_218362-NC_006905/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001127641-NC_009332/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "NP_417780-NC_000913/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001039293-NC_009012/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN-----KQKIRIRLKAFDHQVLD----QSAEKIVETAKRTGAKVSGPVPLPTEREVITILRAPHKYKDSREQFEMRTHKRLIDILLPTPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001650377-NC_010263/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFAKINGPIPLPKKIGRFTVNRSPHVHKKSREQFEIRKHKRLLVIGDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_001228427-NC_009482/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADHTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRLIDIFNPSSKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "NP_232225-NC_002505/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----ASTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001111588-NC_009253/1-102"
+type    "PROTEIN"
+sequence        "-MK------------------------------------------------------------------------N----------QKIRIRLKAFDHQMLD----QSATKIVDTAKRTGAQVAGPVPLPTEKSIYTILRSPHVNKDSREQFEMRVHKRLIDILEPTPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_154078-NC_004842/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MVT------QKIYIELKAFDHCLLD----GSARNIILIARRSGAKVNGPVFFPRRIAKFIVNRSTHVDKKSREQFEIRTHKRLISLPKANSAI---LQALMSLQLP----AGVDVKVKVVGG------"
+}
+
+{
+name    "NP_898230-NC_005070/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADQTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "NP_758400-NC_004432/1-129"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------MSGLSGNSLLMESWWKSNSILKGQLYKMKNEMKIKLFSYDHRLLD----QSVRKIIKSSQDSGAKVKGPIPLPTKKEIFTICRSPHVNKTSREQFERRTHQRLIILLNTTEKT---KEYLKNIIIP----SGVDIQITLR--------"
+}
+
+{
+name    "YP_026395-NC_005945/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSADKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_290703-NC_007333/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVID----KSARRIVETVTRTGAQVAGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_796635-NC_004603/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----ASTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_246355-NC_002663/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001385797-NC_009697/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQKIRIRLKAFDHSLLD----QSALKIVETAKTTGAKVAGPVPLPTEKDIVTILRAPHKYKDAREQFEIRTHKRLIDIISPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001359613-NC_009663/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVAAIVDAVKRTGAEIRGPIPMPTKMKRYTVLKSPHVNKDAREQFEIRIHGRMIDIVSATSDT---IDSLMKLDLA----PEIEVEIRSMDK------"
+}
+
+{
+name    "YP_711339-NC_008278/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAA------QKIRIRLKAYDHEVID----SSARKIVETVTRTGAQVAGPVPLPTEKNIYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_840487-NC_004757/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----KSAIEIVETAKRTGAVVKGPVPLPTRIERFDVLRSPHVNKTSRDQFEIRTHLRLMDIIDPTDKT---VDALMKLDLP----AGVDVEIKL---------"
+}
+
+{
+name    "NP_375364-NC_002745/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_814003-NC_004668/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGADVSGPIPLPTERSLYTVIRATHKYKDSREQFEMRTHKRLIDIVNPTPKT---VDALMKLDLP----SGVNIEIKL---------"
+}
+
+{
+name    "YP_850780-NC_008555/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSIYTVLRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_156306-NC_006512/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLIDIMDPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_699664-NC_008262/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------KQKIRIRLKAFDHTILD----QSAEKIVETAKSTGAKVVGPVPLPTEKDVITILRAVHKYKDSREQFEVRTHKRLIDIVNPSPKT---VDALMRLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_590301-NC_008009/1-123"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------MRTAVPDRSLRETDVIGKERIRIRLKAYDYRVLD----QSTGEIVDTARRTGAQIAGPIPLPTVKNKYCVLRSPHVDKKSREAFEIRTHKRLLDILEPTQQT---VDALMKLDLP----AGVDVEIKAFGKEHK---"
+}
+
+{
+name    "YP_754996-NC_008346/1-103"
+type    "PROTEIN"
+sequence        "MNG------------------------------------------------------------------------Q----------QKVRIRLKAFDHKLLD----QSSQKIVETARKNGSGVSGPIPLPTEKSIYTILRSPHVNKDSREQFEMRTHKRLIDILDPNPRT---IDALMHLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_854378-NC_002945/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_278993-NC_007295/1-123"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------MWSSFKIYEQEQLNYIFMNTTSIKIKLKSFDHRQID----AAAKKIILLARELNIETRGPVPLPTSRAIYTILRSVHINKKSREQFESRTHKRLVILKVLPTNQKLVTEKISRSQLP----AGVWIEIEVS--------"
+}
+
+{
+name    "YP_001033627-NC_009004/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAT------KKIRIRLKAYEHRILD----AAAEKIVETAKRTNAEVSGPIPLPTDRSVYTVIRATHKYKDSREQFEMRTHKRLIDIIEPTQKT---VDSLMKLDLP----SGVNIEIKL---------"
+}
+
+{
+name    "YP_653171-NC_008150/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_757026-NC_008347/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------RQNIRIRLKAFDHRVLD----NSTREIVSTAKRTGANVRGPIPLPTRIEKFTVLRSPHIDKKSREQFEIRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKLGA-------"
+}
+
+{
+name    "YP_001343107-NC_009654/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------SQKIRIRLKAFDHRLID----ASTQEIVDTAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYEIRTHKRVLDIVEPTEKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_252716-NC_007168/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGAEVSGPIPLPTEKSVYTIIRAVHMYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_390564-NC_007520/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------TQNIRIRLKAFDHRLID----QSAREITETAKRTGAQVKGPIPMPTRKERFTVLVSPHVNKDARDQYEIRTHKRLLDIVDPTDKT---VDALMKLDLA----AGVDVQLELR--------"
+}
+
+{
+name    "YP_032447-NC_005955/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------SQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRGPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001124237-NC_009328/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGAKVSGPIPLPTERTVYTILRAVHKYKDSREQFEMRTHKRLIDIINPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_736256-NC_008322/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001027894-NC_008836/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001307296-NC_009617/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------KQKIRIRLKAFDHTILD----QSAEKIVETAKTSGAKVVGPVPLPTEKDVVTILRAVHKYKDSREQFEIRTHKRLIDIVNPSPKT---VDALMRLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_297385-NC_007347/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVKGPVPLPTRIQRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKV---------"
+}
+
+{
+name    "NP_072813-NC_000908/1-106"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MNSA--VKYPELKIKLESYDSTLLD----LTIKKIVEVVKGVNIKIKGPLPLPTKKEVITIIRSPHVDKASREQFEKNTHKRLMILVDVNQGG---IDSLKKIKIP----VGVTLRFSK---------"
+}
+
+{
+name    "YP_187050-NC_002951/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHMYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001042248-NC_009049/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------GQTIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHIDKKSRDQWEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDIQIKV---------"
+}
+
+{
+name    "NP_976437-NC_003909/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLX----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001247634-NC_009487/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_015194-NC_002973/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSIYTVLRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_056546-NC_006085/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLRAYDHEVID----SSARKIVDTVTRTGAKVAGPVPLPTEKNVFCVIRSPHKYKDSREHFEMRTHKRLIDILEPTPKT---VDSLMRLDLP----AGVDIEIKLP--------"
+}
+
+{
+name    "YP_221938-NC_006932/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_456720-NC_007716/1-105"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------------MNKKEK------EIIKIILRAYDHHLID----QAAKKIIDIVSKTGVNIEGPIPLPTRKEVFTVLRSPFVNKDSREQFERRTHKRLIQIINPNKKT---IESLMHISLP----TAIDILLKK---------"
+}
+
+{
+name    "NP_839549-NC_004741/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_963094-NC_002944/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001627904-NC_010169/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001015768-NC_008819/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADTTAASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_862861-NC_008571/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHNLVD----KSAEKIVKTVKTTGAVVTGPIPLPTNKKIFTVLRSPHVNKKSREQFELSSYKRLLDIYSSSSKT---IDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_001346222-NC_009656/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_362729-NC_007508/1-111"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------MAEQKTG--QKAD------QKIRIRLKAFDHRLID----RSASEIVETAKRTGAQVRGPIPLPTKIERYTILVSPHADKDARDQYETRTHKRVLDIIDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_588775-NC_007984/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVDTAKRTGAQVHGPIPLPTRKEHFTILISPHVNKDARDQYVIRTHKRLVDIVKPTEKT---VDALMRLELA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001137476-NC_009342/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGARVVGPVPLPTEKNVYAVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001625312-NC_010168/1-124"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------MPVSQLEQQEQAEVPQEKRAKAMAG------QKIRIRLKSYDHEVID----VSARKIVETVTRAGATVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKA---VDSLMRLDLP----ADVNIEIKL---------"
+}
+
+{
+name    "YP_001603636-NC_010125/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MD------NQNIRIRLKAYDHRVLD----NSTKEIVNTAKRTGARVRGPIPLPTHIEKFTVNRSPHVDKKSREQFEIRTHRRLLDIVEPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_789146-NC_004551/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEE------QKIRIRLKSYSHEIID----VSAKKIVDTVTRAGATIVGPVPLPTKKSVVCVIRSPHRHKDSREHFEMRTHKRLINVVDLTPRA---VDALMRLDLS----SEVNVEIKL---------"
+}
+
+{
+name    "YP_128560-NC_006370/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVKGPIPLPTRKERFTVLTSPHVNKDARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001337374-NC_009648/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001069338-NC_009077/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001259154-NC_009505/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_649787-NC_008149/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_784723-NC_004567/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGATISGPIPLPTERTIYTVLRSPHKFKDSREQFEMRTHKRLIDIVNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_617857-NC_008048/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------TQNIRIRLKAFDHRVLD----QATTDIADTARRTGALIRGPIPLPTRIEKFTVNRGPHIDKKSREQFEVRTHKRLLDIVQPTPQT---VDALMKLDLA----AGVNVEIKLA--------"
+}
+
+{
+name    "NP_282834-NC_002163/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADIRGPIPMPTKIKRYTVLKSPHINKDSREQFEIRIHARMLDIVAATPDT---VDSLTKLDLA----PEVSVEVRAMGK------"
+}
+
+{
+name    "NP_660838-NC_004061/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTILISPHVNKDARDQYEIRTHKRLIDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_109808-NC_006350/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_914566-NC_008686/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------SQNIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHIDKKSRDQWEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKV---------"
+}
+
+{
+name    "NP_874312-NC_002940/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRAGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_877197-NC_008593/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQKIRIRLKAFDHNILD----QSAEKIVETAKNTGAKVAGPVPLPTEKDVVTILRATHKYKDSREQFEIRTHKRLIDILSPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001552641-NC_009997/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_732336-NC_008321/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001410643-NC_009718/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MPG------QKIRIRLRAYDHRLLD----ESAKKIVEVAKQTNAKVSGPIPLPTERSLYVVLRSPLKHKDSREQFEKKVHKRLIDIIEPNSKT---IDALMKINLP----AGVDVEINL---------"
+}
+
+{
+name    "YP_414642-NC_007618/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_350808-NC_007492/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_001082989-NC_009080/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_925091-NC_008699/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVID----TSARKIVDTVTRTGAKVAGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_385461-NC_003047/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGASVRGPVPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_116941-NC_006361/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGARVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "NP_829066-NC_003361/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVAGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_810201-NC_008528/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAE------RKIRIRLKAYEYRTID----ASAAKIVETAKRTGAQVVGPIPLPTERTIYTILRSPHKHKDSREQFEMRTHKRLIDLVNPTDKT---VDSLRKLDLP----AGVAIEIKL---------"
+}
+
+{
+name    "YP_681724-NC_008209/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MAQ------SQNIRIRLKAFDYRVLD----TSTQEIVNTAKRTGASVRGPIPLPNKIEKFTVLRGPHVDKKSRDQFEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKLQS-------"
+}
+
+{
+name    "YP_001414000-NC_009719/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------RQKIRIRLKGFDHRVLD----VSTREIVNTAKRTGAQVLGPIPLPTRLEKFTVLRGPHIDKKSREQFEIRTHKRVLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001224101-NC_009481/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADTTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_001181057-NC_009437/1-106"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSK-----AQRMRIKLKSFDYKLLD----QSARKIVETAKSTGAEVSGPVPLPTDREVITIIRAPHKYKDSREQFEIKTHKRLIDIIKPTQKT---VDALMRVELP----AGVDIEIKLKEV------"
+}
+
+{
+name    "YP_114789-NC_002977/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQRIRIRLKAFDHRLID----QSASEIVETAKRTGAQVLGPIPLPTKKERFTVLVSPHVNKDARDQYELRTHKRLMDIIEPTDKT---VDALMRLDLA----AGVDVQIKLN--------"
+}
+
+{
+name    "NP_871545-NC_004344/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTSEIVETAKRTGAQVRGPIPLPTRKEKFTILVSPHVDKDARDQYEIRTHKRLVDIVKPTEKT---VDALMRLDLA----SGVDVQISLG--------"
+}
+
+{
+name    "YP_001092288-NC_009092/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_044254-NC_002953/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001633572-NC_010170/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MK--------NQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAVVRGPVPLPTRIRRYDVLRSPHVNKSSRDQFEIRTHQRLMDIVDPTDKT---VDALMRLDLP----AGVDVEIALQ--------"
+}
+
+{
+name    "YP_181217-NC_002936/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MTK------QKIRIKLKGFDHKILD----QSALQIVEALERTGATISGPVPLPTRIQRYSVIRSSFIDKDSQEQFEIRTHKRLIDIVETTSKT---IDALTNLNLP----AGVSIDIKL---------"
+}
+
+{
+name    "YP_001360440-NC_009664/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVID----SSARKIVDTVTRTGASVAGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001261857-NC_009511/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------TQNIRIRLKAFDHRVLD----QATGDIADTARRTGALIRGPIPLPTRIEKFTVNRGPHIDKKSREQFEVRTYKRLLDIVQPTPQT---VDALMKLDLA----AGVDVEIKLA--------"
+}
+
+{
+name    "YP_388750-NC_007519/1-105"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MTTVSS-----DRIRIKLKAYDYRILD----KAVAEIVDTARNTGAGVAGPIPLPTNIHKFTVNRSVHVDKKSREQFEMRIHKRLMDILEPTQQT---VDALGKLSLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001001352-NC_008787/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADIRGPIPMPTKIKRYTVLKSPHINKDSREQFEIRIHARMLDIVAATPDT---VDSLTKLDLA----PEVSVEVRAMGK------"
+}
+
+{
+name    "YP_697095-NC_008261/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------KQKIRIRLKAFDHTILD----QSAEKIVETAKSTGAKVVGPVPLPTEKDVITILRAVHKYKDSREQFEVRTHKRLIDIVNPSPKT---VDALMRLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001495103-NC_009882/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFAKINGPIPLPKKIGRFTVNRSPHVHKKSREQFEIRKHKRLLVIGDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_067597-NC_006142/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFATINGPIPLPRKIERFTVNRSPHVHKKSREQFEIRKHKRLLVIDDPNPAV---VDALSKVDLA----AGVDVVIELENGE-----"
+}
+
+{
+name    "YP_404966-NC_007606/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_212611-NC_001318/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MIAK-------DKIRVRLFSFDVKILD----QSAESIVKAVQKAKAQIKGPIPLPTKIKKYTVLRSPHVNKKSREQFEMRTHKRLIDILEPTSAL---MDSLMKLELP----AGVEVDIKQ---------"
+}
+
+{
+name    "YP_001578440-NC_010084/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_219948-NC_000117/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQRIRIRLKGFDQGQLD----QSTANIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLSLP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_198173-NC_006833/1-121"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAE----VEQVAYIISRAFDCLKLEKYVKEFVRRFKDKFKHSSAELSGPVALRRRNSKFDFNRSPHVDKKSREQFEQRTSGRLIVLHGLTPAM---MQMLGDSSFFPPPPPGVEIYLKIKRVKFRKEK"
+}
+
+{
+name    "YP_001456220-NC_009792/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_996049-NC_008786/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MS--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRMKRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_878489-NC_005061/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----RSTLDIVETAKRTGAQVHGPIPLPTKKERFTILVSPHVNKDARDQYEIRTHKRLIDIVDPTDKT---VDALMKLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_314162-NC_007404/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYKLID----QSALEIVETAKRTGAVVKGPVPLPTSIERFDVLRSPHVNKSSRDQFEIRTHRRLMDIMDPTDKT---VDALMKLDLP----AGVDVEIKL---------"
+}
+
+{
+name    "NP_344748-NC_003028/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAAKIVESATRTGAQVAGPIPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIVNPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001442825-NC_009782/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHMYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001129769-NC_009337/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------MAVQQKIRIKLKSYDHSLVD----KWASRIIDVVKETDAIIFGPIPLPTKSHVYTVNRSPHVDKKSREQFSFSSHKRLIEIMNPTSRT---IDLLMKLELP----SGVDVEIKS---------"
+}
+
+{
+name    "YP_001576826-NC_010080/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAS------QTIRIRLKSYEHGILD----ESAAKIVATAKRTGAEISGPVPLPTERTLFTVLRSPHKNKDSREQFEMRTHKRLIDILNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_811961-NC_008527/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAT------KKIRIRLKAYEHRILD----AAAEKIVETAKRTNAEVSGPIPLPTDRSVYTVIRATHKYKDSREQFEMRTHKRLIDIIEPTQKT---VDSLMKLDLP----SGVNIEIKL---------"
+}
+
+{
+name    "YP_948658-NC_008711/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKSYDHEVID----VSARKIVETVTRAGATVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKA---VDSLMRLDLP----ADVNIEIKL---------"
+}
+
+{
+name    "YP_427773-NC_007643/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------SQNIRIRLKAFDHRVLD----QSTREIVSTAKRTGAQVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_727926-NC_008313/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVKGPVPLPTRIQRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKV---------"
+}
+
+{
+name    "NP_387996-NC_000964/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_328256-NC_007429/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQRIRIRLKGFDQGQLD----QSTANIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLSLP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_891243-NC_008599/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADVRGPVPMPTKIKRYTVLKSPHVNKDSREQFEMRIHARMLDIVAATPDT---VDSLTKLDLA----PEVNVEVRAMGK------"
+}
+
+{
+name    "YP_266525-NC_007205/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK------QNIRIKLRAYDNKILD----ASTEEIVNTVKRTGATIKGPIPLPTRIERYTVLKGPHIDKKSREQFETRTHKRLIDIIEPTPQT---VEALMKLDLA----SGVDVEIKI---------"
+}
+
+{
+name    "YP_465154-NC_007760/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA-T-----QKIRIRLKAYDYKLLD----QSAGEIVETAKRTGAKVAGPIPLPTRINKFTVLRSPHVDKKSREQFEIRTHKRLLDILEPTPQT---LDALMKLDLS----AGVDVEIK----------"
+}
+
+{
+name    "YP_001370500-NC_009667/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_666505-NC_008245/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKERFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "YP_001317431-NC_009632/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_706067-NC_008268/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGARVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "NP_372775-NC_002758/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHMYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001547672-NC_009972/1-77"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------------------------------------MDAAERTGAQVAGPVPLPTKIEKYSVLRSPFIDRDSQEQFEIRTHKRLIDVIDPSQQT---INALMKLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_948590-NC_005296/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001652788-NC_010278/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001427684-NC_009749/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKEKFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "YP_897901-NC_008601/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKERFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "YP_606252-NC_008027/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "NP_906021-NC_002950/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDYMLVD----KSAEKIVKTVKAAGAMVSGPIPLPTHKRIFTVNRSTFVNKKSREQFELSSYKRLIDIYNSTAKT---VDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_001539088-NC_009953/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVVD----SSARKIVETVTRTGAQVAGPVPLPTEINRFCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001185266-NC_009438/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001470208-NC_009828/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MPG------QKIRIKLKAYDHEVLD----ESAKKIVEVAKSTNAKISGPIPLPTERALYVVLRSPHKHKDSREQFEKRVHKRLIDIIEPSPKT---IDALMKINLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_248484-NC_007146/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001218091-NC_009457/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----ASTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_974260-NC_008767/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------NQKIRIRLKAYDYALID----RSAQEIVETAKRTGAVVKGPIPLPTKIERFNILRSPHVNKTSREQLEIRTHLRLMDIVDWTDKT---TDALMKLDLS----AGVDVEIKVQ--------"
+}
+
+{
+name    "YP_001213913-NC_009455/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIKLKGFDHKILD----QSALQIVEALERTGATISGPVPLPTRIQRYSVIRASFIDKDSQEQFEIRTHKRLIDIVETTSKT---IDALTNLNLP----AGVSIDIKL---------"
+}
+
+{
+name    "YP_378024-NC_007513/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADTTAASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_001022632-NC_008825/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------KQKIRIRLKAFDYKLID----QSALEIVDTAKRTGAIVKGPVPLPTRMQRFDILRSPHVNKSSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_508524-NC_007802/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MAV------SQNIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHVDKKSRDQWEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKV---------"
+}
+
+{
+name    "YP_638182-NC_008146/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001298132-NC_009614/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHNLVD----KSAEKIVRTVKATGAIVSGPIPLPTHKRIFTVNRSTFVNKKSREQFELSSYKRLIDIYSSTAKT---VDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_398095-NC_007577/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MTASIA---QQKIRIRLKAFDRRMLD----LSCEKIIQTADTTSASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRLIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_374112-NC_007512/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------MAVQQKIRIKLKSYDHSLVD----KWALRIIDVVKQTDAIIFGPIPLPTKSHVYTVNRSPHVDKKSREQFSFASHKRLIEIINPTSRT---IDMLMKLELP----SGVDVEIKS---------"
+}
+
+{
+name    "YP_076902-NC_006177/1-102"
+type    "PROTEIN"
+sequence        "-MA------------------------------------------------------------------------K----------QKIRIRLRAFDHKILD----SSAAKIVETAIRTGATVSGPIPLPTEKSIYTILTAPNGEKDIREQFEMRTHKRLIDIVEPGSKT---VEALMKLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001392835-NC_009699/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQKIRIRLKAFDHSLLD----QSALKIVETAKTTGAKVAGPVPLPTEKDIVTILRAPHKYKDAREQFEIRTHKRLIDIISPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_268459-NC_002737/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "NP_964358-NC_005362/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAS------QQIRIRLKSYEHGILD----ESAAKIVATAERTGAQISGPVPLPTERTLFTVLRSPHKNKDSREQFEIRTHKRLIDILNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_903427-NC_008610/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------NQNIRIKLKAFDHRLID----KSALEIVETAKRTGASVRGPIPLPTKKERFTVLTSPHVNKKARDQYELRTYVRLMDVISPTDKT---VDALMKLDLA----AGVDVAIKLN--------"
+}
+
+{
+name    "YP_599642-NC_008023/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGAKVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_338690-NC_007481/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRFERFTVLTSPHVNKDARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_663986-NC_008229/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVVAIVEAVKRSGSEIRGPIPLPTKNKRYTVLRSPHVNKDSREQFEIRVYSRLIDIISATPET---VDSLMKLDLA----PEVDVEVTSMETK-----"
+}
+
+{
+name    "YP_399900-NC_007604/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLQ---QQKIRIRLKAFDRRLLD----TSCDRIVETANRTNATAIGPIPLPTRRRIYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_980448-NC_008781/1-104"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------------MAT--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRMKRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001012001-NC_008817/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MTTSLA---QQKIRIRLKAFDRRMLD----LSCDKIIQTADTTAASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "NP_663843-NC_004070/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_595334-NC_008011/1-105"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MTTVSS-----DRIRIKLKAYDYRILD----KAVAEIVDTARNTGASIAGPIPLPTNIHKFTVNRSVHVDKKSREQFEMRIHKRLMDILEPTQQT---VDALGKLSLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001010100-NC_008816/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MTASIA---QQKIRIRLKAFDRRMLD----LSCDKIIQTADTTSASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_001654767-NC_010287/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQRIRIRLKGFDQGQLD----QSTANIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLSLP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_690688-NC_008258/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_059410-NC_006086/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001136304-NC_009338/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_821218-NC_008532/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAGKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_033836-NC_005956/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------SQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRGPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001493784-NC_009881/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHHSLD----QATKEIVSAVKRTFASINGPIPLPRKIERFTVNRSPHVHKKSREQFEIRKHKRLLVIDDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_525027-NC_007908/1-104"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------------MAT--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRFKRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_597654-NC_008022/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_263785-NC_007204/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQRIRIRLKSFDHRLID----QSAQEIVDTAKRTGAQVCGPVPLPTRIERFNVLTSPHVNKDARDQYEIRTHKRMVDIVQPTDKT---VDALMKLDLA----AGVDVQIALG--------"
+}
+
+{
+name    "YP_001279330-NC_009524/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQRIRIRLKSFDHRLID----QSAQEIVDTAKRTGAQVCGPVPLPTRIERFNVLTSPHVNKDARDQYEIRTHKRMLDIVQPTDKT---VDALMKLDLA----AGVDVQIALG--------"
+}
+
+{
+name    "YP_094372-NC_002942/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSS-----NQNIKIRLKSFDHRLID----LSTREIVDTAKRTGAQIRGPIPLPIRKEKFTVLTSPHVNKDARDQYELRTHKRLVVIVHPTEKT---VDALMKLDLA----AGVDVQISLDD-------"
+}
+
+{
+name    "YP_001528594-NC_009943/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN-------TKIRIKLKAYDHKLLD----QSALDIVDTARKTGARIVGPIPLPTRINKFCVLRSPHVDKKSREQFEMRTHKRLLDIIEPTQQT---VDALMKLDLS----PGVDVAIKL---------"
+}
+
+{
+name    "YP_001499631-NC_009900/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFANINGPIPLPRKIGRFTVNRSPHVHKKSREQFEIRKHKRLLVIGDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_144959-NC_006461/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------M------PKIRIKLRGFDHKTLD----ASAQKIVEAARRSGAQVSGPIPLPTRVRRFTVIRGPFKHKDSREHFELRTHNRLVDIINPNRKT---IEQLMTLDLP----TGVEIEIKTVGGGR----"
+}
+
+{
+name    "NP_971376-NC_002967/1-102"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MTK-------EKIRVKLRGFDVELVD----QSSKAIVQAVQKAGAKVCGPIPLPTRINKFTVLRSPHVNKKSREQFEMRTHKRLIDIIEPSAEV---MNALLALELS----AGVDVEIKQ---------"
+}
+
+{
+name    "YP_001393625-NC_009706/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQKIRIRLKAFDHTILD----QSSEKIVETAKSTGAKVAGPVPLPTEKDVVTILRAPHKYKDSREQFEIRTHKRLIDIISPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001425183-NC_009727/1-110"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSDN-----QRIRIRLKAFDHRLID----RSTREIVETARRTGAIIRGPILLPTKIERYTVLISPNIDKDARDQYEIRTHKRLVDISEPTDKT---VDALMKLDLA----AGVDVQIELLNKKSGA--"
+}
+
+{
+name    "YP_516703-NC_007907/1-102"
+type    "PROTEIN"
+sequence        "-MS------------------------------------------------------------------------S----------QKIRIRLKAFDHKTLD----QSAEKIVETAKRTGARVSGPIPLPTEKSIYTILRSPHVNKDSREQFEMRTHKRLIDILEPTSKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_437288-NC_007645/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------GQKIRIRLKAFDYRLID----QSTQEIVDTAKRTGAQVRGPIPLPTKKERFTVLISPHVNKDARDQYEIRTHKRLLDIVEPTEKT---VDALMKLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_734527-NC_004368/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_741301-NC_008340/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQRIRIRLKAFDHRLID----QSAREIVETAKRTGAHVKGPIPLPVKKEKFTILISPHVNKDARDQYEIRTHKRLMDIIDPTDKT---VDALMKLDLA----AGVDVQIKLY--------"
+}
+
+{
+name    "YP_748848-NC_008345/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_244405-NC_007086/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAD------QKIRIRLKAFDHRLID----RSASEIVETAKRTGAQVRGPIPLPTKIERYTILVSPHADKDARDQYETRTHKRVLDIVDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_900368-NC_008609/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ-S-----QKIRIRLKAYDHKLLD----VSVTEIVDTAKRTGARVAGPIPLPTVINKYCVLRGPHVDKKSRDQFEIRTHKRLIDILDPTQQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001373472-NC_009674/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001389204-NC_009698/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQKIRIRLKAFDHSLLD----QSALKIVETAKTTGAKVAGPVPLPTEKDIVTILRAPHKYKDAREQFEIRTHKRLIDIISPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_953901-NC_002939/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MP-S-----QKIRIRLKAFDHKLLD----QSVGEIVDTAKRTGARVAGPIPLPTVINKYCVLRGPHVDKKSREQFEIRTHKRLIDILDPTQQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001248305-NC_009488/1-104"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------MVVMSSKD-------IRIRLKSFDHALLD----RTTFEIVRLAKSAGAKVKGAVSLPRRIQYFTFNKSPHIYKKSREQFEIRTHKRLIVIASSTPQT---IEALMKMTLA----PGVDVQIN----------"
+}
+
+{
+name    "NP_807671-NC_004631/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_276707-NC_005773/1-130"
+type    "PROTEIN"
+sequence        "------------------------------------------------MRSSIELRLLLTGVLRSVGTAIWSLN--PMQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTEKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "NP_715870-NC_004347/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_804899-NC_008525/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGATISGPIPLPTERTVYTVLSSPHKFKKAREQFEMRTHKRLIDIVNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_663064-NC_002932/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------MAVQQKIRIKLKSYDHSLVD----KWALKIIDVVKQTEAIIFGPIPLPTKTHVYTVNRSPHVDKKSREQFAFSSHKRLIEIINPTART---IDMLMKLELP----SGVDVEIKS---------"
+}
+
+{
+name    "YP_001275543-NC_009523/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKVRIRLKAYDHKILD----QSARQIVEAAERTGALVAGPVPLPTKIEKHSVIRSPFIDKDSQEQFEIRTHKRLIDVLDPSQQT---INALMKLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_950451-NC_005303/1-107"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------------MNKKEK------EIIKIILRAYDHHLID----QSAKKIIDILTKTGANIEGPIPLPTRKEVFTVLRSPFVNKDSREQFERRTHKRLIQIINPNKKT---IESLMHISLP----PAIDILLKKNQ-------"
+}
+
+{
+name    "YP_001154838-NC_009379/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAVVKGPVPLPTRIERFDILRSPHVNKTSRDQLEIRTHLRLMDIVDPTEKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001484974-NC_009840/1-116"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------MTLHSKLFETMTASIA---QQKIRIRLKAFDRRMLD----LSCDKIIQTADTTSASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_312259-NC_007384/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_576826-NC_007964/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_002790-NC_005823/1-102"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MAG-------QKIRVKLKAFDHRLID----QSTYEIVATAKRTGATVSGPIPLPTKKEIYTVLRSPHVNKKSREQFELKTHKRLIDILDTNEDT---VEALMKLQLP----AGVSVDIKS---------"
+}
+
+{
+name    "YP_926093-NC_008700/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_660052-NC_008228/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MP------NQRIRIRLKAFDHKLID----QSTAEIVETAKRTGAQVSGPIPLPTRKERYTILTSPHVNKDARDQYEIRTHKRLVDIIEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_115699-NC_006360/1-137"
+type    "PROTEIN"
+sequence        "----------------------------------------------------MQYARVSCYRVLVFMWSSFKIYEQEQLNYIFMNTTSIKIKLKSFDHRQID----AAAKKIILLARELNIETRGPVPLPTSRAIYTILRSVHINKKSREQFESRTHKRLVILKVLPTNQKLVTEKISRSQLP----AGVWIEIEVS--------"
+}
+
+{
+name    "YP_213583-NC_003228/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHNLVD----KSAEKIVRTVKATGAIVSGPIPLPTHKRIFTVNRSTFVNKKSREQFELSSFKRLIDIYSSTAKT---VDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_001168728-NC_009428/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------GQTIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHIDKKSRDQWEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDIQIKV---------"
+}
+
+{
+name    "YP_001643001-NC_010184/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTIYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_122733-NC_006368/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSS-----NQNIKIRLKSFDHRLID----LSTREIVDTAKRTGAQIRGPIPLPIRKEKFTVLTSPHVNKDARDQYELRTHKRLVVIVHPTEKT---VDALMKLDLA----AGVDVQISLDD-------"
+}
+
+{
+name    "YP_538233-NC_007940/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFANISGPIPLPRKIQRFTVNRSPHVHIKSREQYEIRTQKRLLVIDDPNPVV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_001664378-NC_010321/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MP------KQKIRIRLKAFDHAILD----QSAQKIVETAKRTGAEVSGPIPLPTEKDIITILRAPHKYKDSREQFEIRTHKRLIDILNPTPKT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_221024-NC_000963/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFATINGPIPLPRKIERFTVNRSPHVHKKSREQFEIRKHKRLLVIDDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_001343769-NC_009655/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_872065-NC_008578/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVID----SSARKIVETVTRTGARVAGPVPLPTEKNVYCVIRSPHKDKDSREHFEMRTHKRLIDIIDPTPRT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_466156-NC_003210/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSIYTVLRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_016714-NC_007530/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSADKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001118177-NC_009256/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001561421-NC_010002/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MS--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRMKRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_223958-NC_000921/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVVAIVEAVKRSGSEIRGPIPLPTKNKRYTVLRSPHVNKDSREQFEIRVYSRLIDIISATPET---VDSLMKLDLA----PEVDVEVTSMETK-----"
+}
+
+{
+name    "YP_001306198-NC_009616/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MPG------QKIRIRLKAYDHKLLD----ESAKKIVEVVKQTNAKVSGPVPLPTERTLYVVLRSPLKHKDSREQFEKRVHKRMIDILEPSPKT---IDALMKINLP----AGVDVEINL---------"
+}
+
+{
+name    "YP_720406-NC_008312/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATIQ---QQKIRIRLKAFDRRLLD----TSCEKIVDTANRTGATAIGPIPLPTKRRIYCLLRSPHVDKDSREHFETRTHRRIVDIYQPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_001476050-NC_009831/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILTSPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_344313-NC_007484/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK-----QQIIRIRLKAFDHRLID----QSAREIVDTAKRTGAHVRGPIPLPTRKERFTILISPHVNKDARDQYEIRTHKRLMDIVDPTEKT---VDALMKLDLA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_001405696-NC_009714/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQK--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADVRGPVPMPTKVKRYTVLKSPHINKDSREQFEMKIHGRMLDIVAATPET---VDSLTKLDLA----PEVNVEVRAMGK------"
+}
+
+{
+name    "NP_300604-NC_002491/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLVDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_477164-NC_007776/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MPTLT---QQKIRIRLKAYDHRLLD----TSCDKIVDTARRTDAVPVGPIPLPTRRRIYCVLRSPHIDKDSREHFETRTHRRIIDIYSPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_001086536-NC_009089/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK-----NEKIRIRLKSYDHKLLD----FSAGKIVETAKKAGSQVSGPVPLPTEKQVVTILRAVHKYKYSREQFEIRTHKRLIDIANPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_300752-NC_007350/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTERSVYTVIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_203617-NC_006840/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLTSPHVNKDARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001398987-NC_009707/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADIRGPIPMPTKIKRYTVLKSPHINKDSREQFEIRIHARMLDIIAATPDT---VDSLTKLDLA----PEVSVEVRAMGK------"
+}
+
+{
+name    "NP_759744-NC_004459/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----ASTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_360644-NC_003103/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFANINGPIPLPKKIGRFTVNRSPHVHKKSREQFEIRKHKRLLVIGDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_833994-NC_008542/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001265840-NC_009512/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "NP_691039-NC_004193/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVDTAKRSGAKVSGPIPLPTEKSVYTVLRAVHKYKDSREQFEMRTHKRLIDILEPTPKT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_472111-NC_003212/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSIYTVLRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001512049-NC_009922/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAKN----NQKIRIRLKAYDHMALD----QSAEKIVETAKKSGAEVSGPVPLPTEKQIITILRAVHKYKDSREQFEMRTHKRLIDILNPTPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_526433-NC_007912/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHKLID----ASTQEIVETAKRTGAQVRGPIPLPTRKERYTVLVSPHVNKDARDQYEIRTYKRLLDIVEPTEKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_832455-NC_008541/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKSYDHEVID----VSARKIVETVTRAGATVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKA---VDSLMRLDLP----ADVNIEIKL---------"
+}
+
+{
+name    "NP_444754-NC_002179/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLVDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "NP_737131-NC_004369/1-137"
+type    "PROTEIN"
+sequence        "-----------------------------------------MRPSPKPGQRYREKNEANSHRSPKMEDVGRARKRISVAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGARVVGPVPLPTEKNVYAVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001189389-NC_009439/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_547118-NC_007948/1-104"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------------MAT--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRMKRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_641318-NC_003919/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSE------QKIRIRLKAFDHRLID----RSASEIVETAKRTGAQVRGPIPLPTKIERYTILVSPHADKDARDQYETRTHKRVLDIVDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_190820-NC_006677/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MD------NQNIRIRLKAYDHRVLD----NSTKEIVNTAKRTGARVRGPIPLPTHIERFTVNRSPHVDKKSREQFEIRTHRRLLDIVEPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_815711-NC_008533/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAAKIVESATRTGAQVAGPIPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIVNPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001659289-NC_010296/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLQ---QQKIRIRLKAFDRRLLD----TSCEKIVDTANRTNATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_180473-NC_005295/1-111"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MVMVT------QKIYIELKAFDSYLLD----RSARSIILTAKRSGARVNGPIFFPRRVAKFIVNRSTHVDKKSREQFEIRTHKRLISLPKANSTI---IQALMSLQLP----AGVDVKVKVIGGSNNG--"
+}
+
+{
+name    "YP_001525471-NC_009937/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVATAKRTGAQVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_328783-NC_007432/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "NP_599747-NC_003450/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVTRTGARVVGPVPLPTEKNVYAVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001143777-NC_009348/1-116"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------MLVYVLLSIGAL--SMQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_515731-NC_007899/1-123"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------MLRFLKKFKKRLLRSKEYMKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVAGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_479694-NC_007777/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAA------QKIRIRLKAYDHEVID----SSARKIVETVTRTGAQVAGPVPLPTEKNIYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_646987-NC_003923/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_458528-NC_007722/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------AQNIRIRLKAFDHRVLD----QATGEIADTARRTGALIRGPIPMPTRIEKFTVNRGPHIDKKSREQFEVRTYKRLLDIVQPNAQT---VDALMKLDLA----AGVNVEIKLA--------"
+}
+
+{
+name    "YP_287592-NC_007332/1-123"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------MWSSFKIYEQEQLNYIFMNTTSIKIKLKSFDHRQID----AAAKKIILLARELNIETRGPVPLPTSRAIYTILRSVHINKKSREQFESRTHKRLVILKVLPTNQKLVTEKISRSQLP----AGVWIEIEVS--------"
+}
+
+{
+name    "YP_317976-NC_007406/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001416580-NC_009720/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVATAKRTGAQVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001034117-NC_009009/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAAKIVETATRTGAEVAGPIPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001219022-NC_009465/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------NQNIRIKLKAFDHRLID----KSAVEIVETAKRTGASVRGPIPLPTKKERFTVLTSPHVNKKARDQYELRTYVRLMDVISPTDKT---VDALMKLDLA----AGVDVAIKLN--------"
+}
+
+{
+name    "NP_357781-NC_003098/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAAKIVESATRTGAQVAGPIPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIVNPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001235067-NC_009484/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MD------SQNIRIRLKAYDHRVLD----NSTREIVNTAKRTGAQVRGPIPLPTHIERFTVNRSPHVDKKSREQFEIRTHRRLLDIVEPTPQT---VDALMKLDLA----AGVDVEIKI---------"
+}
+
+{
+name    "YP_001379098-NC_009675/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA-T-----QKIRIRLKAYDYKLLD----QSAGEIVETAKRTGAKVAGPIPLPTRINKFTVLRSPHVDKKSREQFEIRTHKRLLDILEPTPQT---LDALMKLDLS----AGVDVEIK----------"
+}
+
+{
+name    "YP_001205104-NC_009445/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001210869-NC_009454/1-102"
+type    "PROTEIN"
+sequence        "-MK------------------------------------------------------------------------S----------QKIRIRLKAFDHHMLD----QSAQKIVETARRTGASVAGPVPLPTEKSIYTILRSPHVNKDSREQFEMRTHKRLIDILEPNPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_281407-NC_007297/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_081720-NC_006274/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_294033-NC_001263/1-107"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MVA------PKIRIKLRGFDHKALD----QSASKIVDTVRRTGADVSGPVPLPTRIRRFTVLRSPFKYKDSREHFEIRTHNRLVDIMNPTKKT---IDSLMTLDLP----TGVDIEIKTVGGRA----"
+}
+
+{
+name    "NP_966446-NC_002978/1-109"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------------------------MKQDIYINIKAFDCSLLE----ECVRKFIDELKRSSAKLSGPIALPRKDSKFIVNRSPHVDKKSREQFEMRTSRRLIVLHDLTPTM---MQMLTGLSFS----AGVEVDLKVKEVKEVKV-"
+}
+
+{
+name    "YP_246293-NC_007109/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFANINGPIPLPRKIERFTVNRSPHVHKKSREQFEIRKHKRLLVIDDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "NP_636280-NC_003902/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAD------QKIRIRLKAFDHRLID----RSASEIVETAKRTGAQVRGPIPLPTKIERYTILVSPHADKDARDQYETRTHKRVLDIVDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "NP_462345-NC_003197/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001178460-NC_009436/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTILISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_718264-NC_008309/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_904902-NC_008611/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVVRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "NP_488376-NC_003272/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLQ---QQKIRIRLQAFDRRLLD----TSCEKIVDTANRTNATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSSKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_237617-NC_007005/1-124"
+type    "PROTEIN"
+sequence        "------------------------------------------------------MRLLLTGVLRSVGTAIWSLN--PMQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTEKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "NP_215214-NC_000962/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "NP_403859-NC_003143/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001653779-NC_010280/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQRIRIRLKGFDQGQLD----QSTANIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLSLP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_001333187-NC_009641/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_852832-NC_004829/1-126"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------MIGQHMTEQKAKSSKTSSEEAKKQKELTEIKIKLKSYDSRLLD----QSVKKIFEIVKETGSKFCGPIPLPTKKEVFTIIRSPHVDKASREQFERRTHKRLIIIKNLKNET---IQKLKRFVIP----SGVELRIYL---------"
+}
+
+{
+name    "NP_563322-NC_003366/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------KQKIRIRLKAFDHTILD----QSAEKIVETAKSTGAKVVGPVPLPTEKDVITILRAVHKYKDSREQFEVRTHKRLIDIVNPSPKT---VDALMRLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_064859-NC_006138/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MMIPT-----EKIRIRLKAYDHKLLD----QSTSEIVETARRTGSAVVGPIPLPTSINKFCVLRSPHVNKKSREQFEMRTHRRLLDILEPTQQT---IDLLMKLELS----AGVDVEIKLP--------"
+}
+
+{
+name    "NP_458459-NC_003198/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_788855-NC_008463/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_173653-NC_006582/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVLD----QSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIINPTPQT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001593077-NC_010103/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_570312-NC_007958/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_224745-NC_000922/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVVGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLVDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_001197442-NC_009442/1-176"
+type    "PROTEIN"
+sequence        "---MKNPEIKVLGFFEFLSKNSCNGKWNLVECSSAVKITAVALMQEVATRSVALPRNTCWFSCGASLLCLIDEKEKKMAN------KKIRIRLKAYEHRTLD----TAAAKIVETATRTGAQVAGPVPLPTERSFYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "NP_886581-NC_002927/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MK--------NQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAVVRGPVPLPTRIRRYDVLRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMRLDLP----AGVDVEIALQ--------"
+}
+
+{
+name    "YP_001567838-NC_010003/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------MASNKYIKIRLKGYDHRLLD----ESSKKIIDAVKDTEAKVSGPIPLPNKRTVYSVIRSPHKYSYSMEQFEKIVHKRVIYIYNASSDT---VTKLLKVNIP----AGVSVDIKA---------"
+}
+
+{
+name    "YP_053362-NC_006055/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAE------QKMRIKLKGYDHAIID----QSILKIIEAAEGTGAKVRGPIPLPTDKQVITILRAVHKYKDSREQFEMRTHKRLLEILNPTPTT---MDVLKRVQLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_277704-NC_007292/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----KSTVEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_692116-NC_008260/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQRIRIRLKAFDHRLID----QSAQEIVDTAKRTGAQVTGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRLVDIVEPTDKT---VDALMKLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001451236-NC_009785/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAAKIVETATRTGAEVAGPIPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_422494-NC_007626/1-125"
+type    "PROTEIN"
+sequence        "------------------------------------------------------MNLLFSPIGAPTGRLSDLTDDLNME------SQNIRIRLKAFDHRVLD----QSTREIVNTAKRTGAQVRGPIPLPSRIEKFTVNRSPHIDKKSREQFEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001199630-NC_009443/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAAKIVETATRTGAQVAGPVPLPTERSFYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_189395-NC_002976/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_455959-NC_007712/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTILISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_787683-NC_004572/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEE------QKIRIRLKSYSHEIID----VSAKKIVDTVTRAGATIVGPVPLPTKKSVVCVIRSPHRHKDSREHFEMRTHKRLINVVDLTPRA---VDALMRLDLS----SEVNVEIKL---------"
+}
+
+{
+name    "YP_171367-NC_006576/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLQ---QQKIRIRLKAFDRRLLD----TSCDRIVETANRTNATAIGPIPLPTRRRIYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "NP_698238-NC_004310/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_104167-NC_006348/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_072180-NC_006155/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_976845-NC_008769/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "NP_109852-NC_000912/1-108"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MNAANAVKYPELKIKLESYDSTLLD----LTTKKIVEVVKGVDVKIKGPLPLPTKKEVITIIRSPHVDKASREQFEKNRHKRLMILVDVNQGA---IDSLKRIKIP----VGVTLRFSK---------"
+}
+
+{
+name    "YP_746795-NC_008344/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----KSAVEIVETAKRTGAVVKGPVPLPTRIERFDVLRSPHVNKTSRDQFEIRTHLRLMDIIDPTDKT---VDALMKLDLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_744374-NC_008343/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MD------NQNIRIRLKAYDHRVLD----NSTKEIVNTAKRTGARVRGPIPLPTHIERFTVNRSPHVDKKSREQFEIRTHRRLLDIVEPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001192753-NC_009441/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHMLVD----KSAEKIVKTVKTTGAVVTGPIPLPTHKKLFTVLRSPHVNKKAREQFEVMSYKRLIDIYSSSSKT---IDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_193214-NC_006814/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAS------QTIRIRLKSYEHGILD----ESAAKIVATAKRTGAEISGPVPLPTERTLFTVLRSPHKNKDSREQFEMRTHKRLIDILNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001296234-NC_009613/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHMLVD----KSAEKIVKTVKSTGAVVTGPIPLPTHKKLFTVLRSPHVNKKAREQFEVMSYKRLIDIYSSSSKT---IDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_145958-NC_006510/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGAKVSGPIPLPTERTVYTILRAVHKYKDSREQFEMRTHKRLIDIINPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001419794-NC_009725/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001068035-NC_009076/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "NP_882122-NC_002929/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MK--------NQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAVVRGPVPLPTRIRRYDVLRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMRLDLP----AGVDVEIALQ--------"
+}
+
+{
+name    "YP_001611479-NC_010162/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MADT-----TKIRIRLKAFDHQLLD----KSTSDIVETAKRTGAHVAGPIPLPTEIRRYTVLRGPHVDKKSREQFEIRTHKRLLDIIEPTQQT---LDALMKLDLS----AGVDVEIKS---------"
+}
+
+{
+name    "YP_595775-NC_008021/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGAKVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001516128-NC_009925/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MTTLQ---QQKIRIRLKAFDHRLLD----TSCDKIVETAKRTNASPVGPIPLPTRRRIYCVLRSPHVDKDSREHFETRTHRRIVDIYQPSPKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_772160-NC_008390/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_807682-NC_008526/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGATISGPIPLPTERTLYTVLRSPHKYKDSREQFEMRTHKRLIDIVNPTPKT---VDALMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_988966-NC_008783/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLEAFDHRILD----VSTQEIVSTAKRTGANVRGPIPLPTRIEKFTVNRGPHIDKKSREQFEMRTHKRLLDIIDPTPQT---VDALMKLDLS----AGVNVEIKL---------"
+}
+
+{
+name    "NP_830010-NC_004722/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001635966-NC_010175/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKVRIRLKAYDHKILD----QSARQIVEAAERTGALVAGPVPLPTKIERYSVIRSGFIDKDSQEQFEIRTHKRLIDVLDPSQQT---INALMKLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_072919-NC_006156/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MIAK-------DKIRVRLFSFDVKILD----QSAESIVKAVQKAKAQIKGPIPLPTKIKKYTVLRSPHVNKKSREQFEMRTHKRLIDILEPTSAL---MDSLMKLELP----AGVEVDIKQ---------"
+}
+
+{
+name    "YP_001666730-NC_010322/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "NP_882393-NC_002928/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MK--------NQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAVVRGPVPLPTRIRRYDVLRSPHVNKTSRDQFEIHTHQRLMDIVDPTDKT---VDALMRLDLP----AGVDVEIALQ--------"
+}
+
+{
+name    "YP_001292718-NC_009567/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_876054-NC_005042/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADNTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_572481-NC_007963/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQKIRIRLKAFDHRLID----QSAQEIVDTAKRTGAQVRGPIPLPTNRERYTVLISPHVNKDARDQYEIRTHKRVLDIVEPTEKT---VDALMKLDLA----AGVDVQIKLD--------"
+}
+
+{
+name    "YP_560672-NC_007951/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001620088-NC_010163/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------DIIKISLKAYDHRLID----QAAKKIIESVEKTGVVVQGPIPLPTKKEIFTVLRSPHVNKDSREQFERRTHKRLIQILDPNSKT---IDALMRIDLP----SGIDIVLKK---------"
+}
+
+{
+name    "YP_101459-NC_006347/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHNLVD----KSAEKIVRTVKATGAIVSGPIPLPTHKRIFTVNRSTFVNKKSREQFELSSFKRLIDIYSSTAKT---VDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "NP_687093-NC_004116/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001460113-NC_009800/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001500047-NC_009901/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILTSPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_767377-NC_008380/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGASVRGPVPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001255963-NC_009495/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------KQKIRIRLKAFDHSLLD----QSALKIVETAKTTGAKVAGPVPLPTEKDIVTILRAPHKYKDAREQFEIRTHKRLIDIISPSPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_622631-NC_008060/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_251629-NC_007164/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASAKKIVETVTRTGARVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_826359-NC_008536/1-106"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MALR-------ERIRIRLKAYDHRILD----QSTTEIVDTAKRTGATVAGPIPLPTSRSITTVLRSPHVDKKSREQFEIRTHKRLLDILEPTQQT---VDALMKLDLP----AGVDVEIKAFGK------"
+}
+
+{
+name    "NP_926875-NC_005125/1-104"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------------------MALT---QQKIRIRLQAFDHGLLD----QSCSKIVDTANRTNAAAVGPIPLPTRIRRYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSAKT---IDALMRLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_001326673-NC_009636/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGASVRGPVPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_967210-NC_008751/1-105"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MTTVSS-----DRIRIKLKAYDYRILD----KAVAEIVDTARNTGAGVAGPIPLPTNIHKFTVNRSVHVDKKSREQFEMRIHKRLMDILEPTQQT---VDALGKLSLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_814134-NC_008530/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAS------QQIRIRLKSYEHGILD----ESAAKIVATAERTGAQISGPVPLPTERTLFTVLRSPHKNKDSREQFEIRTHKRLIDILNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_628860-NC_003888/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVID----SSAKKIVETVTRTGASVAGPVPLPTEKNVYCVIKSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001443957-NC_009783/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----ASTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_351762-NC_007493/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------GQTIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHIDKKSRDQWEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDIQIKV---------"
+}
+
+{
+name    "YP_001272067-NC_009513/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGAQISGPIPLPTERTIYTVIRSPHKFKKSREQFEMRTHKRLIDIVDPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001639627-NC_010172/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTKEIVSTARRTGAQIRGPIPLPTHIEKFTVNRSPHIDKKSREQFEMRTHKRVLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_909183-NC_008618/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKSYDHEVID----QSAKKIVETVTNAGATVVGPVPLPTEKNVLVVIRSPHKYKDSREHFEMRTHKRLIDIVDPTPKA---VDSLMHIDLP----ADVNIEIKL---------"
+}
+
+{
+name    "YP_367692-NC_007510/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_795797-NC_008497/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYEHRILD----QSADKIVETAKRTGAGISGPIPLPTERTIYTVLRSPHKFKDSREQFEMRTHKRLIDIVNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_867848-NC_008577/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTVLISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_383592-NC_007517/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MP-S-----QKIRIRLKAFDHKLLD----QSVGEIVDTAKRTGARVAGPIPLPTIINKYCVLRGPHVDKKSREQFEIRTHKRLIDILDPTQQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001551515-NC_009976/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADNTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYNPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_208874-NC_002946/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------NQKIRIRLKAYDYALID----RSAQEIVETAKRTGAVVKGPIPLPTKIERFNILRSPHVNKTSREQLEIRTHLRLMDIVDWTDKT---TDALMKLDLP----AGVDVEIKVQ--------"
+}
+
+{
+name    "NP_931889-NC_005126/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_356129-NC_007498/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ-S-----QKIRIRLKAYDHKLLD----LSVNEIVDTAKRTGARVAGPIPLPTIINKYCVLRGPHVDKKSREQFEMRTHKRLLDIVEPTQQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_159182-NC_006513/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSALEIVDTAKRTGAVVRGPVPLPTRIERFDLLRSPHVNKASRDQFEIRTHQRLMDIIDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_961562-NC_008750/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_845676-NC_008554/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MMTN-----QRIRIRLKAYDHKLLD----QSTSEIVMTAKKTGARVAGPIPLPTKIHRYTVLRSPHVDKKSREQFEIRVHKRLIDILEPTQQT---VDSLMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_958002-NC_008740/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------SQKIRIRLKAFDYRLID----QSTQEIVDTAKRTGAQVRGPIPLPTRKEKYTVLISPHVNKDARDQYEIRTHKRLLDIVEPTEKT---VDALMKLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_674239-NC_008254/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRVLD----ASTREIVSTAKRTGANVRGPIPLPTRIEKFTVNRSTHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_441640-NC_000911/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLQ---QQKIRIRLKAFDRRLLD----TSCDKIVDTANRTNAAAVGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "NP_521141-NC_003295/1-104"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------------MQQ--------NQKIRIRLKAFDYRLID----QSAAEIVETAKRTGAIVKGPVPLPTRIQRFDVLRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001464789-NC_009801/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_801302-NC_004606/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "NP_933167-NC_005139/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYKLID----ASTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_219618-NC_004552/1-112"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------MLRSKEYMKQQ----KQKIRIRLKGFDQGQLD----RSTADIVETAKRTGARVAGPIPLPTKREVYTVLRSPHVDKKSREQFEIRTHKRLIDILDPTGKT---IDALKMLALP----AGVDIKIKAA--------"
+}
+
+{
+name    "YP_782497-NC_008435/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_298441-NC_002488/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAD------QKIQIRLKAFDCRLID----RSAGEIVETAKRTGAHVRGPIPLPTKIERCTILVSPHADKDARDQYETCTYKRVLYIVDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_544390-NC_007947/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------AQKIRIRLKAFDYRLID----QSALEIVETAKRTGAVVKGPVPLPTRIERFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_417581-NC_007622/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_078064-NC_002162/1-101"
+type    "PROTEIN"
+sequence        "------------------------------------------------------------------------------------MNQELRIRLESYDHRLLD----DTVKTIVNISNSTGSKLRGPIPLPTKKEIFTILRSPHVNKSSREQFERRTHKRLIILENPQPKT---MEALKRLSVP----FGVEVTFKI---------"
+}
+
+{
+name    "YP_041691-NC_002952/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_868050-NC_005027/1-108"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSTGP---SEVIRIRMEAYDHAVLD----QSARDIVDTVKATASIVHGPIPLPTRIERYTVLSSPFVNKKARQQYEIRTHKRLVDIVQASAKT---IEALNKLSLP----AGVDIKIKASAR------"
+}
+
+{
+name    "YP_001355102-NC_009659/1-110"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------MSTAPKSAP--------NQKIRIRLKAFDYRLID----QSALEIVDTAKRTGAVVKGPVPLPTRIQRFDVLRSPHVNKTSRDQFEIRTHVRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_513030-NC_007880/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKEKFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "NP_671282-NC_004088/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001008069-NC_008800/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_826102-NC_003155/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVID----SSAKKIVETVTRTGASVAGPVPLPTEKNVYCVIKSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_212988-NC_000918/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEQ------EKIRIKLRAYDHRLLD----QSVKQIIETVKRTGGVVKGPIPLPTRKRKWCVLRSPHKFDQSREHFEIREFSRILDIIRFTPQT---IEALMEISLP----AGVDVEVKMRG-------"
+}
+
+{
+name    "NP_903857-NC_005085/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MS--------SQKIRIRLKAFDYNLID----RSAQEIVETAKRTGAVVKGPVPLPTKIERFNVLRSPHVNKTSRDQLEIRTHLRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_169014-NC_003911/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------SQNIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHVDKKSRDQFEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKLQS-------"
+}
+
+{
+name    "YP_034461-NC_005957/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSAEKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_504891-NC_007797/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MVT------QKIYIELKAFDHGLLD----RSARNIVLVAKRSGAKVNGPIFFPRRTAKFIVNRSTHVDKKSREQFEIRTHKRLISLPKANSAI---LQALMSLQLP----AGVDVKVKVVGG------"
+}
+
+{
+name    "NP_208112-NC_000915/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVVAIVEAVKRSGSEIRGPIPLPTKNKRYTVLRSPHVNKDSREQFEIRVYSRLIDIISATPET---VDSLMKLDLA----PEVDVEVTSMETK-----"
+}
+
+{
+name    "NP_696732-NC_004307/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKSYDHEVID----QSAKKIVETVTNAGATVVGPVPLPTEKNVFCVIRSPHKYKDSREHFEMRTHKRLIDIVDPTPKA---VDSLMHIDLP----ADVNIEIKL---------"
+}
+
+{
+name    "YP_001086080-NC_009085/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS------NQRIRIRLKSFDHRLID----QSAQEIVETAKRTGAQVCGPIPMPTRIERFNVLTSPHVNKDARDQYEIRTYKRLIDIVQPTDKT---VDALMKLDLA----AGVDVQIALG--------"
+}
+
+{
+name    "YP_679745-NC_008255/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN-------QKIRIKLKSYDHNLVD----KSSERIVRAVKATGAVVSGPIPLPTEKEIFTVLRSPHVNKKSRDQYQLCTYKRLVDIYSTSSKT---VDALMKLELP----SGVDVEIKV---------"
+}
+
+{
+name    "YP_579750-NC_007969/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA------NQRIRIRLKSFDHRLID----QSAQEIVDTAKRTGAQVCGPVPLPTRIERFNVLTSPHVNKDARDQYEIRTHKRMVDIVQPTDKT---VDALMKLDLA----AGVDVQIALG--------"
+}
+
+{
+name    "YP_001281998-NC_009525/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGASVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_001210152-NC_009446/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAS-----TQKIRIRLKSYDHRLID----ASAKQIVETAKRAGAQVKGPIPLPVKKEIYTVLISPHVNKDARDQYEMRTHKRIMDIIDPTDKT---VDALMKLDLA----AGVDVKIELQ--------"
+}
+
+{
+name    "NP_938851-NC_002935/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASAKKIVETVTRTGARVVGPVPLPTEKNVYAVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "NP_240999-NC_002570/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVLD----QSAEKIVETAKRSGANVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001492585-NC_009879/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRILD----QATKEIVSAIKRTFANINGPIPLPRKIERFTVNRSPHVHKKSREQFEIRKHKRLLVIDDPNPAV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "YP_001054448-NC_009053/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_047726-NC_005966/1-108"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------MEFT--GMS------NQRIRIRLKSFDHRLID----QSSQEIVETAKRTGAQVCGPIPMPTRIERFNVLTSPHVNKDARDQYEIRTYKRLIDIVQPTDKT---VDALMKLDLA----AGVDVQIALG--------"
+}
+
+{
+name    "NP_742619-NC_002947/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "NP_819281-NC_002971/1-110"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSDN-----QRIRIRLKAFDHRLID----RSTREIVETARRTGAIIRGPILLPTKIERYTVLISPNIDKDARDQYEIRTHKRLVDISEPTDKT---VDALMKLDLA----AGVDVQIELLNKKSGA--"
+}
+
+{
+name    "NP_772041-NC_004463/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_052119-NC_004547/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTILISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_644912-NC_008148/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAV------SKIRIKLKAYDHEVID----KTARSIVETAERTGAFVFGPVPLPTKRSRYTVIRGPFKDKDSREHFQLNTHKRLIDIQQPTPRT---VDSLQRLDLP----AGVNIEIKAT--------"
+}
+
+{
+name    "YP_380650-NC_007516/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCEKIIETADNTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_335141-NC_007434/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_585464-NC_007973/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------NQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVKGPVPLPTRIQRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKV---------"
+}
+
+{
+name    "YP_001600097-NC_010120/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------NQKIRIRLKAYDYALID----RSAQEIVETAKRTGAVVKGPIPLPTKIERFNILRSPHVNKTSREQLEIRTHLRLMDIVDWTDKT---TDALMKLDLP----AGVDVEIKVQ--------"
+}
+
+{
+name    "YP_001240978-NC_009485/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----TSTREIVNTAKRTGAQVRGPIPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_755956-NC_004431/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_424661-NC_007633/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAE------NKMRIKLKGYDHAIVD----QSITKIIQAAEGTGAKVRGPIPLPTEKQVITILRAVHKYKDSREQFEMRTHKRLLEILNPTAAT---MDVLKRVQLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_474747-NC_007775/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLT---QQKIRIRLKAYDHRLLD----TSCDKIVDTARRTEAVPVGPIPLPTRRRLYCVLRSPHTDKDSREHFEVRTHRRIIDIYSPSSKT---IDALMKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "NP_623832-NC_003869/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MP------KQKIRIRLKAFDHAILD----QSAQKIVETAKRTGAEVSGPIPLPTKREVITILRAPHKYKDSREQFEIKTHKRLIDILNPTPKT---VDALMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_975722-NC_005364/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAE------SKMRIKLKGYDHAIVD----QSIVKIIQAAEGTGAKVRGPIPLPTEKQVITILRAVHKYKDSREQFDMRTHKRLLEILNPTAAT---MDILKRVQLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_969756-NC_005363/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ-S-----QKIRIRLKAFDHKLLD----QSTKEIVETARRTGAKVAGPIPLPTRINRYTVLRSPHVDKKSREQFEVRTHKRMLDILEPTQQT---VDQLMKLDLS----AGVDVEIKLSAV------"
+}
+
+{
+name    "YP_010521-NC_002937/1-105"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MTTVSS-----DRIRIKLKAYDYRILD----KAVAEIVDTARNTGAGVAGPIPLPTNIHKFTVNRSVHVDKKSREQFEMRIHKRLMDILEPTQQT---VDALGKLSLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001101397-NC_009138/1-110"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------------------MSTAPKSAP--------NQKIRIRLKAFDYRLID----QSALEIVETAKRTGAVVKGPVPLPTRIQRFDVLRSPHVNKTSRDQFEIRTHVRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001252261-NC_009494/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSS-----NQNIKIRLKSFDHRLID----LSTREIVDTAKRTGAQIRGPIPLPIRKEKFTVLTSPHVNKDARDQYELRTHKRLVVIVHPTEKT---VDALMKLDLA----AGVDVQISLDD-------"
+}
+
+{
+name    "NP_811640-NC_004663/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDHNLVD----KSAEKIVRTVKATGAIVSGPIPLPTHKRIFTVNRSTFVNKKSREQFELSSYKRLIDIYSSTAKT---VDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_292266-NC_007335/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADTTAASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_729612-NC_008319/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADNTAATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_001409154-NC_009715/1-126"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------MILCEACLCEEVASLRQVLFKGKTMER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADVRGPVPMPTKIKRYTVLKSPHINKDSREQFEMRIHARMLDIVAATPET---VDSLTKLDLA----PEVNVEVRAMK-------"
+}
+
+{
+name    "YP_062855-NC_006087/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKSYDHAGLD----TSARKIVDTVTRAGATVVGPVPLPTEKNVVCVIRSPHKYKDSREHFEMRTHKRLIDIVDPTPKA---VDSLMRLDLP----ADVNIEIKL---------"
+}
+
+{
+name    "YP_968718-NC_008752/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MS--------KQKIRIRLKAFDYKLID----QSAAEIVDTAKRTGAIVKGPVPLPTRMKRFDILRSPHVNKTSRDQFEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_802889-NC_008513/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDYRLID----QSTLEIVNTAKRTGAKVLGPIPLPTRKERFTILVSPHVNKDARDQYEIRTHKRLIDIVQPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_991605-NC_005810/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_001171322-NC_009434/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQQIRIRLKAFDHRLID----QSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLVSPHVNKDARDQYEIRTHKRVLDIVQPTDKT---VDALMKLDLA----AGVEVQISLG--------"
+}
+
+{
+name    "YP_671290-NC_008253/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_302266-NC_002677/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEAID----ASARKIVETVVRTGANVVGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDALMRIDLP----ASVDVNIQ----------"
+}
+
+{
+name    "YP_761530-NC_008358/1-106"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------RQNIRIRLKAFDHRALD----MSAKEIVNTAKRTGAEVRGPVPLPTRIERFTVNRSPHIDKKSREQFEIRTHTRILDIVDPTPQT---VDALMKLDLS----SGVGIEIKLEGAR-----"
+}
+
+{
+name    "NP_606376-NC_003485/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAEKIVETATRTGATVAGPVPLPTERSLYTIIRATHKYKDSREQFEMRTHKRLVDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_142263-NC_006449/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------KKIRIRLKAYEHRTLD----TAAGKIVENATRTGATVAGPVPLSTERSLYTIIRATHKYKDSREQFEMRTHKRLIDIINPTQKT---VDALMKLDLP----SGVNVEIKL---------"
+}
+
+{
+name    "YP_001489685-NC_009850/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVASIVEAVKRTGADLRGPIPLPTKIRRYTVIKGPHVNKDSREQFEIRVHSRIIDIIVATPET---VDSLMKLDLA----PEVDVEVRSMGQE-----"
+}
+
+{
+name    "YP_001160732-NC_009380/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAG------QKIRIRLKAYDHEVVD----SSARKIVETVTRTGAQVAGPVPLPTEINRFCVIRSPHKYKDSREHFEMRTHKRLIDIIDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_812444-NC_008529/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------EKIRIRLKSYEHSILD----ESGAKIVDTAKRTGAEISGPVPLPTERTLFTVLRSPHKNKDSREQFEMRTHKRLIDILNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_409631-NC_007613/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_994457-NC_008785/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_001510300-NC_009921/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAA------QKIRIRLKAYDHEVID----SSARKIVETVTRTGAQVAGPVPLPTEKNVYCVIRSPHKYKDSREHFEMRTHKRLIDILDPTPKT---VDSLMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "NP_218627-NC_000919/1-102"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MAR-------ERIRVKLCGFDVELVD----QSSRAIVHAVQKAGAEVLGPIPLPTRMHKFTVLRSPHVNKKSREQFEMRTHKRLIDIIEPSQEV---MNALMGLELS----AGVDVRIKQ---------"
+}
+
+{
+name    "NP_282983-NC_003116/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MA--------NQKIRIRLKAYDYALID----RSAQEIVETAKRTGAVVKGPIPLPTKIERFNILRSPHVNKTSREQLEIRTHLRLMDIVDWTDKT---TDALMKLDLP----AGVDVEIKVQ--------"
+}
+
+{
+name    "YP_001244881-NC_009486/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MPG------QKIRIKLKAYDHELLD----ESAKKIVEVAKSTNSKVSGPIPLPTERTLYCVLRSPMKHKDSREHFEKRVHKRLIDIIDPSPKT---IDALMRINLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_912836-NC_008639/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------MAAQQKIRIKLKSYDHSLVD----KWALRIIDVVKQTDAIIFGPIPLPTKAHVYTVNRSPHVDKKSREQFSFSSHKRLIEIINPTSRT---IDMLMKLELP----SGVDVEIKS---------"
+}
+
+{
+name    "YP_628006-NC_008086/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVVAIVEAVKRSGSEIRGPIPLPTKNKRYTVLRSPHVNKDSREQFEIRVYSRLIDIISATPET---VDSLMKLDLA----PEVDVEVTSMETK-----"
+}
+
+{
+name    "NP_602462-NC_003454/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAS------NKLRIYLKAYDHTLLD----ESAKRIAESAKKSGAIVAGPMPLPTKIRKYTVLRSVHVNKDSREQFEMRVHRRMIELVNSTDKA---ISSLTSVHLP----AGVGIEIKQV--------"
+}
+
+{
+name    "YP_392801-NC_007575/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLKAYDHRVLD----RSVASIVEAVKRTGAVIRGPIPLPTKIRKYTVIKSPHVNKSSREQFEIRMHARVIDIVSATPET---VDSLMKLDLA----PEVDVEVRSMDK------"
+}
+
+{
+name    "YP_001002437-NC_008789/1-109"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATAAATQNQRIRIRLKAFDHRLID----QSAREIVDTAKRTGAHVCGPIPLPVKKERFTVLTSPHVNKDARDQYEIRTHKRLMDIIDPTDKT---VDALMKLDLA----AGVDVQIKLY--------"
+}
+
+{
+name    "YP_431286-NC_007644/1-102"
+type    "PROTEIN"
+sequence        "-MA------------------------------------------------------------------------R----------QKIRIRLKAFDHRVLD----QSSQKIVDTARRTGAVVSGPIPLPTEKNIFTILRSPHVNKDSREQFEMRTHKRLIDILEPTPKT---VDALMRLDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_612240-NC_008044/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------SQNIRIRLKAFDYRVLD----ASTQEIVNTAKRTGAQVRGPIPLPNKIEKFTVLRGPHVDKKSRDQFEIRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKLQS-------"
+}
+
+{
+name    "YP_443573-NC_007651/1-103"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------QQKIRIRLKAFDYRLID----QSAAEIVDTAKRTGAIVRGPVPLPTRIQRFDILRSPHVNKTSRDQLEIRTHQRLMDIVDPTDKT---VDALMKLDLP----AGVDVEIKLQ--------"
+}
+
+{
+name    "YP_303245-NC_007354/1-108"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MVT------QKIYIELKAFDSCLLD----RSARSIILTAKRSGARVNGPIFFPRKVMKFIVNRSTHVDKKSREQFEIRTHKRLISLPRANSTI---IQALMSLQLP----AGVDVKVKVIGGNNG---"
+}
+
+{
+name    "YP_001483186-NC_009839/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADIRGPIPMPTKIKRYTVLKSPHINKDSREQFEIRIHARMLDIVAATPDT---VDSLTKLDLA----PEVSVEVRAMGK------"
+}
+
+{
+name    "YP_001303728-NC_009615/1-101"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MS-------QKIRIKLKSYDYSLVD----KSAEKIVKTVKATGAIVSGPIPLPTHKRIFTVNRSTFVNKKSREQFELSSYKRLIDIYSSTAKT---VDALMKLELP----SGVEVEIKV---------"
+}
+
+{
+name    "YP_077399-NC_006270/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRILD----QSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQT---VDALMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001355693-NC_009662/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MEK--------IRLKLRAYDHRVLD----RSVSAIVEAVKRTGAEIRGPIPLPTKIRRYTVLRSPHINKDSREQFEIRIHSRLIDIVSATPDT---VDSLMKLDLA----PEVDVEVRSMGE------"
+}
+
+{
+name    "YP_001495827-NC_009883/1-105"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MKNK--------IKIRLKSFDHRSLD----QATKEIVSAVKRTFANISGPIPLPRKIQRFTVNRSPHVHIKSREQYEIRTQKRLLVIDDPNPVV---VDALSKVDLA----AGVDVVIELESGE-----"
+}
+
+{
+name    "NP_709109-NC_004337/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHLRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_326421-NC_002771/1-103"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------MKK----EKLAMKFKSFDHKLVD----DAVKKVLILASKEKIDYSGPIPLPTKREIFTILRSVHVNKKSREQFERRTYKRFIVFNN-PGPK--FVEILKRTEMP----AGVEVEFKVK--------"
+}
+
+{
+name    "YP_169373-NC_006570/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKERFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "NP_268257-NC_002662/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAT------KKIRIRLKAYEHRILD----AAAEKIVETAKRTNAEVSGPIPLPTDRSVYTVIRATHKYKDSREQFEMRTHKRLIDIIEPTQKT---VDSLMKLDLP----SGVNIEIKL---------"
+}
+
+{
+name    "YP_469196-NC_007761/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MN------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGASVRGPVPLPTRIEKFTVNRSPHIDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "YP_089241-NC_006300/1-122"
+type    "PROTEIN"
+sequence        "--------------------------------------------------------MKGDGVSFLLAKNYWSSG--LMQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_778666-NC_004556/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAD------QKIQIRLKAFDCRLID----RSAGEIVETAKRTGAHVRGPIPLPTKIERCTILVSPHADKDARDQYETCTYKRVLYIVDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_196556-NC_006831/1-110"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MVMVT------QKIYIELKAFDSYLLD----RSARSIILTAKRSGARVNGPIFFPRRVAKFIVNRSTHVDKKSREQFEIRTHKRLISLPKANSTI---IQALMSLQLP----AGVDVKVKVIGGSNG---"
+}
+
+{
+name    "NP_532627-NC_003304/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MT------GQNIRIRLKAFDHRILD----ASTREIVSTAKRTGASVRGPVPLPTRIEKFTVNRSPHVDKKSREQFEMRTHKRLLDIVDPTPQT---VDALMKLDLA----AGVDVEIKL---------"
+}
+
+{
+name    "NP_420060-NC_002696/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MD------RQNIRIRLKAFDHRVLD----HSTREIVNTAKRTGATVRGPIPLPTLIEKFTVNRSPHVDKKSREQFEIRTHKRVLDIVDPTPQT---VDALMKLDLS----AGVDVEIKL---------"
+}
+
+{
+name    "YP_506156-NC_007798/1-103"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------------------MKKIRIKLKSFDSGILH----RSTKEIVMAAKRNGALVSGPIPLPTRVSRYTVNKSPHVDKKSREQFQLAVHKCLLELSSFNAHL---LSTFTNFQLP----AGVDISVEVRDE------"
+}
+
+{
+name    "YP_001052505-NC_009052/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_765380-NC_004461/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKIRIRLKAYDHRVID----QSAEKIVETAKRSGADVSGPIPLPTEKSVYTIIRAVHKYKDSREQFEQRTHKRLIDIVNPTPKT---VDALMGLNLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001091922-NC_009091/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MTASIA---QQKIRIRLKAFDRRMLD----LSCDKIIQTADTTSASAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYSPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "NP_842677-NC_003997/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------EKIRIRLKAYDHRILD----QSADKIVETAKRSGATVSGPIPLPTEKTVYTILRAVHKYKDSREQFEMRTHKRLIDIVSPTPQT---VDSLMRLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "YP_001161526-NC_009381/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_229301-NC_000853/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MPG------QKIRIKLKAYDHELLD----ESAKKIVEVAKSTNSKVSGPIPLPTERTLYCVLRSPMKHKDSREHFEKRVHKRLIDIIDPSPKT---IDALMRINLP----AGVDVEIKL---------"
+}
+
+{
+name    "YP_001605174-NC_010159/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_618521-NC_008054/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAN------EKIRIRLKSYEHSILD----ESGAKIVDTAKRTGAEISGPVPLPTERTLFTVLRSPHKNKDSREQFEMRTHKRLIDILNPTPKT---VDSLMKLDLP----SGVDIEIKL---------"
+}
+
+{
+name    "NP_682541-NC_004113/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAAL----QQKIRIRLKAFDHRLLD----TSCDRIVDTAKRTGASPVGPIPLPTRRRIYCVLRSPHVDKDSREHFETRTHCRILDIYQPSPKT---IDALIKLDLP----AGVDIEVKL---------"
+}
+
+{
+name    "YP_001291331-NC_009566/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKAFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "NP_895610-NC_005071/1-106"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------MSTAIA---QQKIRIRLKAFDRRMLD----LSCDKIIETADNTAATAIGPIPLPTKRKIYCVLCSPHVDKDSREHFETRTHRRIIDIYNPSAKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_361119-NC_007503/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MNK------QKIRIKLKAFEHTILD----QSAAKIVETAKRTGASVSGPIPLPTERSLYTVLRSPHIDKDSREQFELKVHKRLIDIIDPTPKT---IDALMRIDLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_001434078-NC_009767/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MAK------QKVRIRLKAYDHKILD----QSARQIVEAAERTGALVAGPVPLPTKIEKYSVIRSPFIDKDSQEQFEIRTHKRLIDVLDPSQQT---INALMKLNLP----AGVDIEIKL---------"
+}
+
+{
+name    "YP_496526-NC_007794/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------ME------AQNIRIRLKAFDHRVLD----QATGEIADTARRTGALIRGPIPLPTRIEKFCVNRGPHIDKKSREQFEVRTYKRLLDIVQPNAAT---VDALMKLDLA----AGVNVEIKLA--------"
+}
+
+{
+name    "YP_452417-NC_007705/1-104"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MSEK-----QKIRIRLKAFDHRLID----RWASEIVETAKRTGAQVRGPIPLPTKIERYTILVSPHADKDARDQYETRTHKRVLDIVDPNDKT---VDALMKLELA----AGVDVQIKLT--------"
+}
+
+{
+name    "YP_001364429-NC_009665/1-103"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MQ------NQRIRIRLKGFDHRLID----QSTAEIVETAKRTGAQVRGPIPLPTRKERYTILISPHVNKDARDQYELRTHKRLVDIVEPTEKT---VDALMRLDLA----AGVDVQISLG--------"
+}
+
+{
+name    "YP_605332-NC_008025/1-107"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MVA------PKIRIKLRGFDHKALD----QSASKIVDTVRRTGADVSGPVPLPTRIRRFTVLRSPFKYKDSREHFEIRTHNRLVDIMNPTKKT---IDSLMTLDLP----TGVDIEIKTVGGRA----"
+}
+
+{
+name    "YP_007205-NC_005861/1-111"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------MAKQEKQPKSA----RQKIRIRLKGYDQRLLD----RSTGDIVETAKRTGAAIAGPIPLPTSCEKFTVLRSPNIDRKSREQFEIRTHRRLIDILNPTSKT---IDALKTLTLP----AGVDIKIKA---------"
+}
+
+{
+name    "YP_321805-NC_007413/1-105"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MATLQ---QQKIRIRLQAFDRRLLD----TSCEKIVDTANRTNATAIGPIPLPTKRKIYCVLRSPHVDKDSREHFETRTHRRIIDIYQPSSKT---IDALMKLDLP----SGVDIEVKL---------"
+}
+
+{
+name    "YP_001467721-NC_009802/1-112"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------MRQVLFKGKHMER--------IRLKLKAYDHRVLD----RTVAAIVEAVKRTGADVRGPVPMPTKIKRYTVLKSPHINKDSREQFEMRIHARMLDIVAATPET---VDSLTKLDLA----PEVNVEVRAMK-------"
+}
+
+{
+name    "YP_001122557-NC_009257/1-105"
+type    "PROTEIN"
+sequence        "-------------------------------------------------------------------------M--AIN------NQRIRIRLKAFDHKLID----ISTQEIVDTAKKTGAQVKGPIPLPVRKERFTILISPHVNKKARDQYEIRTHKRLIDIVEPTDKT---VDALMKLDLA----SGVDVQISLS--------"
+}
+
+{
+name    "YP_631498-NC_008095/1-102"
+type    "PROTEIN"
+sequence        "-----------------------------------------------------------------------------MA-T-----QKIRIRLKAYDSKLLD----QSAGEIVETAKRTGAKVAGPIPLPTRINKFTVLRSPHVDKKSREQFEIRTHKRLLDILEPTQQT---LDALMKLDLS----AGVDVEIKS---------"
+}
+
+{
+name    "YP_380146-NC_007514/1-103"
+type    "PROTEIN"
+sequence        "----------------------------------------------------------------------------------MAVQQKIRIKLKSYDHSLVD----KWALRIIDVVKQTDAIIFGPIPLPTKSHVYTVNRSPHVDKKSREQFSFSSHKRLIEIMNPTSRT---IDMLMKLELP----SGVDVEIKS---------"
+}
+
+{
+name    "YP_411465-NC_007614/1-102"
+type    "PROTEIN"
+sequence        "---------------------------------------------------------------------------MQ--------SQKIRIRLKAFDYRLID----KSALEIVETAKRTGAVVKGPVPLPTRIERFDVLRSPHVNKTSRDQFEIRTHLRLMDIMDPTDKT---VDALMKLDLP----AGVDVEIKL---------"
+}
+
+{
+name    "MASK_strict"
+type    "MASK"
+sequence        "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111110000111111111111111111111111111111111111111111111111111111111111111100011111111110000111111111000000000"
+}
+
+{
+name    "MASK_relax"
+type    "MASK"
+sequence        "0000000000000000000000000000000000000000000000000000000000000000000000000000011100000111111111111111110000111111111111111111111111111111111111111111111111111111111111111100011111111110000111111111100000000"
+}
