@@ -14,7 +14,8 @@ Linux OS (kernel version 2.6 or later)
 The following software is required by the AMPHORA package. They need to be downloaded and installed separately from AMPHORA. 
 1. Perl 5.8.8 or later (www.perl.org) 
 2. Bioperl core package 1.5.2 or later  (www.bioperl.org) 
-3. HMMER (hmmer.janelia.org) 4. WU BLAST (blast.wustl.edu)
+3. HMMER (hmmer.janelia.org) 
+4. WU BLAST (blast.wustl.edu)
 
 The following software is included in the AMPHORA distribution. Their source codes have been slightly modified to suit the needs of AMPHORA. 
 1. seqboot (evolution.genetics.washington.edu/phylip) 
@@ -32,12 +33,10 @@ AMPHORA is distributed in the hope that it will be useful, but WITHOUT ANY WARRA
 
 INSTALLATION
 ============================================================== 
-1. Download the AMPHORA package AMPHORA.tar.gz from http://bobcat.genomecenter.ucdavis.edu/AMPHORA/download.html
-
-2. Unpack the package 
+1. Unpack the package 
  tar -xzvf AMPHORA.tar.gz
 
-3. Install AMPHORA to a user specified directory. Make sure you have write permission to the directory.
+2. Install AMPHORA to a user specified directory. Make sure you have write permission to the directory.
  cd AMPHORA 
  perl INSTALL.pl -AMPHORA_home user-specified-directory -Bioperl_home path-to-bioperl
 
