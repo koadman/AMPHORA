@@ -76,9 +76,9 @@ while (<IN>) {
 my $treeio = new Bio::TreeIO ('-file'=>$treefile);
 my $tree = $treeio->next_tree();
 $tree = root_tree($tree) if $unrooted;
-my ($query_id) = ($treefile =~ /([^\.]+)\.tre/);
+my ($query_id) = ($treefile =~ /(^.+)\.tre/);
 my ($outgroup,$outgroup_bootstrap, $lca, $bootstrap) = ();
-my $query =$tree->findnode_by_id($query_id);
+my $query =$tree->find_node(-id => $query_id);
 die "$query_id\tNo query in the tree" unless $query;
 
 my ($node, $dist, $topology_assign, $dist_assign) = ();		# toplogy_assign: taxonomy assignment using only topology

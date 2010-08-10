@@ -38,8 +38,8 @@ read_marker_hmms();
 system ("cp $ARGV[0] $$.query");
 
 # Blastp search
-system ("BLASTP_path/setdb $$.query >&/dev/null");
-system("BLASTP_path/blastp $$.query $AMPHORA_home/Marker/markers.fas -E=0.1 -V=50000 -B=50000 -seqtest -Z=5000> $$.blastp");
+system ("BLASTP_path/formatdb -i $$.query -p T -o F >&/dev/null");
+system("BLASTP_path/blastall -p blastp -d $$.query -i $AMPHORA_home/Marker/markers.fas -a 8 -e=0.1 -v=50000 -b=50000  -z=5000> $$.blastp");
 get_blast_hits();
 
 # HMM search

@@ -56,7 +56,7 @@ my $node = $tree->get_root_node();
 my @children = $node->each_Descendent;
 climb($children[0], $children[1]);
 
-$treeio = new Bio::TreeIO('-fh'=>*STDOUT,'-format'=>'newick');
+$treeio = new Bio::TreeIO('-fh'=>\*STDOUT,'-format'=>'newick');
 $treeio->write_tree($tree);
 
 sub read_distance_file {
